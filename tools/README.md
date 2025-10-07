@@ -34,7 +34,75 @@ streamlit run tools/annotate_streamlit.py
 - **Outcomes**: complications with type, severity, and intervention
 - **PHI Spans**: character positions of PHI elements
 
-### 2. PHI Synthesizer (`phi_synthesizer.py`)
+### 2. Cross-Platform Setup (`setup_wsl.sh`)
+
+One-time setup script for WSL environment.
+
+**Usage:**
+```bash
+# In WSL terminal
+curl -sSL https://raw.githubusercontent.com/russellmiller49/Test_reg/main/tools/setup_wsl.sh | bash
+```
+
+**Features:**
+- Installs Python, pip, and git
+- Creates virtual environment
+- Installs all dependencies
+- Clones repository if needed
+- Verifies installation
+
+### 3. Quick Start (`start_annotation.sh`)
+
+Quick start script for annotation tool.
+
+**Usage:**
+```bash
+cd Test_reg
+./tools/start_annotation.sh
+```
+
+**Features:**
+- Activates virtual environment
+- Checks dependencies
+- Starts Streamlit annotation tool
+- Shows access URL
+
+### 4. Annotation Sync (`sync_annotations.py`)
+
+Cross-platform annotation synchronization utility.
+
+**Usage:**
+```bash
+python tools/sync_annotations.py --stats    # Show progress
+python tools/sync_annotations.py --sync     # Push annotations
+python tools/sync_annotations.py --pull     # Pull latest
+python tools/sync_annotations.py --status   # Check git status
+```
+
+**Features:**
+- Shows annotation progress statistics
+- Syncs annotations to/from GitHub
+- Checks git status
+- Handles cross-platform workflow
+
+### 5. Annotation Validation (`validate_annotations.py`)
+
+Validates annotation quality and completeness.
+
+**Usage:**
+```bash
+python tools/validate_annotations.py           # Basic validation
+python tools/validate_annotations.py --detailed # Detailed analysis
+python tools/validate_annotations.py --fix      # Show common fixes
+```
+
+**Features:**
+- Validates annotation format and content
+- Checks for missing or invalid fields
+- Analyzes annotation patterns
+- Suggests fixes for common issues
+
+### 6. PHI Synthesizer (`phi_synthesizer.py`)
 
 Replaces real PHI with synthetic data while preserving clinical content.
 
