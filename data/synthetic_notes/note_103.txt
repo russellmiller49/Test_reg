@@ -1,0 +1,32 @@
+Patient: Brian Foster
+MRN: 6927483
+Date of Procedure: December 7, 2016
+
+Preoperative Diagnosis: Lung mass with left mainstem obstruction
+Postoperative Diagnosis: Malignant mixed intrinsic and extrinsic airway obstruction
+Procedure Performed: Rigid bronchoscopy
+
+Surgeon: Daniel Carter, MD
+Assistant: Monica Taylor, MD
+Indications: Left mainstem obstruction
+Consent: Consent was obtained from the patient prior to procedure after explanation in lay terms the indications, details of procedure, and potential risks and alternatives. The patient acknowledged and gave consent.
+Sedation: General Anesthesia
+
+Description of Procedure:
+The procedure was performed in the main operating room. A 7.0 ETT was placed by anesthesia followed by OG tube to decompress the stomach. The ETT was then removed and a 12 mm ventilating rigid bronchoscope was subsequently inserted into the mid trachea and attached to the jet ventilator. The rigid optic was then removed and the flexible bronchoscope was inserted through the rigid bronchoscope.
+
+On initial bronchoscopic inspection, there was mild bleeding and airway trauma noted in the distal trachea likely secondary to trauma from ETT placement. The posterior and left wall of the distal trachea had obvious submucosal tumor infiltration. The left mainstem bronchus was completely obstructed by endoluminal tumor and the tumor involved the main carina with a mild degree of tumor ingrowth into the right mainstem but without obstruction.
+
+At this point, the EBUS bronchoscope was inserted through the rigid bronchoscope and the subcarinal mass was identified with ultrasound. Six biopsies were performed with the 22G EBUS TBNA needle. We then directed our attention to the left mainstem. Through the use of a combination of APC, rigid electrocautery, cryotherapy, and forceps, we were able to slowly debulk the tumor within the left mainstem and visualize an opening into the distal left mainstem. An ultrathin bronchoscope was advanced through the opening and purulent material was expressed from the distal airways from her post-obstructive pneumonia. We were able to visualize the secondary carinas within the left upper lobe and there was no obvious tumor seen. The left lower lobe was visualized, but we were unable to adequately debulk the tumor overlying this area to confirm distal patency.
+
+Subsequently, the left mainstem bronchus was dilated with an 8-9-10 CRE balloon with approximately 50% improvement in luminal patency in the left mainstem, which allowed introduction of the therapeutic bronchoscope. At this point, the infiltrating friable areas of tumor within the left mainstem, distal trachea, and main carina were painted with argon plasma coagulation for hemostasis. Once we were satisfied that there was no active bleeding, the rigid bronchoscope was removed and the procedure was completed.
+
+Recommendations:
+• Await tissue diagnosis
+• ASAP radiation oncology consultation for treatment of the left mainstem to attempt to prevent recurrent obstruction
+• If patient develops significant hemoptysis post-procedure, would perform bronchoscopic intubation of the right mainstem to protect functional lung
+• If obstruction recurs despite radiation therapy, will likely require repeat rigid bronchoscopy with placement of silicone Y-stent
+
+Daniel Carter, MD
+
+________________________________________

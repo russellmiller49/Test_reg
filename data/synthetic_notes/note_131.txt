@@ -1,0 +1,25 @@
+===============================================================================
+Patient: Angela Davis
+MR Number: KP-9274-B
+D.O.B.: 05/12/1970
+
+Indication: Evaluation of LLL infiltrate, r/o endobronchial lesion
+
+Topical anesthesia only: Nebulized lidocaine 4% + transtracheal 2% injection
+Patient awake and cooperative, Ramsay 1-2
+
+Findings:
+- Upper airways normal
+- Carina sharp, mobile
+- RUL/RML/RLL - all subsegments examined, normal
+- LUL - normal
+- LLL - moderate erythema and edema of basilar segments, no endobronchial lesion
+
+Samples obtained from LLL:
+- BAL ×3 (50cc aliquots) sent for bacterial cx, fungal cx, viral PCR, cytology
+- Brush cytology ×2 from affected area
+- Transbronchial biopsies not performed (patient preference)
+
+Systematic airway inspection: 100% of accessible airways examined and documented
+
+No complications. Procedure time 18 minutes. Patient discharged after brief recovery.

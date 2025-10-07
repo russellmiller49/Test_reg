@@ -1,0 +1,32 @@
+Patient: Emily Richardson
+MRN: 5183947
+Date: April 8, 2022
+
+Preoperative Diagnosis: Respiratory failure secondary to extrinsic tracheal compression
+Postoperative Diagnosis: Extrinsic tracheal compression s/p airway stent placement
+Procedure Performed: Rigid bronchoscopy, Silicone Y-stent placement, bronchoscopic intubation
+
+Surgeon: Laura Bennett, MD
+Indications: Severe extrinsic tracheal compression
+Consent: Consent was obtained from the patient's family prior to procedure after explanation in lay terms the indications, details of procedure, and potential risks and alternatives.
+Sedation: General Anesthesia
+
+Description of Procedure:
+The procedure was performed in the main operating room. Once the patient was sedated, a flexible Q190 Olympus bronchoscope was inserted through the ETT into the trachea and airway inspection was performed. Beginning in the mid trachea, inflammation was seen within the airway walls extending into the bilateral mainstem with approximately 90% obstruction (at maximum) of the tracheal lumen most prominent in the mid trachea with less extensive obstruction extending to approximately 2 cm above the carina. There was no endobronchial tumor.
+
+We subsequently removed the flexible bronchoscope and after administration of paralytics, a 14 mm ventilating rigid bronchoscope was inserted through the mouth into the supraglottic space. The previously placed endotracheal tube was visualized passing through the vocal cords. Under direct visualization, the endotracheal tube was removed and the rigid bronchoscope was inserted through the vocal cords into the mid trachea and connected to ventilator. The Q190 Olympus flexible bronchoscope was then introduced through the rigid bronchoscope and into the airways.
+
+After measuring the airways, we customized a 16x13x13 silicone Y-stent to a length of 75 mm in the tracheal limb, 15 mm in the right mainstem limb, and 30 mm in the left mainstem limb. The rigid bronchoscope was then advanced into the left mainstem and the stent was deployed. Through the use of rigid forceps and manipulation with the tip of the flexible bronchoscope, we were able to adequately position the limbs within the proper airways, resulting in successful stabilization of the airway.
+
+At this point, inspection was performed to evaluate for any bleeding or other complications and none was seen. The rigid bronchoscope was then removed and an LMA was inserted. A repeat inspection was performed with the flexible bronchoscope and showed the stent well placed with near complete resolution of central airway obstruction. The bronchoscope was then removed and once the patient was awake and protecting airway, the LMA was removed and the procedure was complete.
+
+Post-procedure Diagnosis: Severe extrinsic tracheal compression s/p successful deployment of silicone tracheal Y-stent
+
+Recommendations:
+• Transfer to ICU
+• Obtain post-procedure CXR
+• TID hypertonic nebulizers to avoid mucous impaction and obstruction of stent
+
+Laura Bennett, MD
+
+________________________________________

@@ -1,0 +1,182 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bronchoscopy Procedure Submission",
+  "type": "object",
+  "required": ["schema_version", "facility_id", "operator_id_hash", "procedure_datetime_shifted", "procedure_type", "safety", "phi_attestation"],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Semantic version of this schema"
+    },
+    "facility_id": {
+      "type": "string",
+      "pattern": "^[A-Z0-9-]{3,20}$",
+      "description": "De-identified facility identifier"
+    },
+    "operator_id_hash": {
+      "type": "string",
+      "pattern": "^sha256:[a-f0-9]{64}$",
+      "description": "SHA-256 hash of operator identifier"
+    },
+    "procedure_datetime_shifted": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Procedure datetime shifted by facility-specific random offset"
+    },
+    "patient": {
+      "type": "object",
+      "properties": {
+        "age_years": {"type": "integer", "minimum": 0, "maximum": 120},
+        "sex": {"enum": ["female", "male", "unknown"]},
+        "smoking_status": {"enum": ["never", "current", "previous", "unknown"]},
+        "comorbidities": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "baseline_spirometry": {
+          "type": "object",
+          "properties": {
+            "fev1_pct_pred": {"type": "number", "minimum": 0, "maximum": 200},
+            "fvc_pct_pred": {"type": "number", "minimum": 0, "maximum": 200}
+          }
+        }
+      }
+    },
+    "procedure_type": {
+      "enum": ["diagnostic_flexible", "ebus_tbna", "navigation_bronchoscopy", "therapeutic_bronchoscopy"]
+    },
+    "anesthesia": {
+      "type": "object",
+      "properties": {
+        "mode": {"enum": ["local", "moderate_sedation", "deep_sedation", "general_anesthesia"]},
+        "ramsay_max": {"type": "integer", "minimum": 1, "maximum": 6},
+        "monitoring_intervals_min": {"enum": [5, 10, 15]},
+        "reversal_agents_used": {
+          "type": "array",
+          "items": {"enum": ["flumazenil", "naloxone"]}
+        }
+      }
+    },
+    "documentation": {
+      "type": "object",
+      "properties": {
+        "synoptic_report_used": {"type": "boolean"},
+        "safety_checklist_completed": {"type": "boolean"},
+        "photodoc_key_landmarks": {"type": "boolean"},
+        "systematic_airway_inspection_pct": {"type": "integer", "minimum": 0, "maximum": 100}
+      }
+    },
+    "ebus": {
+      "type": "object",
+      "properties": {
+        "staging_indication": {"type": "boolean"},
+        "systematic_sequence_used": {"type": "boolean"},
+        "photodoc_all_accessible_stations": {"type": "boolean"},
+        "stations_sampled": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["station", "size_mm", "passes"],
+            "properties": {
+              "station": {
+                "type": "string",
+                "pattern": "^(1|2R|2L|3|4R|4L|5|6|7|8|9|10[RL]|11[RL]|12[RL])$"
+              },
+              "size_mm": {"type": "integer", "minimum": 1, "maximum": 60},
+              "passes": {"type": "integer", "minimum": 1, "maximum": 10},
+              "rose_used": {"type": "boolean"},
+              "pet_positive": {"type": "boolean"}
+            }
+          }
+        },
+        "adequacy_all_nodes": {"type": "boolean"},
+        "molecular_success": {"type": "boolean"}
+      }
+    },
+    "navigation": {
+      "type": "object",
+      "properties": {
+        "tool_in_lesion_confirmed": {"type": "boolean"},
+        "localization_success": {"type": "boolean"},
+        "peripheral_nodule_diagnostic_yield": {"type": "boolean"},
+        "sampling_protocol_adherent": {"type": "boolean"}
+      }
+    },
+    "radiation": {
+      "type": "object",
+      "properties": {
+        "fluoro_time_min": {"type": "number", "minimum": 0},
+        "dap_cGy_cm2": {"type": "number", "minimum": 0}
+      }
+    },
+    "safety": {
+      "type": "object",
+      "required": ["complications"],
+      "properties": {
+        "complications": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["type", "severity"],
+            "properties": {
+              "type": {"enum": ["pneumothorax", "pneumomediastinum", "airway_bleeding", "infection", "hypoxia", "cardiac_event", "other"]},
+              "severity": {"enum": ["none", "mild", "moderate", "severe"]},
+              "intervention": {"type": "string"}
+            }
+          }
+        },
+        "escalation_of_care": {"type": "boolean"},
+        "procedure_related_mortality_30d": {"type": "boolean"}
+      }
+    },
+    "diagnostics": {
+      "type": "object",
+      "properties": {
+        "diagnostic_specific_result": {"type": "boolean"},
+        "path_category": {"enum": ["malignant", "benign_specific", "benign_non_specific", "nondiagnostic"]},
+        "molecular_profile_obtained": {"type": "boolean"}
+      }
+    },
+    "follow_up": {
+      "type": "object",
+      "properties": {
+        "readmission_30d": {"type": "boolean"},
+        "mortality_30d": {"type": "boolean"},
+        "stent_followup_bronch_done_4_6w": {"type": "boolean"}
+      }
+    },
+    "metrics_input": {
+      "type": "object",
+      "properties": {
+        "visible_mucosal_tumor_seen": {"type": "boolean"},
+        "time_to_diagnosis_days": {"type": "integer", "minimum": 0},
+        "door_to_scope_minutes": {"type": "integer", "minimum": 0}
+      }
+    },
+    "phi_attestation": {
+      "type": "object",
+      "required": ["version", "never_persisted", "orig_image_hash", "redacted_image_hash", "signature"],
+      "properties": {
+        "version": {"type": "string"},
+        "never_persisted": {"type": "boolean", "const": true},
+        "orig_image_hash": {"type": "string", "pattern": "^sha256:[a-f0-9]{64}$"},
+        "redacted_image_hash": {"type": "string", "pattern": "^sha256:[a-f0-9]{64}$"},
+        "redacted_regions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["x", "y", "w", "h"],
+            "properties": {
+              "x": {"type": "number"},
+              "y": {"type": "number"},
+              "w": {"type": "number"},
+              "h": {"type": "number"}
+            }
+          }
+        },
+        "signature": {"type": "string"}
+      }
+    }
+  }
+}

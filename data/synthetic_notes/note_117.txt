@@ -1,0 +1,44 @@
+PATIENT: Robert Johnson, 67-year-old Male
+MRN: 3692014
+INDICATION FOR OPERATION: Mr. Johnson is a 67-year-old male with a 2.8cm spiculated right lower lobe nodule discovered on screening CT. PET-avid with SUV 4.5. The nature, purpose, risks, benefits and alternatives to navigational bronchoscopy with cryobiopsy were discussed with the patient in detail. Patient indicated a wish to proceed and informed consent was signed.
+PREOPERATIVE DIAGNOSIS: Right lower lobe pulmonary nodule
+POSTOPERATIVE DIAGNOSIS: Same
+PROCEDURE: Electromagnetic Navigation Bronchoscopy (CPT 31627), Radial EBUS (CPT 31654), Transbronchial Cryobiopsy (CPT 31632), Endobronchial Blocker Placement
+ATTENDING: Dr. Patricia Williams
+ASSISTANT: Dr. David Lee, Fellow
+Support Staff:
+
+RN: Jessica Brown
+RT: Anthony Garcia
+
+ANESTHESIA: General anesthesia with endotracheal intubation
+MONITORING: Standard ASA monitoring
+INSTRUMENT: SuperDimension Navigation System, Olympus BF-1TH190 bronchoscope, 1.9mm cryoprobe, 7Fr Arndt endobronchial blocker
+ESTIMATED BLOOD LOSS: 30 mL
+COMPLICATIONS: None
+PROCEDURE IN DETAIL:
+After induction of general anesthesia and intubation with 8.0 ETT, a timeout was performed. All procedure related images were saved and archived.
+PATIENT POSITION: Supine
+Ventilation Parameters:
+
+Mode: Volume Control
+RR: 12
+TV: 500mL
+PEEP: 5 cmH2O
+FiO2: 40%
+Flow Rate: 50 L/min
+Pmean: 15 cmH2O
+
+Electromagnetic navigation bronchoscopy was performed using the SuperDimension system. CT scan from 9/10/2024 was loaded onto the planning station to generate 3D rendering. The navigational plan was reviewed and verified, then loaded into the navigation platform.
+EMN Registration: Automatic registration was used. Adequate airway landmark matching achieved at carina, right main carina, and RLL subsegmental bifurcations. Mean fiducial error: 4.2mm. Global alignment quality: excellent.
+The EMN catheter was advanced under navigational guidance to the target lesion in the lateral basal segment of the right lower lobe (RB9). Target lesion measured 2.8cm in diameter. Under navigational guidance, the catheter was advanced to 0.8cm from the planned target.
+Radial EBUS Survey: Performed to confirm nodule location. The following features were noted: Concentric pattern, heterogeneous echogenicity, lesion size 27mm, no large vessels visualized in the biopsy path.
+Transbronchial Cryobiopsy: After confirming absence of significant vessels at the biopsy site with radial EBUS, transbronchial cryobiopsy was performed using a 1.9mm cryoprobe. Freeze-thaw cycle: 6 seconds freeze, passive thaw. After each sample was obtained, the Arndt endobronchial blocker was positioned at the RLL ostium and inflated with 6cc of air for hemostasis. Total 4 samples were collected.
+After each biopsy, the blocker was maintained for 2 minutes, then deflated. Inspection showed minimal bleeding, which resolved spontaneously. Final inspection showed patent airways with no active bleeding.
+The patient tolerated the procedure well. There were no immediate complications. The attending, Dr. Williams, was present throughout the entire procedure.
+SPECIMEN(S):
+
+RLL cryobiopsy x4 (histology)
+Additional tissue for molecular testing
+
+IMPRESSION/PLAN: Mr. Johnson underwent successful navigational bronchoscopy with cryobiopsy of RLL nodule. Preliminary frozen section showed atypical cells, final pathology pending. Post-procedure CXR shows no pneumothorax. Patient to follow up in clinic in 1 week for pathology results.

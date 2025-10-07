@@ -1,0 +1,36 @@
+EMERGENCY BRONCHOSCOPY - HEMOPTYSIS
+10/23/24 - 02:35AM
+Pt: Marcus Johnson, 57M, MRN 1923847
+CALLED FOR: Massive hemoptysis, ICU bed 8
+Got called by ICU resident at 2am - patient with known left upper lobe cavitary lesion (likely TB vs fungal) started having massive hemoptysis, estimated 300cc bright red blood over 20 minutes. Oxygen sats dropping to high 80s. Already intubated by ICU team with 8.0 ETT.
+RUSHED TO BEDSIDE
+Arrived 02:15. Patient sedated on propofol/fent. Sats 91% on FiO2 100%, PEEP 10. Significant blood coming from ETT with suctioning.
+SCOPE FINDINGS:
+ETT in good position. Massive blood in trachea - suctioned approximately 50cc out just to see.
+RIGHT SIDE: Clean, no blood, all segments patent and normal
+LEFT SIDE: This is the source. Heavy bleeding coming from LUL. Can't see individual segments yet due to blood volume.
+INITIAL MEASURES:
+
+Iced saline lavage: 50cc aliquots x 4 = 200cc total through scope
+Some temporary improvement but bleeding continues
+Epi 1:10,000: 10cc instilled to LUL - minimal effect
+Tranexamic acid: 500mg in 50mL saline instilled via bronch - slight reduction
+
+BALLOON TAMPONADE:
+Blood still coming. Advanced 7Fr Fogarty balloon catheter to LUL orifice. Inflated with 6cc saline. IMMEDIATE cessation of blood flow. Good seal.
+Kept balloon inflated for 5 minutes. Deflated to check - slight oozing but much slower. Re-inflated for another 5 minutes.
+Second deflation - persistent slow oozing from what looks like lingula now that I can see better. Advanced balloon to lingular orifice. Inflated with 4cc. Held 3 minutes. Deflated - bleeding stopped.
+FINAL ASSESSMENT @ 03:15AM:
+After tamponade cycles, bleeding under control. Can now visualize - appears to be coming from anterior segment LUL and lingula. Mucosa very friable. Likely bleeding from cavitary lesion eroding into vessels.
+SPECIMENS: Blood sent for culture (TB, fungal)
+PLAN:
+
+ICU team notified - called IR for possible BAE (bronchial artery embolization)
+Keep intubated, sedate, minimize suctioning
+Reverse any coagulopathy (check labs)
+CTA chest to identify bleeding vessel
+IR consulted - agree with BAE plan, going to angio suite at 6am
+I'll be on standby if rebleeds before IR
+If rebleeds: will place endobronchial blocker to LUL for longer-term isolation
+
+UPDATE 03:45AM: Patient stable, no further bleeding currently. IR taking to angio suite. Will follow up later this AM.

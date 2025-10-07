@@ -1,0 +1,31 @@
+===============================================================================
+Patient: Jennifer Lee | MR# DK-8472-N | Birth Date: 09/11/1968
+
+Indication → Peripheral RLL nodule 22mm, solid, bronchus sign present on thin-cut CT
+
+Pre-procedure: Risk discussed including pneumothorax (3-5%), bleeding, nondiagnostic result
+
+Sedation → Moderate: Versed 3mg IV, Fentanyl 75mcg IV
+Patient responsive to verbal commands, Ramsay 2-3
+Monitoring: continuous SpO2, BP every 10 minutes
+
+Navigation Protocol:
+1. CT-to-body registration completed with electromagnetic system
+2. Virtual pathway planned to RLL superior segment
+3. Guide sheath advanced under combined EM navigation + fluoroscopic guidance
+4. Tool-in-lesion NOT initially confirmed - repositioned ×2
+5. Final radial probe position showed concentric EBUS pattern ✓
+6. Fluoro time: 6.8 minutes (longer due to repositioning)
+7. Dose area product: 245 cGy*cm²
+
+Sampling:
+- Aspiration needle ×3
+- Forceps biopsies ×4
+- Brush cytology ×2
+
+Protocol adherence: Yes - all planned sampling techniques utilized
+
+Post-procedure CXR: Small apical pneumothorax ~10%, patient asymptomatic
+Conservative management, observation ×4 hours, repeat CXR stable, discharged
+
+Complications: Mild pneumothorax (no intervention required)

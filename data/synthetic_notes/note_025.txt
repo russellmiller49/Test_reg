@@ -1,0 +1,70 @@
+Patient Name: Thompson, Lisa Marie Medical Record: 5562789 Date of Birth: 05/20/1982 Procedure Date: 04/05/2025
+Proceduralist: Dr. James Patterson Supervising Attending: Dr. James Patterson
+Fellow Physician: Dr. Rebecca Stone Nursing Staff: RN Maria Gonzalez, RT Kevin Brown
+INDICATION FOR PROCEDURE: 42-year-old female, non-smoker, with incidental finding of right hilar mass 4.5cm and mediastinal lymphadenopathy. Undergoing staging evaluation.
+PROCEDURE PERFORMED: Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA)
+CONSENT: Written informed consent obtained after detailed discussion
+ANESTHESIA/SEDATION:
+•	Topical: Lidocaine 4% to posterior pharynx, Lidocaine 2% via bronchoscope 20mL total
+•	IV Sedation: Midazolam 4mg, Fentanyl 100mcg, Propofol drip 75mcg/kg/min
+•	Monitoring: Continuous pulse oximetry, capnography, BP q5min, ECG
+EQUIPMENT: Olympus BF-UC180F EBUS bronchoscope
+PROCEDURE NARRATIVE: Time out performed confirming patient identity and procedure. EBUS bronchoscope advanced through oral cavity after adequate topical anesthesia achieved.
+Mediastinal ultrasound survey:
+•	Right paratracheal (Stn 2R): 14mm, normal architecture
+•	Right lower paratracheal (Stn 4R): 32mm, heterogeneous, loss of central echogenic hilum, SUSPICIOUS
+•	Left lower paratracheal (Stn 4L): 18mm, preserved hilum
+•	Subcarinal (Stn 7): 41mm, markedly enlarged, hypoechoic throughout, SUSPICIOUS
+•	Right hilar (Stn 10R): 16mm with abnormal echo pattern
+•	Right interlobar (Stn 11R): 19mm
+SAMPLING PROCEDURE: Station 7 (Subcarinal) - 41mm x 23mm → TBNA Pass #1 (22G): Good core, ROSE = adequate cellularity, abundant malignant cells → TBNA Pass #2 (22G): Confirming sample, ROSE = concordant → TBNA Pass #3 (22G): Additional tissue for molecular markers → TBNA Pass #4 (22G): Microbiology (sent for AFB, fungal, bacterial cultures)
+Station 4R - 32mm x 19mm
+→ TBNA Pass #1-3 (22G): ROSE = malignant cells identified, morphology similar to Station 7
+Station 10R - 16mm x 12mm → TBNA Pass #1-2 (22G): ROSE = atypical cells present
+Station 11R - 19mm x 11mm → TBNA Pass #1-2 (22G): ROSE = benign reactive lymphocytes
+No endobronchial lesions visualized. Airways patent bilaterally.
+COMPLICATIONS: None
+ESTIMATED BLOOD LOSS: <5mL
+SPECIMENS: Cytology specimens sent from stations 7, 4R, 10R, 11R. Cell blocks prepared. Tissue sent for flow cytometry and molecular analysis.
+ROSE INTERPRETATION: Dr. Amanda Foster, Cytopathology
+POST-PROCEDURE: Patient recovered without difficulty. Vital signs stable. Discharged to floor in good condition.
+IMPRESSION:
+1.	EBUS-TBNA successfully performed
+2.	Malignant cells identified in stations 7 and 4R, consistent with metastatic disease
+3.	N2 disease confirmed
+4.	Await final pathology for definitive cell type and molecular markers
+PLAN:
+•	Oncology consultation
+•	Multidisciplinary tumor board discussion
+•	Final pathology in 3-5 business days
+Electronically signed: Dr. James Patterson, 04/05/2025 15:47
+________________________________________
+EBUS
+PATIENT INFORMATION NAME: Anderson, Robert J ACCOUNT #: MR-883475
+DOB: 09/12/1948 DOS: 02/28/2025 LOCATION: IP Procedure Suite 3
+ATTENDING: Mitchell, Sandra DO FELLOW: None ANESTHESIA: Monitored Anesthesia Care - Dr. Thomas Wright
+============ PROCEDURE REPORT ============
+EXAM: EBUS with TBNA
+REASON: 76M with new diagnosis of lung adenocarcinoma RLL, staging of mediastinum
+TECHNIQUE: Patient positioned supine. After adequate conscious sedation achieved, EBUS bronchoscope was advanced through the oropharynx. Initial inspection of upper airway structures normal.
+Radial survey of mediastinum performed identifying multiple lymph node stations.
+LYMPH NODE MAPPING: Stn 2R: 11mm - normal appearance, not sampled Stn 4R: 24mm - round, heterogeneous echotexture
+Stn 4L: 16mm - oval with preserved hilum Stn 7: 38mm - large subcarinal node, hypoechoic, irregular contour Stn 10R: 13mm - mildly prominent Stn 11R: 21mm - abnormal echo pattern
+ASPIRATION DETAILS:
+STATION 7 (38x21mm) Needle Type: 22-gauge EBUS needle Pass 1 @ 0847: Visible tissue in needle hub, ROSE = ADEQUATE, MALIGNANT CELLS SEEN Pass 2 @ 0849: Additional specimen obtained Pass 3 @ 0851: Sample for molecular testing Pass 4 @ 0853: Microbiology specimen (AFB, fungal cultures) Elastography: Blue pattern (hard consistency)
+STATION 4R (24x15mm)
+Pass 1-3: ROSE = Atypical cells, cannot exclude malignancy
+STATION 11R (21x13mm) Pass 1-2: ROSE = Reactive lymphoid hyperplasia
+Bronchoscope withdrawn. Patient tolerated procedure well.
+Total procedure duration: 38 minutes Fluoroscopy time: 0 minutes (not used) Sedation medications: Versed 2mg, Fentanyl 50mcg, Propofol 140mg total
+COMPLICATIONS: None reported
+FINDINGS SUMMARY:
+•	N2 disease confirmed by ROSE cytology (Station 7)
+•	Station 4R with atypical cells requiring final pathology correlation
+•	Station 11R benign
+FINAL PATHOLOGY PENDING
+Dr. Sandra Mitchell, DO Interventional Pulmonology
+Signed electronically 02/28/2025 16:22
+________________________________________
+EBUS
+[MEDICAL CENTER HEADER] Procedure Report - Interventional Pulmonology

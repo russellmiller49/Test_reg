@@ -1,0 +1,54 @@
+===============================================================================
+BRONCHOSCOPY SAFETY CHECKLIST - COMPLETED
+
+PRE-PROCEDURE:
+☑ Patient identity verified (Name: Gregory Martinez, MRN: NN-7482-K, DOB: 03/22/1957)
+☑ Informed consent obtained and documented
+☑ NPO status confirmed (>8 hours)
+☑ Recent labs reviewed (platelets 245K, INR 1.0)
+☑ Imaging reviewed with team
+☑ Equipment check completed
+☑ Emergency medications available
+
+SEDATION:
+☑ ASA class documented (ASA II)
+☑ Difficult airway assessment (normal)
+☑ Monitoring: BP, SpO2, ECG connected
+☑ Supplemental O2 available
+☑ Reversal agents at bedside (flumazenil, naloxone)
+
+PROCEDURE (EBUS-TBNA):
+☑ Timeout performed
+☑ Systematic N3→N2→N1 evaluation
+☑ Station 4R (10mm): 4 passes, ROSE positive, PET+
+☑ Station 7 (16mm): 4 passes, ROSE positive, PET+
+☑ Station 11R (8mm): 3 passes, ROSE adequate
+☑ All accessible stations photographed
+☑ Molecular samples collected and labeled
+☑ ROSE adequacy confirmed all nodes
+☑ Specimens labeled correctly
+
+SEDATION RECORD:
+☑ Midazolam 3mg IV administered (T+0)
+☑ Fentanyl 100mcg IV administered (T+0)
+☑ Maximum Ramsay: 3
+☑ BP monitored every 5 minutes
+☑ SpO2 continuous (range: 95-98%)
+☑ No reversal agents required
+
+POST-PROCEDURE:
+☑ Patient awakened appropriately
+☑ Vital signs stable
+☑ No immediate complications
+☑ Recovery instructions provided
+☑ Follow-up appointment scheduled
+☑ Pathology tracking number: PATH-2024-10472
+
+COMPLICATIONS: ☐ Yes ☑ None
+
+QUALITY INDICATORS MET:
+☑ Staging sensitivity documented
+☑ Systematic evaluation performed
+☑ Photodocumentation complete
+☑ Adequate tissue for molecular testing
+☑ Safety checklist 100% complete

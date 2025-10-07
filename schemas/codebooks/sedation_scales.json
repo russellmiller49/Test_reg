@@ -1,0 +1,15 @@
+{
+  "ramsay_scale": {
+    "1": "Anxious, agitated, or restless",
+    "2": "Cooperative, oriented, tranquil",
+    "3": "Responds to commands only",
+    "4": "Brisk response to light glabellar tap or loud auditory stimulus",
+    "5": "Sluggish response to light glabellar tap or loud auditory stimulus",
+    "6": "No response to light glabellar tap or loud auditory stimulus"
+  },
+  "monitoring_intervals": {
+    "5": "Continuous SpO2, BP q5min (deep sedation)",
+    "10": "SpO2 continuous, BP q10min (moderate sedation)",
+    "15": "SpO2 continuous, BP q15min (minimal sedation)"
+  }
+}

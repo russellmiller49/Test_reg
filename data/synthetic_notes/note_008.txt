@@ -1,0 +1,30 @@
+===============================================================================
+PATIENT: HELEN GARCIA / ID: QR-8374-M / DATE OF BIRTH: 01/07/1958
+
+INDICATION: Mediastinal staging for LLL adenocarcinoma
+
+SEDATION: Moderate sedation protocol initiated
+Midazolam 4mg IV (given incrementally)
+Fentanyl 125mcg IV total dose
+Target Ramsay 3-4 achieved
+
+EBUS PROCEDURE:
+Systematic N3→N2→N1 evaluation
+
+- Station 4R (10mm): 4 passes, PET+, ROSE positive for metastatic adenocarcinoma
+- Station 7 (19mm): 4 passes, PET+, ROSE positive for metastatic adenocarcinoma
+- Station 10L (8mm): 3 passes, PET-, ROSE benign
+
+Molecular testing samples sent from both positive stations
+
+All accessible stations photographed prior to sampling ✓
+
+COMPLICATION: Post-procedure, patient remained overly sedated at 30 minutes
+Respiratory rate 8, sluggish to arouse
+FLUMAZENIL 0.2mg IV administered
+Immediate improvement in alertness, RR increased to 14
+Patient fully awake and oriented within 10 minutes of reversal
+
+No other complications. Prolonged monitoring in recovery, discharged after 3 hours.
+
+Reversal agents used: Flumazenil (benzodiazepine reversal)

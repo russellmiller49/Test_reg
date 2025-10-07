@@ -1,0 +1,14 @@
+===============================================================================
+Patient name is Patricia Nguyen medical record Uniform Uniform dash 8 4 7 2 dash Charlie date of birth February 3rd 1958.
+
+This is a 66-year-old female with a peripheral right lower lobe module (should be "nodule") measuring 14 mm on CT scan. The lesion has a positive bronchitis sign (should be "bronchus sign") and demonstrates moderately increased metabolic activity on pet scan (should be "PET scan") with an SUV of 3.7.
+
+The patient underwent electromagnetic navigation bronchoscopy under moderate sedation with medication (should specify "midazolam") 3 mg IV and phantom all (should be "fentanyl") 75 micrograms IV achieving a Ramsey (should be "Ramsay") score of 3.
+
+The electromagnetic navigation system was used with successful CT to body registration. The guide sheet (should be "sheath") was advanced to the right lower lobe superior segment and the radio (should be "radial") EBUS probe confirmed tool and lesion (should be "tool-in-lesion") position with a concentric pattern.
+
+Sampling included 3 needle aspirates, for forceps biopsies (should be "four"), and 2 brush cytology specimens. Total fluoroscopy time was 5.3 minutes with a dose area product of 189 centi-gray centimeters squared.
+
+There was minimal self-limited bleeding. Post procedure chest x-ray showed no new thorax (should be "pneumothorax"). Patient tolerated the procedure well and was discharged home in stable condition.
+
+Complications: None

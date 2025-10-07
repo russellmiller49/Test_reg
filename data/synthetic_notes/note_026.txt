@@ -1,0 +1,51 @@
+Patient: Davis, Christine | MRN: 4456821 | Age: 58 | Sex: F Date: 03/15/2025 | Time: 10:30 AM Provider: Lee, Jonathan MD (Attending) | Patel, Rahul MD (Fellow)
+PROCEDURE: EBUS-TBNA (CPT 31652, 31653)
+INDICATION: Mediastinal and hilar lymphadenopathy, r/o lymphoma vs sarcoidosis vs malignancy. Patient with constitutional symptoms including fevers, night sweats, 20lb weight loss over 3 months.
+INFORMED CONSENT: Risks, benefits, alternatives discussed. Patient verbalized understanding. Written consent obtained.
+PREPROCEDURE ASSESSMENT:
+•	ASA Class: II
+•	NPO Status: Confirmed >8 hours
+•	IV Access: 20G left forearm
+•	Allergies: NKDA
+•	Current Medications: Lisinopril, metformin
+•	Anticoagulation: None
+MONITORING: Standard ASA monitors plus capnography
+SEDATION: 0915 - Midazolam 2mg IV 0917 - Fentanyl 75mcg IV
+0920 - Propofol infusion initiated 50mcg/kg/min, titrated to effect (max 125mcg/kg/min) Total Propofol: 285mg
+TOPICAL ANESTHESIA: Lidocaine 4% spray to oropharynx x3 applications Lidocaine 2% instilled via working channel: 15mL total
+BRONCHOSCOPE: Fujifilm EB-530US (Ultrasound capable)
+==PROCEDURE DESCRIPTION==
+EBUS bronchoscope introduced via oral route. Vocal cords visualized, normal mobility. Trachea without masses or significant narrowing. Carina sharp.
+ULTRASOUND SURVEY FINDINGS:
+RIGHT PARATRACHEAL (2R): 9mm, normal hilum - NOT SAMPLED RIGHT LOWER PARATRACHEAL (4R): 31mm x 18mm, hypoechoic, loss of hilum LEFT LOWER PARATRACHEAL (4L): 27mm x 15mm, heterogeneous echotexture
+SUBCARINAL (7): 45mm x 28mm, MARKEDLY ENLARGED, diffusely hypoechoic RIGHT HILAR (10R): 14mm, mildly prominent LEFT HILAR (10L): 22mm, round, abnormal architecture RIGHT INTERLOBAR (11R): 18mm
+SAMPLING PERFORMED:
+[STATION 7 - SUBCARINAL] Dimensions: 45 x 28mm | Position: Between LMB and RMB Pass 1 (0932): 22G needle, suction applied, 20 excursions, excellent tissue visible ROSE: Adequate specimen, large atypical lymphoid cells, recommend flow cytometry Pass 2 (0934): Additional material for flow cytometry Pass 3 (0936): Cell block preparation
+Pass 4 (0938): Microbiology specimen sent for cultures Complications: None, minimal bleeding controlled with suction
+[STATION 4R] Dimensions: 31 x 18mm Pass 1-3 (0942-0946): ROSE: Atypical lymphoid proliferation, similar to Station 7
+[STATION 10L]
+Dimensions: 22 x 14mm Pass 1-2 (0949-0951): ROSE: Lymphoid cells present, flow recommended
+[STATION 11R] Dimensions: 18 x 11mm Pass 1-2 (0953-0955): ROSE: Benign reactive lymphoid tissue
+Bronchoscope withdrawn at 0958. Total procedure time: 43 minutes.
+SPECIMENS SUBMITTED:
+•	Cytology: Stations 7, 4R, 10L, 11R
+•	Flow cytometry: Stations 7, 4R, 10L
+•	Cell block: Station 7
+•	Microbiology: Station 7 (AFB, fungal, bacterial cultures)
+ESTIMATED BLOOD LOSS: <10mL
+COMPLICATIONS: None
+PATIENT TOLERANCE: Good, no desaturation episodes, hemodynamically stable throughout
+POST-PROCEDURE:
+•	Monitoring in recovery area
+•	Diet: NPO x 2hrs then advance as tolerated
+•	Activity: Bedrest x 2hrs
+•	F/U: Results discussed when final path available
+IMPRESSION: Successful EBUS-TBNA with sampling of multiple mediastinal lymph node stations. ROSE cytology demonstrates atypical lymphoid proliferation concerning for lymphoma. Flow cytometry and final pathology pending for definitive diagnosis.
+RECOMMENDATIONS:
+1.	Hematology/Oncology consultation
+2.	PET-CT for staging once diagnosis confirmed
+3.	Follow up in IP clinic in 1 week for pathology review
+________________________________________
+Jonathan Lee, MD Interventional Pulmonology Date/Time: 03/15/2025 11:15 Electronically Signed
+________________________________________
+EBUS

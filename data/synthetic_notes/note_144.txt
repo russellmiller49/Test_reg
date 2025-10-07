@@ -1,0 +1,232 @@
+OPERATIVE REPORT - DETAILED NARRATIVE
+PART 1: AIRWAY INTERVENTION (07:45 - 10:15)
+Patient brought to hybrid OR suite. After successful induction of general anesthesia, formal time-out performed with all team members present. Confirmed:
+
+Correct patient (ID band, verbal confirmation)
+Procedures planned (airway intervention, pericardial window, pleural catheter)
+Positioning (supine throughout)
+Antibiotic prophylaxis (Cefazolin 2g IV given)
+Steroid coverage (Dexamethasone 10mg IV given)
+Blood products available (2 units PRBCs typed and crossed)
+
+Initial orotracheal intubation performed by anesthesia with video laryngoscopy - 8.0mm ETT placed without difficulty. Position confirmed at 21cm at teeth with end-tidal CO2 and bilateral breath sounds. However, significantly diminished breath sounds on right side noted.
+Initial Flexible Bronchoscopy Survey:
+Olympus BF-1T180 therapeutic bronchoscope introduced through ETT. Findings:
+
+Supraglottic structures: Normal, no lesions
+Vocal cords: Mobile bilaterally, no masses
+Subglottis: Normal caliber, no stenosis
+Trachea: Patent, mild mucosal erythema, no significant secretions
+Carina: Widened, evidence of external compression from adenopathy
+Left main bronchus: Patent, some extrinsic compression but adequate luminal diameter
+LUL, Lingula, LLL: All segments visualized and patent
+Right main bronchus: CRITICAL FINDING - Near-complete obstruction beginning 1cm from carina. Large fungating tumor mass arising from anterior and lateral walls, extending 4cm distally. Approximately 90% obstruction. Friable, hemorrhagic appearance. Unable to pass bronchoscope beyond lesion. No visualization of RUL, RML, or RLL orifices.
+
+Decision: Proceed with rigid bronchoscopy for tumor debridement and airway restoration.
+Rigid Bronchoscopy Phase:
+Patient re-positioned with shoulder roll for neck extension. The 8.0mm ETT was removed. A Storz 13mm rigid bronchoscope (Model #8580C) was carefully introduced through the oral cavity under direct visualization using Weerda laryngoscope.
+Ventilation strategy: High-frequency jet ventilation (HFJV) via rigid scope side arm. Ventilator settings: Frequency 150/min, Driving pressure 2.0 bar, FiO2 1.0, I:E ratio 1:1.5. Good chest rise and end-tidal CO2 waveform confirmed adequate ventilation.
+The rigid scope was advanced through the vocal cords under direct visualization. The trachea was traversed without difficulty. The tumor mass in right mainstem bronchus was encountered.
+Mechanical Debridement:
+Using the beveled edge of the rigid bronchoscope as a core, the tumor was mechanically debrided with careful forward pressure and rotating motion. Multiple passes were required. Tumor tissue was extremely friable with significant bleeding encountered.
+Estimated tumor volume removed via coring: Approximately 20-25 cubic centimeters of tumor tissue
+Hemostasis Measures:
+As expected, bleeding was brisk during debulking. The following measures were employed:
+
+Iced saline lavage: 500mL total of iced normal saline instilled in 50-100mL aliquots, allowed to dwell 30-60 seconds, then suctioned. This provided temporary hemostasis.
+Topical epinephrine: 1:10,000 concentration, total 30mL instilled in divided doses to tumor bed. Significant reduction in bleeding achieved.
+Tranexamic acid: 1 gram in 100mL NS instilled topically (in addition to 1g IV given by anesthesia systemically). Further improvement in hemostasis.
+
+After approximately 30 minutes of mechanical debridement and hemostatic measures, adequate visualization of distal airways was achieved. The RUL, RML, and RLL orifices could be visualized, though tumor bulk remained on the airway walls.
+Electrocautery:
+Flexible bronchoscope (Olympus) passed through rigid barrel. Electrocautery probe advanced through working channel. Residual tumor tissue was cauterized using monopolar cautery at 40 watts in coagulation mode. FiO2 was reduced to 0.4 during cautery per safety protocol.
+Treatment areas: Anterior wall, lateral wall, and carina region of right mainstem bronchus
+Treatment time: Approximately 8 minutes total cautery time
+Effect: Tumor base cauterized, some reduction in tumor bulk, improved hemostasis
+Argon Plasma Coagulation:
+APC probe (ERBE VIO system) advanced through flexible scope. Settings: 40 watts, Argon flow 1.5 L/min, Pulsed mode.
+Treatment: Circumferential APC application to all visible tumor tissue in right mainstem bronchus. Particular attention to areas of residual bleeding.
+Duration: 6 minutes active APC time
+Result: Excellent hemostasis achieved, visible coagulation effect on tumor surface
+Assessment after debridement:
+Right mainstem bronchus now approximately 50% patent (improved from <10% pre-treatment). However, significant residual tumor bulk and malacia noted.
+Balloon Dilation:
+Boston Scientific CRE balloon catheter (12mm x 4cm) advanced over guidewire to stenotic segment under fluoroscopic guidance.
+Inflation sequence:
+
+First inflation: 12mm diameter x 60 seconds
+Second inflation: 12mm diameter x 60 seconds
+Third inflation: 14mm diameter x 90 seconds (maximum size)
+
+Fluoroscopy showed excellent balloon expansion across entire stenotic segment. Upon deflation, improved luminal diameter appreciated.
+Post-dilation assessment: Right mainstem bronchus now approximately 60-65% patent. However, given residual tumor bulk, malacia, and risk of rapid re-obstruction, decision made to place stent.
+Stent Placement:
+After discussion with anesthesia regarding patient stability (patient remained stable throughout), proceeded with metallic stent placement.
+Stent selected: Boston Scientific Ultraflex covered metallic stent, 14mm diameter x 60mm length
+Deployment technique:
+
+Stent advanced over guidewire under combined bronchoscopic and fluoroscopic guidance
+Positioned to span from 0.5cm distal to carina to mid-right mainstem bronchus
+Fluoroscopic confirmation of position in AP and lateral views
+Slow, controlled deployment under direct visualization
+Post-deployment balloon dilation of stent (12mm balloon) to ensure full stent expansion
+
+Post-stent assessment:
+Flexible bronchoscope passed through rigid scope and into stent lumen.
+Findings:
+
+Stent well-positioned, no migration
+Excellent apposition to airway walls
+RUL orifice: Fully visible through stent side mesh, patent
+RML orifice: Visible and patent
+RLL orifice: Visible and patent
+All segments of right lung now visualized for first time
+Significant amount of retained secretions in distal airways (expected due to chronic obstruction)
+
+Therapeutic Aspiration:
+Extensive suctioning and aspiration performed in all segments of right lung. Thick, purulent-appearing secretions removed from:
+
+Right upper lobe: Approximately 30mL
+Right middle lobe: Approximately 20mL
+Right lower lobe: Approximately 40mL
+
+Total secretions removed: ~90mL. Samples sent for culture.
+Final Airway Inspection:
+
+Trachea: Normal
+Left bronchial tree: Unchanged, patent
+Right main stem: Patent through stent, estimated 85-90% luminal patency (compared to pre-procedure ~10%)
+RUL, RML, RLL: All now patent with significant improvement in ventilation
+Minimal residual bleeding, hemostasis excellent
+
+Rigid bronchoscope removed. Patient re-intubated with 8.0mm ETT. Confirmation of ETT position with bronchoscopy and capnography. Bilateral breath sounds now audible (marked improvement in right-sided ventilation compared to pre-procedure).
+Airway Intervention Completed: 10:15 AM
+Estimated blood loss during airway phase: 200mL
+Specimens obtained: Tumor tissue (pathology), secretions (microbiology)
+
+PART 2: PERICARDIAL WINDOW (10:30 - 11:15)
+Patient repositioned with arms tucked. Subxiphoid area prepped and draped in sterile fashion by cardiothoracic surgery team. Interventional pulmonology team assisted.
+TEE probe inserted by anesthesia showed moderate-large circumferential pericardial effusion with RV diastolic collapse.
+Surgical technique (performed by CT surgery, Dr. Harrison):
+
+Subxiphoid incision, approximately 4cm
+Dissection carried down to pericardium
+Pericardium opened, approximately 4cm x 3cm window created
+Rush of 400mL of serosanguineous fluid
+Pericardial biopsy obtained (sent for pathology and cytology)
+No active bleeding from pericardial surface
+19Fr Blake drain left in pericardial space
+Drain secured to skin, connected to bulb suction
+
+TEE post-drainage: Complete resolution of pericardial effusion, no RV collapse, improved cardiac output.
+
+PART 3: PLEURAL CATHETER PLACEMENT (11:20 - 11:45)
+With patient still under general anesthesia, attention turned to right pleural effusion.
+Ultrasound examination (performed by IP team):
+
+Right hemithorax with moderate-large pleural effusion
+Estimated volume: 1000-1200mL
+Anechoic fluid, no loculations
+Compressed right lung (though now ventilating via stent)
+
+PleurX catheter placement:
+Standard tunneled technique as previously described. Entry site: 6th intercostal space, mid-axillary line. Exit site: 5cm anterior. Catheter advanced 15cm into pleural space.
+Initial drainage: 850mL of serosanguineous fluid removed (stopped at patient request earlier - she was waking up and uncomfortable).
+Chest tube secured with 2-0 nylon sutures. Occlusive dressing applied.
+
+PROCEDURE CONCLUSION
+All procedures completed successfully. Total operative time: 4 hours 15 minutes.
+Patient Status at Conclusion:
+
+Hemodynamically stable (MAP 78, HR 82)
+Improved oxygen saturation: 96% on FiO2 0.5 (compared to pre-procedure 88% on FiO2 1.0)
+TEE shows improved cardiac function
+Bilateral breath sounds now audible
+
+Patient kept intubated for transport to ICU given length of procedure and concern for post-obstructive pulmonary edema.
+Specimens Sent:
+
+Endobronchial tumor (histology)
+Bronchial secretions (bacterial, fungal, AFB cultures)
+Pericardial tissue (histology, cytology)
+Pericardial fluid (cytology, chemistry)
+Pleural fluid (cytology, chemistry, cell count)
+
+Estimated Total Blood Loss: 250mL
+Fluids Given: 2000mL crystalloid
+UOP: 400mL
+Complications: None intraoperatively
+
+POSTOPERATIVE DISPOSITION & PLAN
+Immediate (ICU):
+
+Extubate when fully awake and following commands (anticipated within 2-4 hours)
+Chest X-ray immediately post-procedure and daily x3 days
+Monitor pericardial drain output
+Pleural catheter to drain q3 days initially
+Continue broad-spectrum antibiotics (started on Pip-Tazo for post-obstructive pneumonia)
+DVT prophylaxis with heparin SQ
+PPI for stress ulcer prophylaxis
+Aggressive pulmonary toilet and incentive spirometry
+
+Short-term (Inpatient, 3-5 days):
+
+Remove pericardial drain when output <50mL/day
+Transition to floor when stable
+Continue PleurX catheter drainage
+Pain control
+Physical therapy for reconditioning
+
+Medium-term (1-2 weeks):
+
+Discharge with home health for PleurX catheter management
+Follow-up in IP clinic at 2 weeks with chest X-ray
+Discuss with oncology regarding re-initiation of systemic therapy now that dyspnea improved
+
+Long-term:
+
+Surveillance bronchoscopy at 6-8 weeks to assess stent
+Monitor for stent-related complications (migration, granulation, tumor in-growth)
+May need stent revision/exchange
+PleurX catheter to remain until auto-pleurodesis occurs or end of life
+
+
+ASSESSMENT & PROGNOSIS
+Mrs. Okafor presented with critical, multi-system involvement of metastatic lung cancer causing:
+
+Near-complete right mainstem bronchus obstruction → Successfully addressed with tumor debridement and stent
+Cardiac tamponade physiology → Successfully addressed with pericardial window
+Large pleural effusion → Successfully palliated with PleurX catheter
+
+All procedures were technically successful without intra-operative complications. The patient now has:
+
+Restored right lung ventilation (dramatic improvement from pre-procedure state)
+Resolution of cardiac compromise
+Control of pleural effusion
+
+Prognosis: Given stage IV disease, prognosis remains guarded with likely survival measured in months. However, these palliative interventions should significantly improve quality of life by reducing dyspnea and allowing potential resumption of systemic therapy.
+The patient and family understand this is palliative care aimed at symptom control rather than cure. They expressed gratitude for the interventions and understanding of the goals of care.
+
+ATTENDING PHYSICIAN STATEMENT
+I, David Kim, MD, was present and actively participating throughout the entire procedure. I performed the critical portions of the airway intervention including tumor debridement, cautery, stent placement, and final bronchoscopic assessment. I supervised Dr. Foster throughout the pleural catheter placement. I assisted the cardiothoracic surgery team during pericardial window creation.
+The procedure was medically necessary, technically indicated, and appropriately performed. Informed consent was obtained. The patient tolerated the procedure without immediate complications.
+Electronically Signed: David Kim, MD - 10/25/2024 13:05
+BRONCHOSCOPY 10/27/24
+Jackson Mary 82F #2145069
+Indication pneumonia not improving on abx, r/o endobronchial lesion
+Moderate sedation versed 2mg fent 75mcg
+Scope thru nose, lidocaine spray used
+Findings:
+Nose/pharynx ok
+Cords move normal
+Trachea normal
+R side all patent no lesions
+L side all patent no lesions
+Diffuse thick yellow secretions throughout both lungs
+BAL done LLL 100cc in 80cc out
+Sputum cultures sent
+No lesions seen
+Post bronch CXR no PTX
+Impression: No endobronchial cause for pneumonia, likely bacterial pneumonitis, cultures pending
+Plan: Continue abx, f/u cultures, repeat CXR 48h
+Dr. Smith

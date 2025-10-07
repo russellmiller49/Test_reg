@@ -1,0 +1,145 @@
+note_index,section,first_line,patient_line,char_len
+1,EBUS,===============================================================================,Patient: Robert Martinez  MRN: KL-847-92  DOB: 07/22/1958,1206
+2,EBUS,===============================================================================,"Patient: Linda Thompson, MRN: BC-9274, Born: 11/03/1963",942
+3,EBUS,===============================================================================,Pt: Michael Torres,1069
+4,EBUS,===============================================================================,Pt Name: Thomas Jackson,1074
+5,EBUS,===============================================================================,Name: George Martinez / MRN: ZZ-4829-Q / Birth: 07/19/1956,1075
+6,EBUS,===============================================================================,Patient: Susan Taylor | MRN BB-4827 | Birth: 08/30/1959,962
+7,EBUS,===============================================================================,PT NAME: BARBARA WILSON | MEDICAL RECORD: FG-8274 | D.O.B: 06/15/1967,1057
+8,EBUS,===============================================================================,PATIENT: HELEN GARCIA / ID: QR-8374-M / DATE OF BIRTH: 01/07/1958,1134
+9,EBUS,===============================================================================,"S: 71M with NSCLC, needs mediastinal staging before resection",615
+10,EBUS,===============================================================================,Pt: Frank Wilson / ID: CC-2947 / Birth: 07/30/1960,305
+11,EBUS,===============================================================================,PATIENT IDENTIFIERS (SYNTHETIC):,1544
+12,EBUS,===============================================================================,BRONCHOSCOPY SAFETY CHECKLIST - COMPLETED,1657
+13,EBUS,===============================================================================,BRONCHOSCOPY PROGRESS NOTE,106
+14,EBUS,Patient: Jennifer Wang | ID: RR-3847-P | Birth Date: 06/28/1963,Patient: Jennifer Wang | ID: RR-3847-P | Birth Date: 06/28/1963,2085
+15,EBUS,===============================================================================,"Pt: Michael ??? (looks like ""Foster""?)",863
+16,EBUS,===============================================================================,PROCEDURAL FLEXIBLE BRONCHOSCOPY WITH EBUS-TBNA,1026
+17,EBUS,===============================================================================,Case#: 2024-0847 | Pt: Sarah Miller | ID: HH-9482-L | DOB: 07/08/1959,409
+18,EBUS,===============================================================================,,1411
+19,EBUS,===============================================================================,Patient: Donald Martinez | MRN: TT-9482-L | DOB: 12/11/1956,639
+20,EBUS,PROCEDURE - TEACHING POINTS NOTED:,"PATIENT OUTCOME: Stable, discharged home",1230
+21,EBUS,"PATIENT: Martinez, Roberto","PATIENT: Martinez, Roberto",1336
+22,EBUS,INTERVENTIONAL PULMONOLOGY PROCEDURE NOTE,"Patient tolerated procedure well, transferred to recovery in stable condition.",1638
+23,EBUS,"PT: Williams, Marcus D | MRN: 7485920 | DOB: 11/08/1955 Service Date: 01/30/2025 Attending Physician: Rodriguez, Carmen MD Location: Bronchoscopy Suite, Main Hospital","PT: Williams, Marcus D | MRN: 7485920 | DOB: 11/08/1955 Service Date: 01/30/2025 Attending Physician: Rodriguez, Carmen MD Location: Bronchoscopy Suite, Main Hospital",166
+24,EBUS,EBUS-TBNA PROCEDURE REPORT,,1489
+25,EBUS,"Patient Name: Thompson, Lisa Marie Medical Record: 5562789 Date of Birth: 05/20/1982 Procedure Date: 04/05/2025","Patient Name: Thompson, Lisa Marie Medical Record: 5562789 Date of Birth: 05/20/1982 Procedure Date: 04/05/2025",5069
+26,EBUS,"Patient: Davis, Christine | MRN: 4456821 | Age: 58 | Sex: F Date: 03/15/2025 | Time: 10:30 AM Provider: Lee, Jonathan MD (Attending) | Patel, Rahul MD (Fellow)","Patient: Davis, Christine | MRN: 4456821 | Age: 58 | Sex: F Date: 03/15/2025 | Time: 10:30 AM Provider: Lee, Jonathan MD (Attending) | Patel, Rahul MD (Fellow)",3615
+27,EBUS,PROCEDURE NOTE,,14
+28,EBUS,"Pt: Brown, Michael | ID#: 9384756 | 03/28/2025","Pt: Brown, Michael | ID#: 9384756 | 03/28/2025",926
+29,EBUS,"NAME: Garcia, Maria Elena MRN: 7729384 AGE/SEX: 64/F","NAME: Garcia, Maria Elena MRN: 7729384 AGE/SEX: 64/F",3805
+30,EBUS,EBUS-TBNA REPORT,"Proceduralist: Dr. Adams, Katherine",844
+31,EBUS,BRONCHOSCOPY REPORT<<,BRONCHOSCOPY REPORT<<,21
+32,EBUS,"PT: Taylor, Jennifer L || MRN: 6638291 || Date: 02/08/2025","PT: Taylor, Jennifer L || MRN: 6638291 || Date: 02/08/2025",1523
+33,EBUS,"Patient: Moore, Christopher | ID: MR4729384 | Age: 72 | M Service Date: 03/05/2025 | Start Time: 0745 Physician: Dr. Patel, Anjali (Attending) | Dr. Kim, Susan (Fellow)","Patient: Moore, Christopher | ID: MR4729384 | Age: 72 | M Service Date: 03/05/2025 | Start Time: 0745 Physician: Dr. Patel, Anjali (Attending) | Dr. Kim, Susan (Fellow)",4381
+34,EBUS,IP PROCEDURE REPORT,,19
+35,EBUS,"Name: Rodriguez, Juan Carlos MR#: 2947385","Name: Rodriguez, Juan Carlos MR#: 2947385",9474
+36,EBUS,"PATIENT: Lewis, Andrew T RECORD: 3729485 SERVICE DATE: 02/15/2025","PATIENT: Lewis, Andrew T RECORD: 3729485 SERVICE DATE: 02/15/2025",1309
+37,EBUS,"PATIENT NAME: Henderson, Patricia Louise MEDICAL RECORD: 8473921 DATE OF BIRTH: 08/19/1963 (61 years old) PROCEDURE DATE: 03/23/2025 PROCEDURE TIME: 0900-0948","PATIENT NAME: Henderson, Patricia Louise MEDICAL RECORD: 8473921 DATE OF BIRTH: 08/19/1963 (61 years old) PROCEDURE DATE: 03/23/2025 PROCEDURE TIME: 0900-0948",9875
+38,EBUS,Bronch Report - EBUS,,20
+39,EBUS,"Patient: Cooper, Daniel | ID#: 6283947 | Date: 02/19/2025","Patient: Cooper, Daniel | ID#: 6283947 | Date: 02/19/2025",5342
+40,EBUS,QUICK BRONCH NOTE,,17
+41,EBUS,"PT: Mills, Robert E | MR 8463927 | 03/08/2025","PT: Mills, Robert E | MR 8463927 | 03/08/2025",17114
+42,EBUS,"PATIENT: Martinez, Roberto","PATIENT: Martinez, Roberto",1332
+43,EBUS,INTERVENTIONAL PULMONOLOGY PROCEDURE NOTE,"Patient tolerated procedure well, transferred to recovery in stable condition.",1633
+44,EBUS,"PT: Williams, Marcus D | MRN: 7485920 | DOB: 11/08/1955 Service Date: 01/30/2025 Attending Physician: Rodriguez, Carmen MD Location: Bronchoscopy Suite, Main Hospital","PT: Williams, Marcus D | MRN: 7485920 | DOB: 11/08/1955 Service Date: 01/30/2025 Attending Physician: Rodriguez, Carmen MD Location: Bronchoscopy Suite, Main Hospital",166
+45,EBUS,EBUS-TBNA PROCEDURE REPORT,,1485
+46,EBUS,"Patient Name: Thompson, Lisa Marie Medical Record: 5562789 Date of Birth: 05/20/1982 Procedure Date: 04/05/2025","Patient Name: Thompson, Lisa Marie Medical Record: 5562789 Date of Birth: 05/20/1982 Procedure Date: 04/05/2025",5061
+47,EBUS,"Patient: Davis, Christine | MRN: 4456821 | Age: 58 | Sex: F Date: 03/15/2025 | Time: 10:30 AM Provider: Lee, Jonathan MD (Attending) | Patel, Rahul MD (Fellow)","Patient: Davis, Christine | MRN: 4456821 | Age: 58 | Sex: F Date: 03/15/2025 | Time: 10:30 AM Provider: Lee, Jonathan MD (Attending) | Patel, Rahul MD (Fellow)",3610
+48,EBUS,PROCEDURE NOTE,,14
+49,EBUS,"Pt: Brown, Michael | ID#: 9384756 | 03/28/2025","Pt: Brown, Michael | ID#: 9384756 | 03/28/2025",922
+50,EBUS,"NAME: Garcia, Maria Elena MRN: 7729384 AGE/SEX: 64/F","NAME: Garcia, Maria Elena MRN: 7729384 AGE/SEX: 64/F",3802
+51,EBUS,EBUS-TBNA REPORT,"Proceduralist: Dr. Adams, Katherine",839
+52,EBUS,BRONCHOSCOPY REPORT<<,BRONCHOSCOPY REPORT<<,21
+53,EBUS,"PT: Taylor, Jennifer L || MRN: 6638291 || Date: 02/08/2025","PT: Taylor, Jennifer L || MRN: 6638291 || Date: 02/08/2025",1519
+54,EBUS,"Patient: Moore, Christopher | ID: MR4729384 | Age: 72 | M Service Date: 03/05/2025 | Start Time: 0745 Physician: Dr. Patel, Anjali (Attending) | Dr. Kim, Susan (Fellow)","Patient: Moore, Christopher | ID: MR4729384 | Age: 72 | M Service Date: 03/05/2025 | Start Time: 0745 Physician: Dr. Patel, Anjali (Attending) | Dr. Kim, Susan (Fellow)",4373
+55,EBUS,IP PROCEDURE REPORT,,19
+56,EBUS,"Name: Rodriguez, Juan Carlos MR#: 2947385","Name: Rodriguez, Juan Carlos MR#: 2947385",9466
+57,EBUS,"PATIENT: Lewis, Andrew T RECORD: 3729485 SERVICE DATE: 02/15/2025","PATIENT: Lewis, Andrew T RECORD: 3729485 SERVICE DATE: 02/15/2025",1305
+58,EBUS,"PATIENT NAME: Henderson, Patricia Louise MEDICAL RECORD: 8473921 DATE OF BIRTH: 08/19/1963 (61 years old) PROCEDURE DATE: 03/23/2025 PROCEDURE TIME: 0900-0948","PATIENT NAME: Henderson, Patricia Louise MEDICAL RECORD: 8473921 DATE OF BIRTH: 08/19/1963 (61 years old) PROCEDURE DATE: 03/23/2025 PROCEDURE TIME: 0900-0948",9870
+59,EBUS,Bronch Report - EBUS,,20
+60,EBUS,"Patient: Cooper, Daniel | ID#: 6283947 | Date: 02/19/2025","Patient: Cooper, Daniel | ID#: 6283947 | Date: 02/19/2025",5333
+61,EBUS,QUICK BRONCH NOTE,,17
+62,EBUS,"PT: Mills, Robert E | MR 8463927 | 03/08/2025","PT: Mills, Robert E | MR 8463927 | 03/08/2025",17010
+63,Peripheral Bronchoscopy,Patient Name: Rachel Anderson,Patient Name: Rachel Anderson,2559
+64,Peripheral Bronchoscopy,===============================================================================,"Patient awake, cooperative throughout (Ramsay 2)",1104
+65,Peripheral Bronchoscopy,===============================================================================,Patient: Jennifer Lee | MR# DK-8472-N | Birth Date: 09/11/1968,1263
+66,Peripheral Bronchoscopy,===============================================================================,PATIENT: KAREN WHITE | MED REC: PQ-5847 | DOB: 12/30/1962,1338
+67,Peripheral Bronchoscopy,===============================================================================,Name: Paul Anderson / MRN: XL-9284-P / Date of Birth: 11/22/1961,1113
+68,Peripheral Bronchoscopy,===============================================================================,PATIENT DATA,2511
+69,Peripheral Bronchoscopy,===============================================================================,Patient name is Patricia Nguyen medical record Uniform Uniform dash 8 4 7 2 dash Charlie date of birth February 3rd 1958.,1505
+70,Peripheral Bronchoscopy,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,,78
+71,Peripheral Bronchoscopy,"PATIENT: Michael Chang, 55-year-old Male","PATIENT: Michael Chang, 55-year-old Male",4698
+72,Peripheral Bronchoscopy,CRYO BIOPSY REPORT,,18
+73,Peripheral Bronchoscopy,"PT: Davis, K | 64F | #1701625","PT: Davis, K | 64F | #1701625",698
+74,Peripheral Bronchoscopy,"Patient Name: Thompson, Gerald K MRN: 4729381 DOB: 09/25/1962 Date: 03/17/2025","Patient Name: Thompson, Gerald K MRN: 4729381 DOB: 09/25/1962 Date: 03/17/2025",3901
+75,Peripheral Bronchoscopy,INTERVENTIONAL PULMONOLOGY OPERATIVE NOTE,,41
+76,Peripheral Bronchoscopy,"Patient: Thompson, Marcus A. | DOB: 07/29/1955 | MRN: 2938475","Patient: Thompson, Marcus A. | DOB: 07/29/1955 | MRN: 2938475",375
+77,Peripheral Bronchoscopy,PROCEDURE NOTE:,"Pt Name: Lee, Catherine Y. | Age: 72 | Sex: F",3873
+78,Peripheral Bronchoscopy,**OPERATIVE REPORT - ROBOTIC BRONCHOSCOPY**,"PATIENT: Rodriguez, Antonio M., 64M",3759
+79,Peripheral Bronchoscopy,**PULMONARY PROCEDURE NOTE**,"NAME: Patel, Anjali K.",5498
+80,Peripheral Bronchoscopy,PROCEDURE REPORT - ELECTROMAGNETIC NAVIGATION BRONCHOSCOPY,"Patient maintained spontaneous respirations throughout. No apnea episodes. O2 supplementation 4L NC, SpO2 93-98%.",19157
+81,Peripheral Bronchoscopy,Bronch Procedure Summary,"Pt: Anderson, David C. | 58M | MRN: 7392048",1059
+82,Combined EBUS and Peripheral Bronchoscopy,**INTERVENTIONAL PULMONOLOGY PROCEDURE REPORT**,"Name: Morrison, Elizabeth Anne",6263
+83,Combined EBUS and Peripheral Bronchoscopy,Patient Name: David Kim,Patient Name: David Kim,3599
+84,Combined EBUS and Peripheral Bronchoscopy,===============================================================================,Name: Sarah Chen | MRN# PX-2947-B | Birth: 03/09/1965,1077
+85,Combined EBUS and Peripheral Bronchoscopy,===============================================================================,PT: RICHARD BROWN | ID#: MD-8472-K | DOB: 03/27/1952,1424
+86,Combined EBUS and Peripheral Bronchoscopy,===============================================================================,Pt: Christopher Lee,1425
+87,Combined EBUS and Peripheral Bronchoscopy,===============================================================================,,113
+88,Combined EBUS and Peripheral Bronchoscopy,===============================================================================,,79
+89,Combined EBUS and Peripheral Bronchoscopy,===============================================================================,PATIENT DEMOGRAPHICS:,3174
+90,Combined EBUS and Peripheral Bronchoscopy,===============================================================================,BRONCHOSCOPY PROCEDURE NOTE,128
+91,Combined EBUS and Peripheral Bronchoscopy,Patient: ___Lisa Anderson___ MRN: ___BB-8472-K___ DOB: ___03/19/1961___,Patient: ___Lisa Anderson___ MRN: ___BB-8472-K___ DOB: ___03/19/1961___,1090
+92,Combined EBUS and Peripheral Bronchoscopy,===============================================================================,Name: James Wilson,1457
+93,Combined EBUS and Peripheral Bronchoscopy,BRONCHOSCOPY NOTE - COMBINED EBUS + EMN,BRONCHOSCOPY NOTE - COMBINED EBUS + EMN,4609
+94,Combined EBUS and Peripheral Bronchoscopy,**Procedure Documentation**,"Patient: Chen, Michelle Y., 71F, MRN 4829301",47359
+95,Combined EBUS and Peripheral Bronchoscopy,**Quick Bronch Summary Note**,"Pt: Jackson, Tyrone | 68M | MRN: 8463925",831
+96,Combined EBUS and Peripheral Bronchoscopy,**INTERVENTIONAL PULMONOLOGY CONSULT & PROCEDURE NOTE**,"PATIENT: Bennett, Sandra L. | 74F | MRN: 3847592",13242
+97,Therapeutic Bronchoscopy,Patient: Sarah Martinez,Patient: Sarah Martinez,4269
+98,Therapeutic Bronchoscopy,Patient Name: Michael Thompson,Patient Name: Michael Thompson,4153
+99,Therapeutic Bronchoscopy,Patient Name: Douglas Diaz,Patient Name: Douglas Diaz,6519
+100,Therapeutic Bronchoscopy,Patient Name: James Patterson,Patient Name: James Patterson,3323
+101,Therapeutic Bronchoscopy,Patient Name: Christopher Hayes,Patient Name: Christopher Hayes,3901
+102,Therapeutic Bronchoscopy,Patient: Emily Richardson,Patient: Emily Richardson,3045
+103,Therapeutic Bronchoscopy,Patient: Brian Foster,Patient: Brian Foster,3352
+104,Therapeutic Bronchoscopy,Patient Name: Lisa Morgan,Patient Name: Lisa Morgan,3618
+105,Therapeutic Bronchoscopy,===============================================================================,PT: James Wilson  ID: MRN-A92-555  D.O.B. 12/18/1952,1083
+106,Therapeutic Bronchoscopy,===============================================================================,Patient Name: Maria Rodriguez,954
+107,Therapeutic Bronchoscopy,===============================================================================,NAME: PATRICIA ANDERSON / ID#: MR-K8374 / D.O.B: 02/17/1957,1133
+108,Therapeutic Bronchoscopy,===============================================================================,Patient: Mark Thompson | MRN# TK-9472 | Born: 09/03/1964,1175
+109,Therapeutic Bronchoscopy,===============================================================================,,1878
+110,Therapeutic Bronchoscopy,===============================================================================,Patient: Sandra Lopez | MRN: TT-6849 | DOB: 12/05/1954,1324
+111,Therapeutic Bronchoscopy,===============================================================================,"PATIENT: Thompson, Andrew J.",1648
+112,Therapeutic Bronchoscopy,===============================================================================,,117
+113,Therapeutic Bronchoscopy,Pt: Barbara Kim | MR: PP-8473 | DOB: 06/30/1955 | AGE: 69,Pt: Barbara Kim | MR: PP-8473 | DOB: 06/30/1955 | AGE: 69,833
+114,Therapeutic Bronchoscopy,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,,81
+115,Therapeutic Bronchoscopy,"PATIENT: Sarah Martinez, 58-year-old Female","PATIENT: Sarah Martinez, 58-year-old Female",3095
+116,Therapeutic Bronchoscopy,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,,81
+117,Therapeutic Bronchoscopy,"PATIENT: Robert Johnson, 67-year-old Male","PATIENT: Robert Johnson, 67-year-old Male",3480
+118,Therapeutic Bronchoscopy,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,,81
+119,Therapeutic Bronchoscopy,"PATIENT: Linda Chen, 72-year-old Female","PATIENT: Linda Chen, 72-year-old Female",3619
+120,Therapeutic Bronchoscopy,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,,81
+121,Therapeutic Bronchoscopy,"PATIENT: Thomas Anderson, 61-year-old Male","PATIENT: Thomas Anderson, 61-year-old Male",3268
+122,Therapeutic Bronchoscopy,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,,81
+123,Therapeutic Bronchoscopy,"PATIENT: William Harris, 68-year-old Male","PATIENT: William Harris, 68-year-old Male",3573
+124,Therapeutic Bronchoscopy,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,,78
+125,Therapeutic Bronchoscopy,"PATIENT: Emma Thompson, 3-year-old Female","PATIENT: Emma Thompson, 3-year-old Female",3760
+126,Therapeutic Bronchoscopy,PROCEDURE NOTE - BALLOON DILATION OF TRACHEAL STENOSIS,,54
+127,Therapeutic Bronchoscopy,"PT: Garcia, Roberto | 52M | MRN 1367281","PT: Garcia, Roberto | 52M | MRN 1367281",1197
+128,Therapeutic Bronchoscopy,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,Patient hemodynamically stable throughout,6545
+129,Therapeutic Bronchoscopy,Bronchoscopy Note,Bronchoscopy Note,2550
+130,Therapeutic Bronchoscopy,EMERGENCY BRONCHOSCOPY - HEMOPTYSIS,"Pt: Marcus Johnson, 57M, MRN 1923847",2392
+131,Other,===============================================================================,Patient: Angela Davis,907
+132,Other,===============================================================================,"Patient name is Elizabeth Chen, medical record Papa Lima dash four eight two nine dash Quebec, date of birth November twenty-third nineteen sixty-two.",1652
+133,Other,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,,81
+134,Other,"PATIENT: James Wilson, 45-year-old Male","PATIENT: James Wilson, 45-year-old Male",4168
+135,Other,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,,81
+136,Other,"PATIENT: Maria Rodriguez, 38-year-old Female","PATIENT: Maria Rodriguez, 38-year-old Female",4176
+137,Other,INTERVENTIONAL PULMONOLOGY OPERATIVE REPORT,,78
+138,Other,"PATIENT: Patricia Johnson, 74-year-old Female","PATIENT: Patricia Johnson, 74-year-old Female",4386
+139,Other,Patient: Harold Stevens | Age: 66 | Sex: M | MRN: 1256170,Patient: Harold Stevens | Age: 66 | Sex: M | MRN: 1256170,2749
+140,Other,PROCEDURE REPORT: TALC PLEURODESIS VIA CHEST TUBE,Patient Information,69
+141,Other,Name: Rebecca Martinez,Name: Rebecca Martinez,3650
+142,Other,COMPREHENSIVE OPERATIVE REPORT,PATIENT DEMOGRAPHICS,92
+143,Other,Name: Elizabeth Okafor,Name: Elizabeth Okafor,4753
+144,Other,OPERATIVE REPORT - DETAILED NARRATIVE,"Patient brought to hybrid OR suite. After successful induction of general anesthesia, formal time-out performed with all team members present. Confirmed:",13476

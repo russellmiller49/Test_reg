@@ -1,0 +1,55 @@
+PATIENT: Emma Thompson, 3-year-old Female
+MRN: 9238176
+INDICATION FOR OPERATION: Emma is a 3-year-old female presenting with sudden onset cough and wheezing 2 days ago while eating peanuts. CXR shows hyperinflation of the right lung with mediastinal shift. CT chest confirms suspected foreign body in right mainstem bronchus. The nature, purpose, risks, benefits and alternatives to rigid bronchoscopy for foreign body removal were discussed with the patient's parents in detail. Parents indicated a wish to proceed and informed consent was signed.
+PREOPERATIVE DIAGNOSIS: Foreign body aspiration, right mainstem bronchus
+POSTOPERATIVE DIAGNOSIS: Foreign body aspiration (peanut fragment), right mainstem bronchus
+PROCEDURE: Rigid Bronchoscopy with Foreign Body Removal
+ATTENDING: Dr. Steven Martinez
+ASSISTANT: Dr. Laura White, Fellow
+Support Staff:
+
+RN: Katherine Brown
+RT: Andrew Garcia
+Anesthesia: Dr. Michelle Chen
+
+ANESTHESIA: General anesthesia with spontaneous ventilation
+MONITORING: Standard ASA monitoring
+INSTRUMENT: Storz pediatric rigid bronchoscope (3.5mm), optical forceps, foreign body forceps
+ESTIMATED BLOOD LOSS: <5 mL
+COMPLICATIONS: None
+PROCEDURE IN DETAIL:
+After induction of general anesthesia maintaining spontaneous ventilation, a timeout was performed. All procedure related images were saved and archived.
+PATIENT POSITION: Supine with shoulder roll, neck extended
+A 3.5mm Storz pediatric rigid bronchoscope was introduced via the mouth under direct laryngoscopy. The vocal cords were visualized and appeared normal with symmetric movement. The bronchoscope was advanced through the cords into the trachea.
+Initial Survey:
+
+Larynx: Normal
+Vocal cords: Normal, symmetric movement
+Trachea: Normal caliber, no lesions
+Carina: Sharp, normal
+
+The bronchoscope was advanced into the right mainstem bronchus. A foreign body was visualized 2cm distal to the carina - a tan-brown, irregular object consistent with a peanut fragment, approximately 8mm in size. The foreign body was partially occluding the right mainstem bronchus with surrounding mucosal edema and mild erythema.
+Foreign Body Retrieval:
+Optical forceps were advanced through the rigid bronchoscope. The peanut fragment was grasped carefully. Initial attempt at retrieval showed the fragment was somewhat friable. The fragment was gently manipulated and brought into the rigid bronchoscope barrel to prevent fragmentation. The bronchoscope and forceps with the foreign body were withdrawn as a single unit.
+The foreign body was removed intact - a peanut fragment measuring approximately 8mm x 5mm.
+The bronchoscope was reintroduced for inspection:
+
+Right mainstem: Mild mucosal edema and erythema at the site, no residual foreign material
+Right upper lobe: Patent
+Right middle lobe: Patent
+Right lower lobe: Patent with moderate secretions
+Left lung: Examined and found to be normal
+
+Secretions were suctioned from the right lower lobe. No other foreign material was identified. Final inspection showed:
+
+Complete foreign body removal
+Mild mucosal trauma with no active bleeding
+Patent bilateral airways
+
+The bronchoscope was removed. The patient tolerated the procedure well and was extubated in the operating room.
+The attending, Dr. Martinez, was present throughout the entire procedure.
+SPECIMEN(S):
+
+Foreign body: Peanut fragment (retained for documentation)
+
+IMPRESSION/PLAN: Emma underwent successful rigid bronchoscopy with foreign body removal. A peanut fragment was removed from the right mainstem bronchus without complication. Post-procedure CXR ordered to confirm resolution of hyperinflation. Observe overnight with monitoring. Discharge tomorrow if stable. No bronchodilators needed. Counsel parents on choking prevention. Follow up with pediatrician in 1 week.

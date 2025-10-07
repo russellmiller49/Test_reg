@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0.0",
+  "facility_id": "SITE-01",
+  "operator_id_hash": "sha256:abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
+  "procedure_datetime_shifted": "2025-09-15T14:30:00Z",
+  "patient": {
+    "age_years": 67,
+    "sex": "male",
+    "smoking_status": "previous"
+  },
+  "procedure_type": "ebus_tbna",
+  "anesthesia": {
+    "mode": "moderate_sedation",
+    "ramsay_max": 3,
+    "monitoring_intervals_min": 5,
+    "reversal_agents_used": []
+  },
+  "ebus": {
+    "staging_indication": true,
+    "systematic_sequence_used": true,
+    "photodoc_all_accessible_stations": true,
+    "stations_sampled": [
+      {
+        "station": "4R",
+        "size_mm": 9,
+        "passes": 4,
+        "rose_used": true,
+        "pet_positive": true
+      },
+      {
+        "station": "7",
+        "size_mm": 12,
+        "passes": 3,
+        "rose_used": true,
+        "pet_positive": false
+      }
+    ],
+    "adequacy_all_nodes": true,
+    "molecular_success": true
+  },
+  "safety": {
+    "complications": [],
+    "escalation_of_care": false,
+    "procedure_related_mortality_30d": false
+  },
+  "phi_attestation": {
+    "version": "1.0.0",
+    "never_persisted": true,
+    "orig_image_hash": "sha256:1111111111111111111111111111111111111111111111111111111111111111",
+    "redacted_image_hash": "sha256:2222222222222222222222222222222222222222222222222222222222222222",
+    "redacted_regions": [
+      {"x": 0, "y": 0, "w": 500, "h": 120}
+    ],
+    "signature": "hmac-sha256-placeholder"
+  }
+}

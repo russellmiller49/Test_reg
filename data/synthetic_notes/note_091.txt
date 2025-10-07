@@ -1,0 +1,42 @@
+Patient: ___Lisa Anderson___ MRN: ___BB-8472-K___ DOB: ___03/19/1961___
+
+Indication: ___Peripheral LLL nodule 19mm, PET+___
+
+SEDATION [check one]:
+☐ Local only
+☑ Moderate sedation: Midazolam ___3___ mg, Fentanyl ___75___ mcg
+☐ Deep sedation
+☐ General anesthesia
+
+Ramsay Score (max): ___3___
+
+PROCEDURE PERFORMED [check all that apply]:
+☑ Flexible bronchoscopy
+☐ EBUS-TBNA (# stations: ____)
+☑ Electromagnetic navigation bronchoscopy
+☐ Therapeutic intervention
+
+[Handwritten addition:]
+EMN for LLL nodule - concentric pattern achieved on radial EBUS
+Fluoro 5.1 min, DAP 195 cGy*cm²
+Samples: needle ×3, biopsy ×4, brush ×2
+Tool-in-lesion: YES ✓
+Localization success: YES ✓
+
+COMPLICATIONS [check one]:
+☑ None
+☐ Bleeding (severity: _____)
+☐ Pneumothorax
+☐ Hypoxia
+☐ Other: ___________
+
+[Handwritten addition:]
+Post-XR: no PTX, patient stable, d/c home after 2hr
+
+FOLLOW-UP PLAN:
+[Handwritten:]
+Path pending - f/u in clinic next week for results
+If malignant → staging CT, possible EBUS if nodes develop
+
+[Pre-printed footer]
+Physician Signature: ___[illegible signature]___ Date: ___10/28/24___

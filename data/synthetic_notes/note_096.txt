@@ -1,0 +1,413 @@
+**INTERVENTIONAL PULMONOLOGY CONSULT & PROCEDURE NOTE**
+
+REQUESTING SERVICE: Medical Oncology (Dr. Stevens)
+PATIENT: Bennett, Sandra L. | 74F | MRN: 3847592
+PROCEDURE DATE: 05/07/2025
+IP TEAM: Dr. Kevin Murphy (Attending), Dr. Lisa Chang (Fellow)
+
+**CONSULT QUESTION:**
+"Patient with known metastatic breast cancer, now with new RLL nodule. Concern for lung metastasis vs new primary. Please evaluate and biopsy if appropriate. Also noted to have enlarged subcarinal node."
+
+**HISTORY:**
+74F with PMH of Stage II ER+/HER2- invasive ductal breast carcinoma diagnosed 2017, treated with lumpectomy + radiation + endocrine therapy. Developed bone and liver metastases 2023, currently on palbociclib + letrozole with stable disease.
+
+Recent surveillance CT shows new 2.8cm RLL nodule (not present on prior CT 6 months ago). Also new subcarinal lymphadenopathy 2.1cm. PET/CT: RLL nodule SUV 6.4, subcarinal node SUV 5.9.
+
+Clinical question: Progression of breast cancer to lung vs. new primary lung cancer (would change management significantly).
+
+**RECOMMENDATION:**
+Combined EBUS-TBNA + EMN bronchoscopy for tissue diagnosis with appropriate immunohistochemistry to differentiate breast metastasis vs primary lung cancer.
+
+Patient agreeable, scheduled for procedure same day given oncologic urgency.
+**PROCEDURE PERFORMED:**
+
+**EBUS-TBNA + EMN Bronchoscopy + Transbronchial Biopsy**
+
+Consent obtained. Anesthesia: MAC (Dr. Roberts). ETT 7.5.
+
+**PHASE 1 - EBUS:**
+
+Surveyed mediastinum systematically.
+
+Station 7 (subcarinal):
+- 21 x 18mm, hypoechoic, round
+- 22G needle, 5 passes
+- ROSE (Dr. Williams): "Positive for malignancy. Adenocarcinoma cells. CK7+/CK20- pattern on rapid IHC. Cannot definitively distinguish breast met vs lung primary on cytology alone - recommend tissue biopsy with full IHC panel."
+
+Other stations surveyed - no other enlarged nodes.
+
+**PHASE 2 - EMN to RLL nodule:**
+
+SuperDimension system. CT from 04/30/25 loaded.
+Target: RLL lateral basal segment nodule.
+
+Registration: Auto, 8 points, good accuracy.
+
+Navigated to target - distance 0.7cm per system.
+
+Radial EBUS: Concentric pattern, 26mm heterogeneous lesion.
+
+Sampling:
+- TBBx x 8 (formalin - **REQUEST FULL IHC PANEL: TTF-1, Napsin-A, CK7, CK20, ER, PR, HER2, GATA-3, Mammaglobin**)
+- Brushings x 3
+- BAL
+
+ROSE: "Adenocarcinoma. Morphology could represent either primary lung or breast metastasis. IHC panel will be definitive."
+
+No complications. CXR: no PTX.
+
+**IMPRESSION:**
+Adenocarcinoma in both subcarinal node and RLL nodule. Awaiting IHC to determine if breast metastasis vs primary lung cancer.
+
+If breast metastasis → continue systemic breast cancer therapy
+If primary lung cancer → separate staging/treatment approach needed
+
+**PLAN:**
+- IHC panel expedited (results expected 05/09)
+- Contact patient with results
+- Tumor board if lung primary confirmed
+- Close communication with medical oncology
+
+K. Murphy MD
+**BRONCHOSCOPY REPORT - COMBINED MODALITY**
+
+Institution: Sacred Heart Medical Center
+Date of Service: 05/19/2025
+
+**PATIENT:** Nguyen, Linh T., Female, Age 56
+**MRN:** 2938475
+**ATTENDING:** Dr. Patricia Lee, MD, FCCP
+**FELLOW:** Dr. Michael Torres, MD
+**ANESTHESIA:** Dr. David Chen, MD
+
+**INDICATION:**
+- RML nodule 2.2cm (increased from 1.6cm over 6 months)
+- Mediastinal lymphadenopathy: Station 4R 2.0cm, Station 7 1.6cm
+- Never-smoker
+- PET: RML nodule SUV 5.2, Station 4R SUV 4.1, Station 7 SUV 3.4
+
+**PROCEDURES:**
+1. EBUS with TBNA
+2. Ion robotic bronchoscopy
+3. Radial EBUS
+4. Transbronchial biopsy with cryobiopsy
+
+**CONSENT:** Standard risks discussed (PTX 1-3%, bleeding 1-5%, higher with cryo 5-10%, infection, anesthesia risks, etc.). Patient consented.
+
+**ANESTHESIA:** General/ETT, ETT 7.5 at 21cm
+
+**VENTILATOR SETTINGS:**
+- Mode: Pressure Control
+- Inspiratory Pressure: 17 cmH2O
+- RR: 14
+- PEEP: 5
+- FiO2: 50%
+
+**TIME-OUT:** Performed per protocol
+**PROCEDURE DETAILS:**
+
+**EBUS Phase:**
+
+Using Olympus EBUS scope, performed systematic mediastinal survey.
+
+**Station 2R:** 8mm - not sampled
+**Station 2L:** Not enlarged
+
+**Station 4R (Right paratracheal):**
+- Size: 19 x 15mm
+- Echo: Hypoechoic, heterogeneous
+- Shape: Oval, margins discrete
+- Elastography: Intermediate stiffness (strain ratio 5.4)
+- **Sampling:** 22G needle, 5 passes
+- ROSE (Dr. Kumar): "Adequate. Atypical epithelial cells. Glandular features. Favor adenocarcinoma. Recommend core tissue for molecular."
+
+**Station 7 (Subcarinal):**
+- Size: 15 x 13mm
+- Echo: Hypoechoic, homogeneous
+- Appears reactive
+- **Sampling:** 22G needle, 3 passes
+- ROSE: "Negative for malignancy. Reactive lymphocytes only."
+
+**Stations 10R, 11R:** Normal size, not sampled
+**Ion Robotic Bronchoscopy Phase:**
+
+CT from 05/05/2025 loaded to Ion platform.
+Target: RML medial segment nodule.
+
+**Registration:**
+- Automatic method
+- Fiducial error: 1.4mm
+- Quality: Excellent
+- Landmarks: Carina, RUL/RML/RLL bifurcation, RML segmental anatomy
+
+**Navigation:**
+Ion catheter advanced to RML medial segment.
+Tool-to-target: 0.8cm
+
+**Radial EBUS:**
+- Pattern: Concentric
+- Size: 20mm
+- Echo: Heterogeneous, irregular margins
+- No large vessels
+
+**CBCT Confirmation:**
+Cone-beam CT acquired. NaviLink fusion confirmed catheter within lesion, 3mm from center.
+
+**Sampling:**
+
+**Conventional:**
+- Forceps biopsies x 6
+- Brushings x 3
+- Washing
+
+ROSE: "Adenocarcinoma, similar to node"
+
+**Cryobiopsy:**
+Given need for molecular testing and never-smoker status:
+
+Arndt blocker (7Fr) positioned in RML ostium.
+
+Cryoprobe 1.9mm advanced through Ion catheter.
+- 2 cryobiopsies obtained (4 sec freeze each)
+- Blocker inflated between samples
+- Minimal bleeding, resolved with blocker + iced saline
+**COMPLETION:**
+
+Procedure time: 69 minutes
+No complications
+Extubated successfully
+Post-procedure vitals stable
+
+**EBL:** ~20mL
+
+**SPECIMENS:**
+1. Station 4R TBNA x5 (cell block)
+2. Station 7 TBNA x3 (cell block)
+3. RML forceps biopsy x6 (formalin)
+4. RML cryobiopsy x2 (formalin) - **REQUEST: EGFR, ALK, ROS1, PD-L1, comprehensive NGS**
+5. RML brushings x3 (cytology)
+6. RML washing (cytology + micro)
+
+**Post-op CXR:** No pneumothorax. Small subsegmental atelectasis RML (expected post-cryobiopsy). No intervention needed.
+**FINDINGS (based on ROSE):**
+- Station 4R: Positive for adenocarcinoma (N2)
+- Station 7: Negative (N0)
+- RML nodule: Adenocarcinoma (primary)
+
+**Preliminary Stage:** IIIA (T1cN2M0)
+
+**ASSESSMENT:**
+Stage IIIA adenocarcinoma. Never-smoker with N2 disease. Will require neoadjuvant therapy vs definitive chemoradiation. Molecular results critical given never-smoker status - high likelihood of targetable mutation.
+
+**PLAN:**
+- Complete staging: Brain MRI
+- Await molecular testing (7-14 days)
+- Tumor board presentation
+- Medical oncology consult
+- Thoracic surgery consult
+- If EGFR/ALK+ → neoadjuvant targeted therapy consideration
+- F/u IP clinic 1 week
+
+Dr. Patricia Lee - Attending, present throughout procedure
+
+**Electronically signed: 05/19/2025 16:33**
+**PROCEDURE: EBUS-TBNA + ELECTROMAGNETIC NAVIGATION BRONCHOSCOPY**
+
+Valley Medical Center | IP Service
+
+**PT:** Davis, Harold K. | 72M | MRN 5738291
+**DATE:** 06/03/2025
+**PHYSICIANS:** Dr. Jennifer Walsh (Attending), Dr. Christopher Brown (Fellow), Dr. Amanda Stevens (Anesthesia)
+
+**INDICATION:**
+
+72M with 60 pack-year smoking history presents with concerning imaging:
+
+Primary lesion:
+- LUL mass 4.3cm, cavitary with thick irregular walls
+- PET SUV 9.8
+
+Lymphadenopathy:
+- Station 4L: 2.4cm, SUV 7.1
+- Station 5: 2.2cm, SUV 6.8
+- Station 7: 1.9cm, SUV 5.4
+- Station 10L: 1.7cm, SUV 4.9
+
+Patient with significant weight loss (20 lbs / 3 months), new hemoptysis (scant blood-streaking). Requires diagnosis and staging.
+
+**PROCEDURES PERFORMED:**
+- EBUS-TBNA (multiple stations)
+- EMN bronchoscopy
+- Radial EBUS
+- Transbronchial biopsy
+- Endobronchial biopsy (visible tumor in LUL)
+
+**CONSENT:** Obtained. Comprehensive risk discussion including higher bleeding risk given hemoptysis history. Patient understood and agreed.
+
+**ANESTHESIA:**
+General with ETT (8.0 at 23cm)
+VC mode: TV 500, RR 12, PEEP 5, FiO2 55%, Pmean 13
+**PROCEDURE:**
+
+**Part 1: EBUS-TBNA**
+
+EBUS bronchoscope inserted through ETT.
+
+**Mediastinal Survey:**
+
+**Station 4R:** 11mm - appears reactive, not sampled
+
+**Station 4L:**
+- 23 x 19mm
+- Hypoechoic, heterogeneous, round (loss of oval shape)
+- 22G needle, 5 passes
+- ROSE (Dr. Martinez): "POSITIVE - Squamous cell carcinoma"
+
+**Station 5 (AP window):**
+- 21 x 18mm
+- Hypoechoic, irregular borders
+- 22G needle, 5 passes
+- ROSE: "POSITIVE - Squamous cell carcinoma"
+
+**Station 7:**
+- 18 x 16mm
+- Hypoechoic
+- 22G needle, 4 passes
+- ROSE: "POSITIVE - Squamous cell carcinoma"
+
+**Station 10L:**
+- 16 x 14mm
+- Hypoechoic
+- 22G needle, 3 passes
+- ROSE: "POSITIVE - Squamous cell carcinoma"
+
+**Nodal Staging Summary:** Extensive disease - N1, N2, and N3 all involved
+**Part 2: Standard Airway Survey**
+
+EBUS scope removed. Therapeutic bronchoscope (Olympus BF-1TH190) inserted.
+
+**Finding:** LUL orifice shows exophytic endobronchial tumor - fungating mass with areas of necrosis, nearly occluding lingual ostium.
+
+**Endobronchial Biopsy:**
+
+Given visible endobronchial component, obtained direct biopsies before proceeding to EMN:
+- 6 forceps biopsies from endobronchial tumor
+- Friable tissue, moderate bleeding
+- Managed with epinephrine 1:10,000 5mL + wedging scope
+- Hemostasis achieved
+
+ROSE: "Squamous cell carcinoma - consistent with nodal samples"
+**Part 3: EMN to Cavitary Component**
+
+Despite endobronchial biopsy being diagnostic, proceeded with EMN to sample cavitary/necrotic component given potential for different biology/infectious etiology.
+
+SuperDimension system. CT from 05/20/2025.
+
+Registration: Automatic, 7 points confirmed.
+
+Target: LUL apical-posterior segment (cavitary portion of mass).
+
+Navigation: Challenging due to tumor distortion of anatomy. Unable to reach planned depth (tumor blocking). Achieved position ~12mm from target per system.
+
+Radial EBUS: Eccentric pattern, visualizing mass edge/cavity wall.
+
+Sampling through guide sheath:
+- Forceps biopsies x 5 (from cavity wall)
+- Brushings x 2
+- BAL x 100cc (sent for bacterial/fungal/AFB cultures + cytology)
+
+ROSE: "Squamous cell carcinoma, areas of necrosis"
+**COMPLETION:**
+
+Total time: 64 minutes
+Moderate bleeding from endobronchial site - resolved
+Patient extubated, stable
+
+**EBL:** ~40mL
+
+**SPECIMENS:**
+1. Station 4L TBNA x5
+2. Station 5 TBNA x5
+3. Station 7 TBNA x4
+4. Station 10L TBNA x3
+5. LUL endobronchial biopsies x6
+6. LUL cavity wall biopsies (EMN) x5
+7. LUL brushings x2
+8. LUL BAL (cultures + cytology)
+
+**REQUEST PD-L1 testing on tumor specimens**
+
+**COMPLICATIONS:** Moderate endobronchial bleeding - controlled
+
+**POST-OP CXR:** No pneumothorax. Known LUL cavitary mass unchanged.
+**FINDINGS:**
+
+**Diagnosis:** Squamous cell carcinoma of LUL with extensive nodal metastases
+
+**Staging:**
+- T: T3 (4.3cm with cavitation)
+- N: N3 (contralateral mediastinal node station 4L positive)
+- M: M0 (pending complete staging)
+- **Stage: IIIB (T3N3M0)**
+
+**Characteristics:**
+- Cavitary lesion (concerning - DDx includes post-obstructive pneumonia, tumor necrosis)
+- Endobronchial extension with near-obstruction
+- Extensive nodal disease
+
+**NOT A SURGICAL CANDIDATE** - Stage IIIB with N3 disease
+**PLAN:**
+
+**Immediate:**
+- Monitor for post-procedure bleeding (patient with prior hemoptysis)
+- Continue observation overnight given bleeding during procedure
+- F/u CXR in AM
+
+**Staging:**
+- Brain MRI
+- Complete PET/CT review (ensure no distant mets)
+
+**Infectious Work-up:**
+- Culture results pending (bacterial/fungal/AFB from BAL)
+- Consider CT-guided drainage if abscess component identified
+- Empiric antibiotics if clinical signs of post-obstructive pneumonia
+
+**Oncologic:**
+- Medical oncology urgent consult
+- Radiation oncology consult
+- Definitive concurrent chemoradiation (platinum-doublet + RT)
+- PD-L1 results will guide immunotherapy consideration
+- Hemoptysis precautions - may need palliative RT if worsens
+
+**Follow-up:**
+- IP clinic 1 week
+- Earlier if concerning symptoms (increased hemoptysis, fever, dyspnea)
+
+**Prognosis Discussion:**
+- Stage IIIB - locally advanced
+- Not curable with surgery
+- Chemoradiation can provide long-term control in some patients
+- Will need frank discussion of prognosis and goals of care
+
+Dr. Jennifer Walsh, Attending Physician
+Procedure performed and supervised in entirety
+
+**Signed: 06/03/2025 17:55**
+END OF SYNTHETIC DATASET
+**SUMMARY:**
+- 5 Robotic (Ion) bronchoscopy cases: R-001 through R-005
+- 5 Electromagnetic navigation bronchoscopy cases: E-001 through E-005
+- 10 Combined EBUS + peripheral bronchoscopy cases: C-001 through C-010
+
+**Structural Variations Included:**
+- Formal operative reports vs brief procedure notes
+- Different section ordering and headers
+- Varying levels of detail (some very detailed, some concise)
+- Different documentation of vital signs, medications, findings
+- Various ROSE reporting styles
+- Different ways of documenting staging and conclusions
+- Mix of bullet points, paragraphs, tables
+- Varied terminology and abbreviations
+- Different institutional formats
+
+All cases include completely fictional PHI (names, MRNs, dates, providers) suitable for AI training without HIPAA concerns.

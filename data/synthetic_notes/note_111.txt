@@ -1,0 +1,63 @@
+===============================================================================
+***ELECTRONICALLY SIGNED BY: [OPERATOR DE-IDENTIFIED]***
+***COSIGN REQUIRED: NO***
+
+ENCOUNTER: Bronchoscopy Suite Procedure
+PATIENT: Thompson, Andrew J.
+MRN: 0847291-KK
+DOB: 11/30/1962 (AGE: 61Y 10M)
+ENCOUNTER DATE: 2024-10-26 14:30:00
+
+>>>PROCEDURE CODE: 31622, 31629 (EBUS-TBNA multiple stations)
+
+>>>INDICATION:
+Mediastinal lymphadenopathy, etiology unknown; rule out lymphoma vs sarcoidosis vs metastatic disease
+
+>>>ANESTHESIA:
+Moderate Sedation
+Midazolam 2 MG IV at 14:32
+Fentanyl 50 MCG IV at 14:32
+Additional Midazolam 1 MG IV at 14:47
+Max Ramsay Score: 3
+SpO2 Range: 95%-98%
+BP Range: 122-138/70-84 MMHG
+
+>>>PROCEDURE NARRATIVE:
+EBUS-TBNA performed. Systematic lymph node evaluation completed.
+
+STATION 4R (Size: 15 MM):
+- Needle passes: 4
+- ROSE result: Granulomatous inflammation, non-necrotizing
+- Special stains ordered: AFB, GMS
+
+STATION 4L (Size: 17 MM):
+- Needle passes: 4
+- ROSE result: Consistent with sarcoidosis
+
+STATION 7 (Size: 22 MM):
+- Needle passes: 4
+- ROSE result: Non-necrotizing granulomas
+
+STATION 11R (Size: 10 MM):
+- Needle passes: 3
+- ROSE result: Adequate
+
+Quality Metrics:
+- Systematic evaluation: YES
+- Photo documentation: YES
+- All samples adequate: YES
+
+>>>COMPLICATIONS:
+None documented
+
+>>>SPECIMENS COLLECTED:
+SPECIMEN-2024-BR-00847: Station 4R (EBUS-TBNA)
+SPECIMEN-2024-BR-00848: Station 4L (EBUS-TBNA)
+SPECIMEN-2024-BR-00849: Station 7 (EBUS-TBNA)
+SPECIMEN-2024-BR-00850: Station 11R (EBUS-TBNA)
+
+>>>PATHOLOGY STATUS: Pending
+
+>>>PATIENT STATUS AT DISCHARGE: Stable, discharged to home
+
+***AUTO-SAVED: 2024-10-26 15:45:23***

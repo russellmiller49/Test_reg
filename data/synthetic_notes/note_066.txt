@@ -1,0 +1,36 @@
+===============================================================================
+PATIENT: KAREN WHITE | MED REC: PQ-5847 | DOB: 12/30/1962
+
+INDICATION: LLL peripheral nodule 14mm, no clear bronchus sign, PET SUV 2.8 (indeterminate)
+
+ANESTHESIA: Moderate sedation protocol
+Midazolam 3mg, fentanyl 100mcg
+Ramsay 3 achieved, stable throughout
+Monitoring: BP q5min, continuous SpO2 >95%
+
+PROCEDURE ATTEMPTED:
+Electromagnetic navigation system set up
+CT registration performed
+Target: LLL anteromedial segment nodule
+
+Navigation attempt:
+- Guide sheath advanced to segmental bronchus
+- Radial EBUS probe deployed - NO concentric pattern visualized
+- Multiple repositioning attempts (×4)
+- Fluoroscopy used extensively: 12.4 minutes total fluoro time
+- DAP: 389 cGy*cm² (elevated due to multiple attempts)
+- Unable to confirm tool-in-lesion despite efforts
+
+Decision: Procedure aborted after 45 minutes due to inability to localize
+
+Sampling performed anyway (blind):
+- Forceps biopsies ×3 from suspected area
+- Brush cytology ×1
+
+LOCALIZATION SUCCESS: No
+TOOL-IN-LESION CONFIRMED: No
+SAMPLING PROTOCOL ADHERENT: No (unable to complete full protocol)
+
+Post-procedure: No complications. Small amount of bleeding controlled easily.
+
+PLAN: Discussed with patient - options include CT-guided biopsy vs VATS vs surveillance depending on path results.

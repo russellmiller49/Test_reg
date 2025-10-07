@@ -1,0 +1,47 @@
+PATIENT: Linda Chen, 72-year-old Female
+MRN: 4783621
+INDICATION FOR OPERATION: Ms. Chen is a 72-year-old female with known squamous cell lung cancer presenting with worsening dyspnea and stridor. CT chest shows near-complete obstruction of the left mainstem bronchus by endobronchial tumor. The nature, purpose, risks, benefits and alternatives to therapeutic bronchoscopy were discussed with the patient in detail. Patient indicated a wish to proceed and informed consent was signed.
+PREOPERATIVE DIAGNOSIS: Left mainstem bronchus obstruction secondary to endobronchial tumor
+POSTOPERATIVE DIAGNOSIS: Same
+PROCEDURE: Rigid Bronchoscopy, Endobronchial Tumor Destruction (CPT 31641), Mechanical Tumor Debridement (CPT 31640), Airway Stent Placement (CPT 31631)
+ATTENDING: Dr. Michael Anderson
+ASSISTANT: Dr. Sarah Kim, Fellow
+Support Staff:
+
+RN: Robert Martinez
+RT: Lisa Johnson
+Anesthesia: Dr. Thomas Wright
+
+ANESTHESIA: General anesthesia with TIVA
+MONITORING: Standard ASA monitoring with arterial line
+INSTRUMENT: Storz rigid bronchoscope (14mm), Olympus flexible bronchoscope, Electrocautery (Bovie), APC probe, mechanical debrider, 14mm x 60mm silicone stent (Dumon)
+ESTIMATED BLOOD LOSS: 150 mL
+COMPLICATIONS: None
+PROCEDURE IN DETAIL:
+After induction of general anesthesia, a timeout was performed. All procedure related images were saved and archived.
+PATIENT POSITION: Supine with shoulder roll
+A rigid bronchoscope (14mm) was introduced via the mouth under direct visualization. High-frequency jet ventilation (HFJV) was utilized. A complete airway survey was performed.
+Initial Findings:
+
+Trachea: Patent, no lesions
+Right mainstem: Patent, mucosa normal
+Left mainstem: 90% obstructed by friable, hemorrhagic endobronchial tumor starting 1cm distal to the carina and extending 3cm distally
+
+Therapeutic Interventions:
+1. Mechanical Debridement: The tumor was cored using the rigid bronchoscope with mechanical debridement. Multiple passes were required to remove bulk tumor. Estimated tumor volume removed: 15cc.
+2. Electrocautery: Residual tumor base was treated with electrocautery at 40 watts in coagulation mode. Total treatment time: 3 minutes. FiO2 maintained at 40% during cautery.
+3. Argon Plasma Coagulation: APC was applied to residual tumor at 40 watts, argon flow 1.5 L/min. Treatment applied circumferentially to tumor base. Duration: 2 minutes.
+Results: Prior to treatment, left mainstem bronchus was 10% patent. After treatment, the airway was 70% patent.
+4. Stent Placement: Due to significant malacia and risk of re-obstruction, a 14mm x 60mm Dumon silicone stent was deployed in the left mainstem bronchus under direct visualization and fluoroscopic guidance. Stent position confirmed endoscopically with good apposition to airway wall.
+Hemostasis was confirmed with minimal oozing controlled with topical epinephrine (1:10,000 dilution, 10mL instilled). A flexible bronchoscope was passed through the rigid barrel for final inspection showing:
+
+Patent stent lumen
+Visible LUL and LLL orifices through stent
+No significant bleeding
+
+The bronchoscope and adjunct instruments were withdrawn. The patient tolerated the procedure well without immediate complications.
+SPECIMEN(S):
+
+Endobronchial tumor debridement (histology)
+
+IMPRESSION/PLAN: Ms. Chen is a 72-year-old female with squamous cell lung cancer and critical left mainstem obstruction. Successful therapeutic bronchoscopy with tumor debridement, cautery, APC, and stent placement. Airway patency improved from 10% to 70%. Patient will require surveillance bronchoscopy in 4-6 weeks. Oncology to follow for systemic therapy planning.

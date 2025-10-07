@@ -1,0 +1,37 @@
+===============================================================================
+Pt: Christopher Lee
+Medical Record Number: KJ-7482-N
+Date of Birth: 10/18/1955
+
+COMPLEX INDICATION: Mediastinal lymphadenopathy + LLL peripheral infiltrate (? ILD vs malignancy)
+
+GENERAL ANESTHESIA: ETT, sevoflurane maintenance, Ramsay 6
+Continuous monitoring with arterial line
+
+PART 1 - EBUS FOR LYMPH NODES:
+Station 4R: 13mm, 3 passes, ROSE shows non-necrotizing granulomas
+Station 7: 16mm, 4 passes, ROSE shows similar granulomatous inflammation
+Station 11L: 9mm, 3 passes, ROSE adequate
+
+Staging indication: No (diagnostic, not staging)
+Systematic sequence: No (targeted approach based on imaging)
+All sampled nodes adequate: Yes
+
+PART 2 - TRANSBRONCHIAL CRYOBIOPSY:
+LLL peripheral infiltrate sampled with cryoprobe
+- Cryobiopsies ×4 from different LLL subsegments
+- Each biopsy: 6-second freeze time
+- Prophylactic bronchial blocker placed before cryobiopsies
+- Samples 4-6mm each, well-preserved architecture
+
+SAFETY EVENTS:
+- Moderate bleeding after 2nd cryobiopsy (expected)
+- Controlled with blocker inflation + iced saline
+- Bleeding resolved, blocker removed
+- No pneumothorax on immediate post-procedure CXR
+
+Procedure time: 67 minutes
+
+Patient extubated in OR, recovered well, admitted for overnight observation per cryobiopsy protocol.
+
+PATHOLOGY PENDING: Both lymph node and lung parenchymal samples for comprehensive evaluation.

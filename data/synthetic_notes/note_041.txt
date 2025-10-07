@@ -1,0 +1,240 @@
+PT: Mills, Robert E | MR 8463927 | 03/08/2025
+MD: Franklin, Sarah
+Proc: EBUS with needle biopsies
+Why: Right lung cancer, check if spread to lymph nodes
+Consent: Yes
+Drugs for sedation: Versed + Fentanyl + Propofol
+What we saw with ultrasound:
+•	Big node under airway split (station 7): 31mm
+•	Node on right neck area (station 4R): 24mm
+•	Node at right lung entrance (station 10R): 16mm
+•	Small node inside right lung (station 11R): 13mm
+What we did: Stuck needle in nodes to get samples
+Station 7: 4 times Doctor looked right away = CANCER CELLS (adenocarcinoma)
+Station 4R: 3 times
+Quick look = CANCER
+Station 10R: 2 times Quick look = CANCER
+Station 11R: 2 times Quick look = Normal node
+What this means: Cancer in 3 different lymph node spots = N2 disease = Stage 3
+No problems
+Plan:
+•	See cancer doctor
+•	More tests
+•	Decide treatment
+Dr. S. Franklin 3/8/2025
+________________________________________
+EBUS
+INTERVENTIONAL PULMONOLOGY PROCEDURAL DOCUMENTATION
+══════════════════════════════════════════
+DEMOGRAPHICS: NAME: Russell, Dorothy Mae MRN: 5729384 DOB: 06/14/1944 (Age 80) SEX: Female PROCEDURE DATE: 04/08/2025 LOCATION: Bronchoscopy Suite, 4th Floor
+CLINICAL TEAM: ATTENDING: Montgomery, Richard MD FELLOW: Lee, Christina MD CRNA: Johnson, Mark CRNA RN: Peters, Emily RN, BSN RT: Thompson, David RRT CYTOLOGY: Baker, Linda MD
+══════════════════════════════════════════
+PROCEDURE: Endobronchial Ultrasound with Transbronchial Needle Aspiration (EBUS-TBNA)
+INDICATION: 80-year-old female, 20 pack-year smoking history (quit 30 years ago), presenting with:
+•	Left lower lobe mass 4.2cm on CT
+•	Extensive mediastinal and hilar lymphadenopathy
+•	Weight loss 18 lbs over 2 months
+•	No previous cancer history
+•	PET-CT shows multiple FDG-avid lymph nodes (SUV up to 9.2)
+Diagnostic question: Tissue diagnosis and staging if malignancy confirmed
+RELEVANT HISTORY: PMH: COPD (moderate), hypertension, osteoarthritis, GERD PSH: Cholecystectomy (1998), Total hip replacement right (2018) MEDICATIONS: Advair, albuterol, amlodipine, omeprazole ALLERGIES: Sulfa drugs (rash) SOCIAL: Former smoker, no alcohol, lives independently
+PHYSICAL EXAM: Vitals: BP 138/82, HR 76, RR 16, SpO2 94% on RA, Temp 98.2°F General: Alert, cooperative, no acute distress Lungs: Decreased breath sounds left base, otherwise clear CV: Regular rate and rhythm
+LABS (04/07/2025): WBC 6.8, Hgb 11.9, Platelets 245K, INR 1.0 Creatinine 0.9, eGFR >60
+══════════════════════════════════════════
+PRE-PROCEDURE:
+CONSENT: Written informed consent obtained after thorough discussion of:
+•	Nature and purpose of EBUS-TBNA
+•	Risks: bleeding, infection, pneumothorax (<1%), vocal cord injury, tooth damage, adverse reaction to sedation, failure to obtain diagnosis, need for additional procedures
+•	Benefits: Tissue diagnosis, staging information, minimally invasive
+•	Alternatives: CT-guided biopsy, surgical biopsy, empiric treatment
+•	Patient's questions answered, demonstrated understanding
+ASA CLASSIFICATION: III
+NPO STATUS: Confirmed NPO since midnight (>10 hours)
+IV ACCESS: 20-gauge left forearm, patent
+MONITORING PLAN:
+•	Continuous pulse oximetry
+•	Capnography
+•	Blood pressure q3 minutes
+•	Continuous ECG
+•	Dedicated monitoring nurse
+══════════════════════════════════════════
+MEDICATIONS ADMINISTERED:
+TIME | MEDICATION | DOSE | ROUTE | INDICATION 0815 | Glycopyrrolate | 0.2mg | IV | Reduce secretions 0825 | Midazolam | 2mg | IV | Anxiolysis 0827 | Fentanyl | 75mcg | IV | Analgesia/sedation 0830 | Propofol infusion | Start | IV | Deep sedation | (50-125 mcg/kg/min) | | | 0912 | Propofol | Stop | IV | End of procedure
+TOTAL PROPOFOL: 380mg
+TOPICAL ANESTHESIA:
+•	Benzocaine 20% spray to oropharynx (4 applications)
+•	Lidocaine 2% instilled via bronchoscope: 20mL total
+══════════════════════════════════════════
+EQUIPMENT: BRONCHOSCOPE: Olympus BF-UC180F (Linear EBUS scope) ULTRASOUND: Olympus EU-ME2 Premier Plus TBNA NEEDLES: 22-gauge Olympus NA-201SX-4022 RAPID ONSITE EVALUATION: Available (Dr. Baker present)
+══════════════════════════════════════════
+PROCEDURE DETAILS:
+TIMEOUT: Performed at 0830
+•	Patient identity confirmed: Dorothy Mae Russell, MRN 5729384, DOB 06/14/1944
+•	Procedure confirmed: EBUS-TBNA for LLL mass and mediastinal adenopathy
+•	Site confirmed: Mediastinal lymph nodes
+•	Allergies confirmed: Sulfa drugs
+•	Consent confirmed: Yes, in chart
+•	Team introductions completed
+•	Equipment checked
+PROCEDURE START: 0832 PROCEDURE END: 0912 TOTAL TIME: 40 minutes
+SEDATION SUMMARY: Patient achieved moderate-to-deep sedation level. Remained hemodynamically stable throughout procedure. SpO2 maintained 91-95% on 4L O2 via nasal cannula. No episodes of hypotension or arrhythmia. Responded appropriately to verbal stimuli. Total sedation time: 47 minutes. Recovered well.
+PROCEDURE NARRATIVE:
+After adequate sedation achieved and timeout completed, EBUS bronchoscope introduced via oropharynx under direct visualization.
+UPPER AIRWAY INSPECTION:
+•	Oropharynx: Normal
+•	Epiglottis: Normal
+•	Vocal cords: Symmetric, mobile, no masses
+•	Subglottis: Patent
+TRACHEOBRONCHIAL TREE:
+•	Trachea: Normal caliber, no masses, mild mucosal edema
+•	Carina: Sharp, mobile
+•	Right mainstem: Patent
+•	Left mainstem: Patent
+•	Segmental airways: All visualized segments patent
+•	No endobronchial masses visualized
+SYSTEMATIC MEDIASTINAL ULTRASOUND SURVEY:
+╔══════════════════════════════════════════════════════════════╗ ║ STATION │ SIZE │ MORPHOLOGY │ SAMPLED │ ROSE ║ ╠══════════════════════════════════════════════════════════════╣ ║ 2R │ 9x6mm │ Normal hilum │ No │ --- ║ ║ 2L │ NV │ Not visualized │ No │ --- ║ ║ 4R │ 28x17mm │ Loss of hilum │ YES │ MALIGNANT║ ║ 4L │ 33x21mm │ Hypoechoic │ YES │ MALIGNANT║ ║ 7 │ 41x27mm │ MARKEDLY ENLARGED │ YES │ MALIGNANT║ ║ 10R │ 15x10mm │ Oval, normal │ YES │ BENIGN ║ ║ 10L │ 24x16mm │ Round, abnormal │ YES │ MALIGNANT║ ║ 11R │ 12x8mm │ Normal │ No │ --- ║ ║ 11L │ 19x13mm │ Hypoechoic │ YES │ MALIGNANT║ ╚══════════════════════════════════════════════════════════════╝
+TRANSBRONCHIAL NEEDLE ASPIRATION - DETAILED:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ STATION 7 - SUBCARINAL NODE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Ultrasound Characteristics:
+•	Location: Between RMB and LMB, posterior position
+•	Dimensions: 41mm (long) x 27mm (short) x 24mm (depth)
+•	Shape: Round
+•	Borders: Well-defined
+•	Echotexture: Diffusely hypoechoic
+•	Hilum: Completely absent
+•	Necrosis: None evident
+•	Vascularity: Peripheral vessels on color Doppler
+•	Elastography: Score 5/5 - very firm (blue pattern)
+INTERPRETATION: HIGHLY SUSPICIOUS FOR MALIGNANCY
+Aspiration Technique: 22-gauge needle advanced under real-time ultrasound guidance. Needle tip visualized entering node. Suction applied with to-and-fro motion (20-25 agitations per pass).
+Pass 1 (0842):
+•	Excellent sample obtained
+•	Visible tissue core in needle hub
+•	ROSE: ADEQUATE specimen, abundant cellularity
+•	ROSE: MALIGNANT CELLS IDENTIFIED
+•	ROSE: Morphology consistent with ADENOCARCINOMA
+Pass 2 (0845):
+•	Confirmatory sampling
+•	ROSE: Confirmed adenocarcinoma
+Pass 3 (0848):
+•	Additional tissue for molecular studies
+•	Sent for: EGFR, ALK, ROS1, BRAF, PD-L1
+Pass 4 (0851):
+•	Microbiology specimen
+•	Sent for: AFB smear/culture, Fungal culture, Bacterial culture
+Complications: None. Minimal bleeding, self-limited.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ STATION 4L - LEFT LOWER PARATRACHEAL ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Ultrasound: 33x21mm, hypoechoic, no hilum
+Pass 1-3 (0855-0901): ROSE: POSITIVE FOR MALIGNANCY, adenocarcinoma
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ STATION 4R - RIGHT LOWER PARATRACHEAL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Ultrasound: 28x17mm, loss of hilum
+Pass 1-3 (0903-0907): ROSE: MALIGNANT, consistent with adenocarcinoma
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ STATION 10L - LEFT HILAR ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Ultrasound: 24x16mm, abnormal appearance
+Pass 1-2 (0908-0910): ROSE: POSITIVE, adenocarcinoma
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ STATION 11L - LEFT INTERLOBAR ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Ultrasound: 19x13mm, hypoechoic
+Pass 1-2 (0911-0912): ROSE: MALIGNANT CELLS PRESENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ STATION 10R - RIGHT HILAR ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Ultrasound: 15x10mm, maintained normal architecture
+Pass 1-2 (0909-0910): ROSE: BENIGN reactive lymphocytes, NO MALIGNANCY
+══════════════════════════════════════════
+FINAL AIRWAY INSPECTION: Bronchoscope withdrawn slowly with careful inspection. No evidence of bleeding. All airways patent.
+══════════════════════════════════════════
+RAPID ON-SITE EVALUATION SUMMARY: Cytopathologist: Linda Baker, MD
+POSITIVE STATIONS (MALIGNANT): ✓ Station 7 - Adenocarcinoma ✓ Station 4L - Adenocarcinoma ✓ Station 4R - Adenocarcinoma
+✓ Station 10L - Adenocarcinoma ✓ Station 11L - Adenocarcinoma
+NEGATIVE STATION (BENIGN): ✓ Station 10R - Reactive lymphoid tissue only
+CYTOLOGIC INTERPRETATION: Malignant cells consistent with metastatic adenocarcinoma present in multiple mediastinal and hilar lymph node stations bilaterally. Tumor cells demonstrate glandular differentiation. No small cell features. Awaiting final pathology and molecular markers.
+══════════════════════════════════════════
+SPECIMENS SUBMITTED TO PATHOLOGY:
+CYTOLOGY SPECIMENS: □ Station 7 - Subcarinal (4 passes) □ Station 4L - L lower paratracheal (3 passes) □ Station 4R - R lower paratracheal (3 passes) □ Station 10L - L hilar (2 passes)
+□ Station 10R - R hilar (2 passes) □ Station 11L - L interlobar (2 passes)
+Total: 16 needle passes across 6 lymph node stations
+CELL BLOCKS: □ Station 7 (2 blocks prepared)
+MOLECULAR TESTING (Station 7): □ EGFR mutation analysis (exons 18-21) □ ALK rearrangement (FISH and IHC) □ ROS1 rearrangement (FISH) □ BRAF V600E mutation □ PD-L1 immunohistochemistry (22C3 antibody) □ Next-generation sequencing (NGS) comprehensive panel
+MICROBIOLOGY (Station 7): □ Acid-fast bacilli (AFB) smear and culture □ Fungal culture □ Bacterial culture
+══════════════════════════════════════════
+FLUOROSCOPY: Not utilized for this procedure
+ESTIMATED BLOOD LOSS: <5mL
+COMPLICATIONS: None
+ADVERSE EVENTS: None
+══════════════════════════════════════════
+PATIENT TOLERANCE:
+The patient tolerated the procedure well. Hemodynamically stable throughout with no episodes of:
+•	Hypoxemia (SpO2 maintained 91-95%)
+•	Hypotension
+•	Hypertension
+•	Tachycardia or bradycardia
+•	Arrhythmias
+•	Bronchospasm
+•	Significant bleeding
+•	Laryngospasm
+Recovered from sedation appropriately within 35 minutes post-procedure. Alert and oriented x3. Following commands. Gag reflex intact. No nausea or vomiting.
+══════════════════════════════════════════
+POST-PROCEDURE ORDERS:
+MONITORING: □ Recovery area observation x 2 hours □ Vital signs: q15min x 4, then q30min x 2 □ Continuous pulse oximetry x 2 hours □ Call MD for: chest pain, dyspnea, hemoptysis, fever >100.4°F, SpO2 <90%
+ACTIVITY: □ Bedrest x 1 hour, then ambulate with assistance
+DIET: □ NPO x 1 hour (assess gag reflex) □ Then advance to regular diet as tolerated
+MEDICATIONS: □ Resume home medications □ Pain: Acetaminophen 650mg PO PRN (throat discomfort)
+DISCHARGE CRITERIA: □ Stable vital signs □ No respiratory distress □ Adequate O2 saturation on room air or baseline □ Tolerating PO □ Responsible adult to drive home □ Understands discharge instructions
+══════════════════════════════════════════
+DIAGNOSTIC IMPRESSION:
+1.	SUCCESSFUL EBUS-TBNA WITH ADEQUATE TISSUE ACQUISITION Multiple mediastinal and hilar lymph node stations sampled with excellent cytologic yield.
+2.	ADENOCARCINOMA OF THE LUNG (based on ROSE cytology) Primary left lower lobe adenocarcinoma with extensive lymph node metastases
+3.	EXTENSIVE N3 NODAL DISEASE Bilateral mediastinal and hilar lymph node involvement:
+o	N3 disease: Stations 4L, 10L, 11L (contralateral nodes positive)
+o	N2 disease: Stations 7, 4R (ipsilateral mediastinal)
+4.	STAGE IIIC DISEASE (minimum staging: cT3N3M0) Based on: 4.2cm LLL mass (T2 minimum, may be T3/T4 pending assessment of location/invasion) + N3 nodal disease
+5.	PROGNOSIS: Advanced stage disease. Not a surgical candidate. Systemic therapy indicated.
+6.	MOLECULAR TESTING PENDING: Critical for treatment selection - EGFR, ALK, ROS1, PD-L1, comprehensive NGS panel
+══════════════════════════════════════════
+TREATMENT RECOMMENDATIONS:
+IMMEDIATE (Within 1 week): □ URGENT Medical Oncology Consultation Scheduled for 04/10/2025 with Dr. Sarah Mitchell
+□ Multidisciplinary Tumor Board Presentation Thursday conference 04/11/2025 Teams: Medical oncology, radiation oncology, thoracic surgery, pulmonology, radiology, pathology
+□ Patient/Family Conference Schedule dedicated time to discuss:
+•	Diagnosis of adenocarcinoma
+•	Stage IIIC disease
+•	Treatment options
+•	Prognosis
+•	Goals of care
+STAGING COMPLETION: □ Brain MRI with contrast (ORDERED - to evaluate for metastases) High priority given advanced nodal disease
+□ Abdominal/Pelvic CT (if not recent) Evaluate for distant metastases
+□ Bone scan or PET-CT total body May already have sufficient information from recent PET
+AWAITING RESULTS (3-7 business days): □ Final cytopathology report □ Molecular testing results (CRITICAL for treatment selection):
+•	EGFR mutations → Consider EGFR TKI if positive
+•	ALK rearrangement → Consider ALK inhibitor if positive
+•	ROS1 rearrangement → Consider ROS1 inhibitor if positive
+•	PD-L1 expression → Impacts immunotherapy decisions
+•	Comprehensive NGS → May identify other actionable mutations
+TREATMENT OPTIONS (pending molecular results): □ Systemic Chemotherapy Standard platinum-doublet regimen
+□ Targeted Therapy If actionable mutation identified (EGFR, ALK, ROS1, etc.)
+□ Immunotherapy Consider based on PD-L1 expression, may combine with chemotherapy
+□ Radiation Therapy Role to be determined - may be palliative or consolidative
+□ Clinical Trial Evaluate eligibility for appropriate trials
+SUPPORTIVE CARE: □ Palliative Care Consultation Early integration recommended for symptom management and goals of care discussions
+□ Social Work Financial counseling, support services
+□ Nutrition Address weight loss, optimize nutritional status
+□ Patient Navigator Coordinate care, appointments, resources
+FOLLOW-UP APPOINTMENTS: □ Interventional Pulmonology Clinic: 1 week (04/15/2025) Review final pathology and molecular results
+□ Medical Oncology: 04/10/2025 (already scheduled)
+□ Tumor Board Results Discussion: Following 04/11 conference
+PATIENT EDUCATION PROVIDED: □ Explained diagnosis of lung adenocarcinoma □ Discussed staging (Stage IIIC - advanced but not metastatic) □ Reviewed that surgery is not an option due to extent of lymph node involvement □ Explained importance of molecular testing for treatment selection □ Discussed general treatment approach (chemotherapy, targeted therapy, immunotherapy) □ Set realistic expectations about prognosis □ Provided written materials on lung cancer □ Gave contact information for lung cancer support groups □ Reviewed warning signs: fever, severe chest pain, coughing up blood, severe shortness of breath □ Encouraged questions - patient and family very engaged and understanding
+PSYCHOSOCIAL: Patient and family understandably distressed by diagnosis. Daughter present for procedure and results discussion. Patient has strong family support system. Discussed importance of addressing emotional and practical needs alongside medical treatment.
+══════════════════════════════════════════
+ATTESTATION:
+I personally performed this procedure and was present for the entire duration including all critical portions. The patient was appropriately monitored throughout with dedicated nursing staff. Informed consent was obtained. The procedure was performed in accordance with accepted standards of care. All diagnostic findings and treatment recommendations documented above represent my professional medical assessment and judgment.
+══════════════════════════════════════════
+BILLING INFORMATION:
+CPT CODES: □ 31652 - Endobronchial ultrasound (EBUS) during bronchoscopic diagnostic or therapeutic intervention(s), including fluoroscopic guidance when performed (first target) □ 31653 x5 - Each additional target (Stations 4L, 4R, 10L, 10R, 11L)
+ICD-10 CODES: □ C34.32 - Malignant neoplasm of lower lobe, left bronchus or lung □ C77.1 - Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes □ Z85.116 - Personal history of other tobacco dependence (former smoker)
+══════════════════════════════════════════
+ELECTRONIC SIGNATURE:
+Richard Montgomery, MD, FCCP, FCCM Board Certified: Internal Medicine, Pulmonary Disease, Critical Care Medicine, Interventional Pulmonology Medical License: CA-A12345 DEA: BM1234563 NPI: 1234567890
+Digitally Signed: 04/08/2025 10:45 AM
+══════════════════════════════════════════
+REPORT DISTRIBUTION: □ Electronic Medical Record (Primary) □ Referring Physician: Dr. James Peterson, Internal Medicine
+□ Medical Oncology: Dr. Sarah Mitchell □ Cytopathology: Dr. Linda Baker □ Patient Portal (patient-friendly summary letter to follow)
+══════════════════════════════════════════ END OF REPORT ══════════════════════════════════════════

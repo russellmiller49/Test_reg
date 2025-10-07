@@ -1,0 +1,42 @@
+===============================================================================
+CASE PRESENTATION: Complex Navigation Bronchoscopy
+
+PATIENT DEMOGRAPHICS:
+A 64-year-old male (Case ID: C-847, Synthetic Name: Martin Lee, MRN: QQ-8473-R, DOB: 05/22/1960) former smoker with 45 pack-year history presented with an incidentally discovered left lower lobe peripheral pulmonary nodule.
+
+IMAGING CHARACTERISTICS:
+Computed tomography demonstrated a 17mm solid nodule in the left lower lobe superior segment without clear bronchus sign. Positron emission tomography revealed moderate FDG uptake with standardized uptake value of 3.9, raising concern for malignancy.
+
+PROCEDURAL APPROACH:
+Given the peripheral location and lack of visible bronchus sign, electromagnetic navigation bronchoscopy was selected as the diagnostic modality.
+
+Sedation Protocol:
+Deep sedation was induced using propofol continuous infusion (target 50-75 mcg/kg/min) with placement of laryngeal mask airway for airway protection. Maximum Ramsay sedation score achieved was 4. Invasive blood pressure monitoring via radial arterial line provided continuous hemodynamic data.
+
+Technical Details:
+The electromagnetic navigation system (SuperDimension™) was employed with pre-procedural CT-to-body registration achieved with registration error <4mm. Virtual bronchoscopy pathway planning identified optimal approach via left lower lobe superior segmental bronchus.
+
+The extended working channel was advanced under electromagnetic guidance with periodic fluoroscopic confirmation. Radial endobronchial ultrasound probe deployment initially demonstrated eccentric pattern, prompting repositioning. After adjustment, concentric echogenic pattern was achieved, confirming tool-in-lesion position.
+
+Radiation Exposure:
+Total fluoroscopy time: 7.2 minutes
+Dose-area product: 268 cGy·cm²
+(Elevated exposure due to multiple repositioning attempts)
+
+Sampling Protocol:
+Following tool-in-lesion confirmation, systematic sampling was performed:
+- Transbronchial needle aspiration: 3 passes (21-gauge needle)
+- Transbronchial forceps biopsy: 5 specimens
+- Bronchial brush cytology: 2 samples
+
+COMPLICATIONS:
+Small apical pneumothorax (approximately 15% by volume) was identified on immediate post-procedural chest radiograph. Patient remained asymptomatic with stable oxygen saturation on room air. Conservative management with observation was elected. Repeat radiography at 4 hours demonstrated stable pneumothorax size. Patient discharged with next-day follow-up radiograph showing partial resolution.
+
+QUALITY METRICS:
+- Tool-in-lesion confirmation: Achieved
+- Localization success: Yes (after repositioning)
+- Sampling protocol adherence: Complete
+- Diagnostic yield: Pending final pathology
+
+DISCUSSION:
+This case illustrates both the technical challenges and eventual success of electromagnetic navigation bronchoscopy for peripheral pulmonary lesions. The need for repositioning to achieve concentric EBUS pattern extended procedure time and radiation exposure but ultimately facilitated diagnostic sampling. The pneumothorax, while requiring observation, represents an accepted risk of transbronchial biopsy techniques.

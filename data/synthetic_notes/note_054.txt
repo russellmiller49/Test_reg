@@ -1,0 +1,52 @@
+Patient: Moore, Christopher | ID: MR4729384 | Age: 72 | M Service Date: 03/05/2025 | Start Time: 0745 Physician: Dr. Patel, Anjali (Attending) | Dr. Kim, Susan (Fellow)
+Endobronchial Ultrasound Bronchoscopy
+Indication: Small cell lung cancer staging, enlarged mediastinal lymph nodes on imaging
+Pre-op diagnosis: Small cell lung cancer, clinical stage Post-op diagnosis: Pending final pathology
+Anesthesia: General anesthesia provided by anesthesia team (Dr. Martinez)
+Equipment: Pentax EB-1970UK linear EBUS scope
+Procedure narrative: After successful intubation and adequate depth of anesthesia, timeout performed. EBUS bronchoscope inserted via ETT. Initial inspection showed normal trachea, sharp carina. Systematic ultrasound examination:
+Lymph node stations evaluated: → 2R: 11mm, normal echogenicity → 4R: 31mm, ENLARGED, loss of normal architecture → 4L: 24mm, ENLARGED, hypoechoic
+→ 7: 42mm, MARKEDLY ENLARGED, heterogeneous → 10R: 18mm, prominent → 10L: 16mm, prominent → 11R: 21mm, abnormal appearance
+TBNA sampling:
+Station 7 (42mm) Needle: 22G Pass 1 @ 0758 - visible tissue core Pass 2 @ 0801 - additional sample Pass 3 @ 0803 - for molecular studies Pass 4 @ 0805 - microbiology ROSE Result: MALIGNANT, small cell morphology identified
+Station 4R (31mm) 3 passes performed ROSE: Small cell carcinoma confirmed
+Station 4L (24mm) 3 passes performed
+ROSE: Malignant cells present
+Station 10R (18mm) 2 passes performed ROSE: Atypical cells
+Procedure completed 0822 Total time: 37 minutes EBL: <5mL Patient extubated, to recovery in stable condition
+Preliminary findings: Extensive N2/N3 disease confirmed Specimens to pathology: Cytology, cell block, molecular testing
+Patient counseled post-procedure regarding findings
+Next steps: Oncology consult, PET-CT for full staging
+Signed: Dr. Anjali Pat tel, MD, FCCP Time: 03/05/2025 09:15
+________________________________________
+
+BRONCHOSCOPY PROCEDURE DOCUMENTATION Patient: Clark, Sandra M | MRN 8362719 | DOB 04/15/1968 Date of Procedure: 02/22/2025
+Provider: Elliott, Mark DO | Interventional Pulmonology
+INDICATION: Mediastinal lymphadenopathy, suspected lymphoma based on PET findings
+INFORMED CONSENT: Obtained, documented in chart
+PROCEDURE: EBUS-TBNA with ROSE
+ANESTHESIA: Conscious sedation - Fentanyl 100mcg IV, Midazolam 4mg IV Local - Lidocaine 4% spray, Lidocaine 2% 20cc via working channel
+EQUIPMENT: Olympus EBUS bronchoscope
+TECHNIQUE: EBUS scope introduced through mouth after adequate sedation. Vocal cords normal. Mediastinal ultrasound survey performed with following findings:
+Station 2R: Not enlarged Station 4R: 29mm, ABNORMAL - round, hypoechoic, loss of hilum
+Station 4L: 26mm, ABNORMAL - similar features Station 7: 47mm, MARKEDLY ABNORMAL - huge subcarinal node, diffuse hypoechoic pattern Station 10R: 14mm, mildly enlarged Station 10L: 19mm, enlarged Station 11R: 22mm, ABNORMAL appearance Station 11L: 20mm, ABNORMAL appearance
+SAMPLING DETAILS:
+Station 7 (47x29mm) - SUBCARINAL Pass 1: 22G needle, excellent tissue yield ROSE: Abundant large atypical lymphoid cells, HIGH SUSPICION for lymphoma Pass 2: Additional specimen for flow cytometry Pass 3: Additional specimen for flow cytometry
+Pass 4: Cell block preparation
+Station 4R (29x17mm) Pass 1-3: Consistent with Station 7 ROSE: Large atypical lymphoid cells
+Station 4L (26x16mm) Pass 1-2: Sampling performed ROSE: Similar atypical population
+Station 11R (22x13mm) Pass 1-2: Sampling performed ROSE: Atypical lymphoid proliferation
+Elastography used on Station 7 showing firm consistency (blue pattern)
+Airways: Bilaterally patent, no endobronchial lesions
+COMPLICATIONS: None
+SPECIMENS: ✓ Cytology from all sampled stations ✓ Flow cytometry - Stations 7, 4R, 4L, 11R ✓ Cell blocks prepared ✓ Cultures sent (Station 7)
+TOLERANCE: Procedure well tolerated, stable hemodynamics, O2 sats >95% throughout
+PRELIMINARY INTERPRETATION: EBUS-TBNA with ROSE findings highly suspicious for lymphoma involving multiple mediastinal and hilar stations (7, 4R, 4L, 11R). Extensive nodal involvement suggesting advanced stage.
+PLAN:
+6.	Hematology-Oncology urgent consultation
+7.	Final pathology with flow cytometry results in 3-5 days
+8.	Staging CT chest/abdomen/pelvis
+9.	Bone marrow biopsy may be indicated
+10.	F/U IP clinic 1 week
+Mark Elliott, DO Interventional Pulmonology Signed: 02/22/2025 15:41
+________________________________________

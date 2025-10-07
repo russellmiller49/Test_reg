@@ -1,0 +1,79 @@
+**OPERATIVE REPORT - ROBOTIC BRONCHOSCOPY**
+
+DATE: 02/08/2025
+PATIENT: Rodriguez, Antonio M., 64M
+MRN: 7736291
+SURGEONS: Dr. Melissa Anderson (Attending), Dr. Kevin Nguyen (Fellow)
+ANESTHESIA: Dr. Patricia Sullivan
+
+PREOPERATIVE DIAGNOSIS:
+Multiple bilateral pulmonary nodules, largest RLL 2.6cm, ddx includes metastatic disease vs primary lung cancer vs infection
+
+POSTOPERATIVE DIAGNOSIS: Pending pathology
+
+PROCEDURES:
+1. Ion robotic navigational bronchoscopy
+2. Radial EBUS
+3. Transbronchial biopsies
+4. Bronchoalveolar lavage
+
+INDICATION: 64M with remote history of colon cancer (stage II, 2010) now with multiple lung nodules. Largest nodule RLL posterior segment 2.6cm, PET SUV 5.1. Other nodules range 0.8-1.4cm bilaterally. Biopsy needed for diagnosis.
+
+CONSENT: Standard procedural risks discussed including but not limited to pneumothorax, bleeding, infection, respiratory failure, need for mechanical ventilation, chest tube placement. Questions answered. Written consent obtained.
+
+ANESTHESIA DETAILS:
+Patient brought to OR, monitored anesthesia care established. General anesthesia induced with propofol, fentanyl, rocuronium. Intubation with 8.0 ETT placed at 22cm, confirmed with ETCO2 and auscultation.
+
+Ventilation: Pressure control mode, Pinsp 18, RR 14, PEEP 5, FiO2 55%, Pmean 13
+
+PROCEDURE IN DETAIL:
+
+Time-out performed confirming patient identity, procedure, and site. All imaging reviewed.
+
+CT chest with contrast from 01/25/2025 imported to Intuitive Ion planning system. Three-dimensional airway reconstruction performed. Navigation plan created to RLL posterior segment nodule (largest/most FDG-avid lesion).
+
+Ion bronchoscope inserted through ETT. Initial airway survey:
+- Vocal cords: not visualized (via ETT)
+- Trachea: patent, mild anterior bowing, no stenosis
+- Carina: sharp, mobile
+- Right mainstem: patent
+- Left mainstem: patent, no endobronchial lesions
+
+Automatic registration initiated. Adequate landmark correlation achieved. Fiducial error: 1.5mm. Confidence sweep performed - stable alignment throughout planned trajectory.
+
+Ion catheter advanced to RLL posterior segment under navigational guidance. Real-time position tracking showed tool-to-target distance of 0.6cm.
+
+Radial EBUS (20MHz probe) inserted through Ion extended working channel. Probe advanced to target showing concentric echogenic pattern with heterogeneous internal echo. Lesion measured 24mm in largest dimension.
+
+Cone-beam CT acquired for trajectory verification. Fusion overlay (NaviLink) confirmed catheter tip within lesion borders, 4mm from center.
+
+SAMPLING PERFORMED:
+- Transbronchial forceps biopsies x 7 (formalin for histology)
+- Cytology brushings x 3 (ThinPrep)
+- BAL from RLL posterior segment: 100cc instilled, 45cc return (sent for cell count, bacterial/fungal/AFB cultures, cytology)
+
+ROSE: Preliminary cytology shows atypical cells, cannot exclude malignancy. Final pathology pending.
+
+Hemostasis confirmed with direct visualization. No active bleeding. Airways suctioned clear.
+
+FINDINGS SUMMARY:
+- RLL posterior segment nodule successfully localized and sampled
+- No endobronchial lesions
+- No significant bleeding
+
+Patient tolerated procedure well. Extubated in OR without difficulty. Transferred to PACU in stable condition, oxygen saturation 98% on 2L NC.
+
+ESTIMATED BLOOD LOSS: <10mL
+
+SPECIMENS: As listed above
+
+COMPLICATIONS: None
+
+POSTOPERATIVE PLAN:
+1. Routine post-bronchoscopy monitoring
+2. Chest X-ray in 2 hours to r/o pneumothorax
+3. Discharge home same day if CXR negative and stable
+4. Follow-up IP clinic 2 weeks for pathology results
+5. If additional nodules need sampling after final path review, will schedule staged procedure
+
+Procedure supervised and performed by Dr. Melissa Anderson, Attending Physician.

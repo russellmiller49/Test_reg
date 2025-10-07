@@ -1,0 +1,36 @@
+===============================================================================
+Name: Paul Anderson / MRN: XL-9284-P / Date of Birth: 11/22/1961
+
+Indication → RUL peripheral nodule 19mm, part-solid, indeterminate on PET (SUV 2.1)
+
+Deep sedation: Propofol infusion 50-75 mcg/kg/min
+Ramsay 4, airway maintained with LMA
+Monitoring: Continuous BP via arterial line, SpO2, ETCO2
+
+Technology: Cone beam CT integrated with EM navigation system
+
+Procedure:
+1. Initial CBCT acquired for registration
+2. EM navigation tracking deployed
+3. Target: RUL posterior segment nodule
+4. Guide sheath advanced under EM + fluoroscopic guidance
+5. Radial EBUS: Concentric pattern confirmed ✓
+6. Sampling completed
+7. CBCT repeated to confirm sheath position and check for pneumothorax
+
+Fluoroscopy metrics:
+- Time: 4.8 minutes
+- DAP: 178 cGy*cm² (including CBCT)
+
+Samples:
+- Needle aspiration ×2
+- Forceps biopsy ×4
+- Brush cytology ×2
+
+Tool-in-lesion: CONFIRMED
+Localization success: YES
+Protocol adherent: YES
+
+Post-procedure CBCT: No pneumothorax identified
+
+No complications. Patient recovered smoothly, discharged after 2 hours.

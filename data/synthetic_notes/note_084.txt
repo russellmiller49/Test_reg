@@ -1,0 +1,22 @@
+===============================================================================
+Name: Sarah Chen | MRN# PX-2947-B | Birth: 03/09/1965
+
+Pre-procedure: 67yo former smoker with RLL peripheral nodule 18mm, no bronchus sign on CT. PET shows SUV 4.2.
+
+Anesthesia: Deep sedation - propofol infusion 75-100mcg/kg/min, Ramsay 4-5, BP q5min, SpO2 continuous
+
+Part 1 - EBUS staging for PET+ N2 nodes:
+Station 4R (9mm SA) - 4x passes, ROSE+, PET+
+Station 7 (11mm SA) - 3x passes, ROSE+, PET+
+Molecular testing sent from station 4R sample
+
+Part 2 - Electromagnetic navigation bronchoscopy:
+Target: RLL lateral segment 18mm nodule
+Navigation system registered, planning complete
+Tool-in-lesion confirmed with radial EBUS - concentric pattern visualized
+Fluoroscopy time: 4.2 minutes, DAP 156 cGy*cm²
+Sampling performed: needle aspirate x2, forceps biopsy x3, cytology brush x2
+
+Safety: Moderate bleeding from biopsy site controlled with topical epinephrine and blocker technique. Patient stable, no desaturation.
+
+Post-procedure: Patient recovered well, discharged after 2 hours observation.

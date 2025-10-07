@@ -1,0 +1,47 @@
+PATIENT: Thomas Anderson, 61-year-old Male
+MRN: 7016954
+INDICATION FOR OPERATION: Mr. Anderson is a 61-year-old male with mediastinal lymphadenopathy of unknown etiology. Two prior EBUS-TBNA attempts at outside hospital yielded non-diagnostic specimens. PET-CT shows intensely FDG-avid station 4R and station 7 nodes. The nature, purpose, risks, benefits and alternatives to EBUS with intranodal forceps biopsy were discussed with the patient in detail. Patient indicated a wish to proceed and informed consent was signed.
+PREOPERATIVE DIAGNOSIS: Mediastinal lymphadenopathy, etiology unknown
+POSTOPERATIVE DIAGNOSIS: Same
+PROCEDURE: EBUS-Guided Intranodal Forceps Biopsy (CPT 31652, 31653)
+ATTENDING: Dr. Lisa Murphy
+ASSISTANT: Dr. John Mitchell, Fellow
+Support Staff:
+
+RN: Patricia Davis
+RT: James Wilson
+
+ANESTHESIA: Moderate sedation with Midazolam 3mg IV and Fentanyl 150mcg IV
+MONITORING: Continuous pulse oximetry, heart rate, telemetry, and BP
+INSTRUMENT: Olympus BF-UC180F EBUS bronchoscope, 21G EBUS needle, 1.1mm mini-forceps
+ESTIMATED BLOOD LOSS: <5 mL
+COMPLICATIONS: None
+PROCEDURE IN DETAIL:
+After sedation and timeout, all procedure related images were saved and archived.
+PATIENT POSITION: Supine
+The EBUS bronchoscope was introduced through the oral route. 5cc of 2% lidocaine was instilled for topical anesthesia. Initial airway inspection was unremarkable.
+Station 4R (Right paratracheal):
+
+Size: 24mm (short axis)
+Echo Features: Heterogeneous, irregular borders, comet-tail artifacts suggestive of calcification
+PET SUV: 8.5
+
+Initial TBNA with 21G needle was performed (3 passes). ROSE showed predominantly inflammatory cells with necrotic debris, non-diagnostic.
+Intranodal Forceps Biopsy Technique:
+The EBUS 21G needle was used to create a tract through the bronchial wall and nodal capsule under real-time ultrasound guidance. The needle was removed and 1.1mm mini-forceps were advanced through the established tract into the lymph node under ultrasound visualization. The forceps jaws were opened and visible ultrasound artifact confirmed intra-nodal position. Four core samples were obtained with visible tissue in forceps each time.
+ROSE on forceps specimens: Adequate cellularity with necrotizing granulomas and multinucleated giant cells, consistent with granulomatous inflammation.
+Station 7 (Subcarinal):
+
+Size: 18mm (short axis)
+Echo Features: Similar to 4R with heterogeneous pattern
+PET SUV: 7.2
+
+Similar intranodal forceps biopsy technique performed with 3 core samples obtained. ROSE: Granulomatous inflammation.
+Hemostasis was adequate after each sampling with no immediate complications. Final inspection showed no bleeding.
+The patient tolerated the procedure well. The attending, Dr. Murphy, was present throughout the entire procedure.
+SPECIMEN(S):
+
+Station 4R: TBNA x3 (cytology), IFB x4 (histology, AFB/fungal culture)
+Station 7: IFB x3 (histology, AFB/fungal culture)
+
+IMPRESSION/PLAN: Mr. Anderson underwent successful EBUS with intranodal forceps biopsy of mediastinal lymph nodes. Preliminary cytology shows necrotizing granulomatous inflammation. Differential includes sarcoidosis, tuberculosis, fungal infection. Awaiting AFB and fungal cultures. Infectious disease consultation requested. Follow up in clinic in 1 week.

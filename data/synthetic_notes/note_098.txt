@@ -1,0 +1,37 @@
+Patient Name: Michael Thompson
+MRN: 7294163
+Date of Procedure: March 1, 2021
+
+Preoperative Diagnosis: Malignant central airway obstruction
+Postoperative Diagnosis: Resolved airway obstruction s/p silicone Y-stent
+Procedure Performed: Rigid bronchoscopy with tumor debulking and silicone tracheobronchial Y-stent placement
+
+Surgeon: Jennifer Williams, MD
+Indications: Airway obstruction
+Consent: Consent was obtained from the patient prior to procedure after explanation in lay terms the indications, details of procedure, and potential risks and alternatives. The patient's family acknowledged and gave consent.
+Sedation: General Anesthesia
+
+Description of Procedure:
+The procedure was performed in the main operating room. After administration of sedatives, a 14 mm ventilating rigid bronchoscope insertion was attempted. Due to poor mouth opening and glottic irregularities (related to previous head and neck radiation), we were unable to pass the large rigid bronchoscope through the cords and had to convert to a 12 mm rigid ventilating bronchoscope which was advanced past the vocal cords into the mid trachea and connected to jet ventilator. Unfortunately, due to a combination of extremely poor dentition and poor mouth opening, two teeth were lost during the intubation procedure.
+
+Airway inspection was performed using the T190 therapeutic flexible bronchoscope. The upper trachea was normal. The mid trachea had friable tumor mostly at the right lateral wall causing about 30% airway obstruction. The distal trachea had extensive tumor involving both mainstems with carinal tumor infiltration as well. The distal trachea was about 20% patent. The left mainstem was completely occluded and the right mainstem was 30% patent. It appeared that intrinsic tumor ingrowth was the predominant issue with only mild extrinsic compression.
+
+Tumor debulking was performed using APC to "burn and shave" the tumor within the trachea and proximal bilateral mainstem along with cryotherapy to remove loose debris and blood clots.
+
+Once we were able to bypass the central tumor, the left mainstem tumor only extended about 1 cm past the main carina and the distal left mainstem and left-sided bronchi were normal and fully patent. The right mainstem involvement was also limited to the first cm past the main carina. There was non-obstructive tumor infiltration in the posterior segment of the right upper lobe, but the right-sided airways were otherwise uninvolved.
+
+After measuring the airways, we customized a 15x12x12 silicone Y-stent to a length of 65 mm in the tracheal limb, 17.5 mm in the right mainstem limb, and 40 mm in the left mainstem limb. The rigid bronchoscope was then removed as the stent was too large to insert through the rigid, and using Freitag forceps along with a bougie inserted into the left limb, we were able to blindly pass the stent through the vocal cords into the trachea. The rigid bronchoscope was then re-inserted. Through the use of rigid forceps and manipulation with the tip of the flexible bronchoscope, we were eventually able to seat the stent into proper position. Post-insertion, the trachea, right mainstem, and left mainstem were all at least 90% patent. We then removed the rigid bronchoscope and turned over the case to anesthesia for recovery.
+
+Recommendations:
+- Transfer back to ICU
+- Post-procedure x-ray
+- Start 3% saline nebs 4cc 3 times daily for stent maintenance
+- Ensure supplemental oxygen is humidified
+- Please arrange for patient to have nebulizer at home for continued hypertonic saline nebs post-discharge
+- If invasive ventilatory support is required, blind intubation (direct laryngoscopy, glidescope) should be avoided as it can result in dislodgment of the tracheal stent and potential catastrophic airway obstruction. Intubation should be performed with a 7.0 or smaller ETT with bronchoscopic insertion to visualize the distal tip of the endotracheal tube. The endotracheal tube should be advanced approximately 3 cm into the tracheal limb of the stent and secured.
+
+Jennifer Williams, MD
+Interventional Pulmonology
+Naval Medical Center San Diego
+
+________________________________________

@@ -1,0 +1,48 @@
+PT: Garcia, Roberto | 52M | MRN 1367281
+DATE: 10/10/2024
+PROVIDER: Dr. K. Patel
+INDICATION:
+
+Post-intubation tracheal stenosis
+Location: 3cm below cords, circumferential narrowing
+Baseline stridor with dyspnea on exertion
+
+PROCEDURE: Flexible bronchoscopy + Balloon dilation (CPT 31630)
+SEDATION: Propofol/fentanyl (general anesthesia)
+FINDINGS:
+
+Vocal cords: normal mobility
+Tracheal stenosis at 3cm below glottis
+Pre-dilation: ~40% luminal narrowing, circumferential scar tissue
+Length: approximately 1.5cm
+No active inflammation or granulation
+
+INTERVENTION:
+
+CRE balloon (8mm x 4cm) advanced to stenosis site
+Serial dilations performed:
+
+8mm × 60 seconds
+10mm × 60 seconds
+12mm × 90 seconds (max size)
+
+
+Total 3 inflations
+Post-dilation patency improved to ~75%
+Minimal mucosal tearing, no significant bleeding
+Topical epinephrine 1:10,000 applied (5mL)
+
+SPECIMENS: None
+COMPLICATIONS: None
+DISPOSITION:
+
+Extubated in OR, stable
+Dexamethasone 10mg IV given
+Admit overnight for monitoring
+F/u flexible scope in 4 weeks
+May need repeat dilation vs stent if restenosis occurs
+
+PLAN:
+→ Repeat dilation in 4-6 weeks
+→ Consider stent if <3 successful dilations
+→ ENT referral for surgical evaluation

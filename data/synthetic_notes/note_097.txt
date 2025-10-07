@@ -1,0 +1,42 @@
+Patient: Sarah Martinez
+MRN: 8472951
+Date of Procedure: May 19, 2025
+Preoperative Diagnosis: Hemoptysis with subcarinal mass
+Postoperative Diagnosis: Malignant central airway obstruction
+Procedure Performed: Rigid bronchoscopy with tumor debulking
+
+CPT Codes:
+• 31641: Bronchoscopy, rigid or flexible, including fluoroscopic guidance, with destruction of tumor or relief of stenosis (laser therapy, cryotherapy)
+• 31640: Bronchoscopy, rigid or flexible, including fluoroscopic guidance, with excision of tumor
+• 31645: Bronchoscopy with therapeutic aspiration
+• 31625: Bronchoscopy with endobronchial biopsy
+• 31652: Bronchoscopy, rigid or flexible, including fluoroscopic guidance, when performed with endobronchial ultrasound (EBUS) guided transtracheal and/or transbronchial sampling 2 or fewer structures
+
+Surgeon: Robert Chen, MD
+Assistant: Sean Foley, MD (Attending)
+Indications: Hemoptysis, significant airway obstruction, and need for tissue biopsy
+Consent: Informed consent obtained from patient and family after detailed explanation of the procedure, associated risks, benefits, and alternatives.
+Anesthesia: General anesthesia
+
+Description of Procedure:
+Following induction of general anesthesia and insertion of an LMA, topical anesthesia was applied to the upper airway. A T190 video bronchoscope was then advanced orally through the LMA into the tracheobronchial tree. Initial inspection revealed normal vocal cords and subglottic space. Significant fresh and clotted blood was present throughout the airway. The proximal and mid trachea appeared normal. The distal trachea and main carina demonstrated extensive friable tumor infiltration causing combined extrinsic and intrinsic obstruction—approximately 15% in the distal trachea, 50% in the proximal left mainstem bronchus, and up to 75% in the right mainstem bronchus. After copious suctioning, the left mainstem bronchus beyond the subcarinal region was clear and normal. The right mainstem bronchus showed diffuse tumor infiltration causing up to 90% obstruction proximally and extending into the proximal right upper lobe bronchus with approximately 85% obstruction. Distal to this region, the airways appeared uninvolved, including the bronchus intermedius, right middle, and lower lobes.
+
+The video bronchoscope and LMA were then removed. A 12 mm ventilating rigid bronchoscope was inserted through the mouth and advanced into the distal trachea. Jet ventilation was initiated via the Monsoon ventilator. Using a therapeutic bronchoscope inserted through the rigid scope, cryotherapy was performed to remove adherent thick clots.
+
+Subsequently, the UC180F convex probe EBUS bronchoscope was utilized to visualize and biopsy the large subcarinal mass. Five transbronchial needle aspirations (TBNA) were conducted using the Olympus Vizishot 2 EBUS TBNA 22-gauge needle. Rapid on-site evaluation (ROSE) confirmed malignant cells. Flexible forceps biopsies were also obtained from visible endobronchial tumor and specimens were preserved in formalin.
+
+The tumor, which was friable and prone to bleeding, was debulked using Argon Plasma Coagulation (APC) for cautery and mechanical debulking through the rigid bronchoscope. After extensive debulking, significant improvement was achieved: the left mainstem bronchus residual obstruction reduced to approximately 10%, and the right mainstem bronchus reduced to approximately 25%.
+
+Persistent diffuse oozing from the tumor bed prompted instillation of 6 cc topical tranexamic acid via flexible bronchoscope. Persistent bleeding was controlled by direct application of three Surgicel pledgets for approximately one minute, successfully achieving hemostasis.
+
+Following verification of hemostasis, the rigid bronchoscope was removed, and patient care was transitioned back to anesthesia.
+
+Complications: None
+Estimated Blood Loss: 30 cc
+
+Post-procedure Recommendations:
+- Admit to ICU overnight for close observation and continuation of nebulized tranexamic acid
+- Await pathology results
+- Upon receipt of preliminary pathology, prompt multidisciplinary discussion with radiation oncology and medical oncology recommended to initiate treatment planning and prevent tumor recurrence and further airway compromise
+
+________________________________________

@@ -1,0 +1,23 @@
+INTERVENTIONAL PULMONOLOGY PROCEDURE NOTE
+OPERATORS: David Kim MD (Attending), Jennifer Walsh MD (Fellow) PROCEDURE PERFORMED: EBUS-TBNA INDICATION: Mediastinal adenopathy, r/o sarcoidosis vs lymphoma
+Pre-procedure: ASA Class III. NPO confirmed. Informed consent obtained with discussion of risks including bleeding, infection, pneumothorax, need for additional procedures.
+SEDATION RECORD:
+•	Midazolam 2mg IV at 0835
+•	Fentanyl 50mcg IV at 0837
+•	Propofol infusion 50-100mcg/kg/min titrated
+The endobronchial ultrasound bronchoscope was introduced via the oral cavity after topical anesthesia with 4% lidocaine spray to oropharynx.
+SYSTEMATIC LYMPH NODE SURVEY: 2R - not enlarged 2L - not visualized
+4R - 19mm, hyperechoic, well-defined borders 4L - 28mm, heterogeneous echotexture, irregular margins 7 - 34mm, large hypoechoic node, elastography pattern suggesting firm consistency 10R - 8mm 10L - 11mm 11R - 22mm
+SAMPLING PERFORMED: Station 7 (subcarinal): Size 34x18mm
+•	Pass 1: 22G needle, good tissue core obtained, ROSE pending
+•	Pass 2: 22G needle, ROSE: Adequate, non-necrotizing granulomas identified
+•	Pass 3: Additional tissue for flow cytometry
+•	Pass 4: Tissue for microbiology cultures
+Station 4L: Size 28x14mm
+•	Pass 1-3: 22G needle, ROSE shows granulomatous inflammation
+Station 11R: Size 22x10mm
+•	Pass 1-2: 22G needle, ROSE adequate
+Total procedure time: 42 minutes EBL: <5mL Complications: None
+Patient tolerated procedure well, transferred to recovery in stable condition.
+PRELIMINARY DIAGNOSIS: Findings consistent with sarcoidosis. Final pathology and cultures pending.
+________________________________________

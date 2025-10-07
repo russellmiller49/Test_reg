@@ -1,0 +1,56 @@
+PATIENT: Sarah Martinez, 58-year-old Female
+MRN: 2458901
+INDICATION FOR OPERATION: Ms. Martinez is a 58-year-old female who presents with mediastinal lymphadenopathy discovered on staging CT for newly diagnosed right upper lobe mass. PET-CT shows FDG-avid nodes in stations 4R, 7, and 10R. The nature, purpose, risks, benefits and alternatives to EBUS-TBNA were discussed with the patient in detail. Patient indicated a wish to proceed and informed consent was signed.
+PREOPERATIVE DIAGNOSIS: Mediastinal lymphadenopathy; Right upper lobe mass
+POSTOPERATIVE DIAGNOSIS: Same
+PROCEDURE: EBUS-TBNA (CPT 31652, 31653)
+ATTENDING: Dr. James Chen
+ASSISTANT: Dr. Emily Rogers, Fellow
+Support Staff:
+
+RN: Karen Thompson
+RT: Michael Davis
+
+ANESTHESIA: Moderate sedation with Midazolam 2mg IV and Fentanyl 100mcg IV
+MONITORING: Pulse oximetry, heart rate, telemetry, and BP were continuously monitored by an independent trained observer present throughout the entire procedure.
+INSTRUMENT: Olympus BF-UC180F EBUS bronchoscope
+ESTIMATED BLOOD LOSS: Minimal
+COMPLICATIONS: None
+PROCEDURE IN DETAIL:
+After the successful induction of anesthesia, a timeout was performed (confirming the patient's name, procedure type, and procedure location). All procedure related images were saved and archived.
+PATIENT POSITION: Supine
+The endobronchial ultrasound-capable bronchoscope was introduced through the oral route. 5 cc of 2% lidocaine was instilled for topical anesthesia. Initial airway inspection revealed normal vocal cords with symmetric movement, normal trachea, and patent bilateral mainstem bronchi without endobronchial lesions.
+A systematic EBUS survey was completed. The following lymph node stations were identified and sampled:
+Station 4R (Right paratracheal):
+
+Size: 18mm (short axis)
+Number of Passes: 4
+Echo Features: Heterogeneous, defined borders, round shape
+Biopsy Tools: 22-gauge needle
+ROSE Results: Adequate cellularity, malignant cells present consistent with adenocarcinoma
+
+Station 7 (Subcarinal):
+
+Size: 22mm (short axis)
+Number of Passes: 4
+Echo Features: Heterogeneous, irregular borders
+Biopsy Tools: 22-gauge needle
+ROSE Results: Adequate cellularity, malignant cells present
+
+Station 10R (Right hilar):
+
+Size: 14mm (short axis)
+Number of Passes: 3
+Echo Features: Hypoechoic, defined borders
+Biopsy Tools: 22-gauge needle
+ROSE Results: Adequate cellularity, malignant cells present
+
+Overall ROSE Diagnosis: Metastatic adenocarcinoma. Prior to withdrawal of the bronchoscope, inspection demonstrated no evidence of bleeding.
+The patient tolerated the procedure well. There were no immediate complications. The attending, Dr. Chen, was present at the bedside and supervised the entire procedure.
+SPECIMEN(S):
+
+Station 4R TBNA x4 (cytology)
+Station 7 TBNA x4 (cytology)
+Station 10R TBNA x3 (cytology)
+
+IMPRESSION/PLAN: Ms. Martinez is a 58-year-old female with newly diagnosed lung adenocarcinoma. EBUS-TBNA confirms N2 and N3 nodal involvement (Stage IIIB). Results will be discussed at multidisciplinary tumor board. Patient to follow up with medical oncology for treatment planning.

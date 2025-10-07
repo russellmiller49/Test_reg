@@ -1,0 +1,36 @@
+===============================================================================
+PT: RICHARD BROWN | ID#: MD-8472-K | DOB: 03/27/1952
+
+MULTIFACETED CASE: Bulky mediastinal disease + RML stenosis + LUL peripheral nodule
+
+GENERAL ANESTHESIA: ETT, propofol/remi infusion, Ramsay 6
+A-line monitoring, BP continuous
+
+PHASE 1 - STAGING EBUS:
+Attempted systematic evaluation - challenging due to bulky disease
+- Station 4R: 28mm conglomerate mass, 5 passes, ROSE + malignant, PET+, molecular sent
+- Station 7: Unable to access (compressed by tumor)
+- Station 10R: 11mm, 3 passes, ROSE + malignant, PET+
+- Station 11R: Difficult anatomy, 2 passes obtained, ROSE adequate
+Photodoc limited by distorted anatomy
+
+PHASE 2 - ENDOBRONCHIAL DISEASE:
+RML bronchus has exophytic tumor causing 80% stenosis
+Biopsy ×6 forceps - confirmed same malignancy
+Argon plasma coagulation applied for debulking
+12mm × 30mm metallic stent placed for symptom relief
+
+PHASE 3 - NAVIGATION FOR LUL NODULE:
+EM navigation performed
+LUL apical-posterior nodule 16mm targeted
+Tool-in-lesion confirmed radial EBUS
+Fluoro: 5.2 min, DAP: 201 cGy*cm²
+Sampling: needle ×2, biopsy ×3
+
+COMPLICATIONS:
+- Moderate bleeding from endobronchial tumor biopsy site (controlled with epi + APC)
+- Transient hypoxia to 85% during stent deployment (resolved with ventilator adjustment)
+
+Procedure duration: 98 minutes
+
+Patient recovered well, extubated, ICU observation overnight.

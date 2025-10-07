@@ -1,0 +1,84 @@
+Patient Name: Douglas Diaz
+MRN: 6184729
+Date of Procedure: February 11, 2025
+
+Indication for Operation: Douglas Diaz is a 74-year-old male with chronic obstructive pulmonary disease (COPD) and a right upper lobe (RUL) nodule. The nature, purpose, risks, benefits, and alternatives to bronchoscopy were discussed with the patient in detail. Patient indicated a wish to proceed with surgery and informed consent was signed.
+
+Consent: Obtained before the procedure. Its indications and potential complications and alternatives were discussed with the patient or surrogate. The patient or surrogate read and signed the provided consent form. The consent was witnessed by an assisting medical professional.
+
+Preoperative Diagnosis: R91.1 Solitary Lung Nodule, J44.9 COPD
+Postoperative Diagnosis: R91.1 Solitary Lung Nodule, J44.9 COPD
+
+Procedure:
+• 31624 Diagnostic bronchoscopy/lavage (BAL)
+• 31628 Transbronchial biopsy single lobe
+• 31629 TBNA single lobe
+• 31627 Navigational Bronchoscopy (computer assisted)
+• 31634 Balloon occlusion or placement of occlusive substance
+• 76377 3D rendering with interpretation and reporting of CT, US, Tomo modality (ION Planning Station)
+• 77012 Radiology/radiologic guidance for CT guided needle placement (CIOS)
+• XU Unusual Non-Overlapping Service, the use of a service that is distinct because it does not overlap usual components of the main service
+• C7509 Diagnostic with cell washing(s) when performed, with computer-assisted image-guided navigation, including fluoroscopic guidance when performed
+• C7510 Bronchial alveolar lavage(s), with computer-assisted image-guided navigation, including fluoroscopic guidance when performed
+• C7511 Single or multiple bronchial or endobronchial biopsy(ies), single or multiple sites, with computer-assisted image-guided navigation, including fluoroscopic guidance when performed
+
+Attending: Russell J. Miller, MD
+Anesthesia: General Anesthesia
+Monitoring: Pulse oximetry, heart rate, telemetry, and BP were continuously monitored by an independent trained observer that was present throughout the entire procedure.
+
+Instrument:
+• Flexible Therapeutic Bronchoscope
+• Ion Robotic Bronchoscope
+
+Estimated Blood Loss: Minimum
+Complications: None
+
+Procedure in Detail:
+After the successful induction of anesthesia, a timeout was performed (confirming the patient's name, procedure type, and procedure location).
+
+Initial Airway Inspection Findings:
+The therapeutic flexible bronchoscope was introduced through the endotracheal tube adaptor and advanced into the trachea. The trachea was thoroughly examined, revealing a sharp carina. The bronchial tree was inspected bilaterally to the subsegmental level, with the mucosa appearing smooth and uniformly pink. No nodularity, lesions, abnormal secretions, airway narrowing, or distortion was noted.
+
+Navigation and Targeting:
+A CT chest scan was displayed on a separate planning station to generate a three-dimensional rendering of the pathway to the target. The navigational plan was reviewed, verified, and loaded into the robotic bronchoscopy platform. Robotic navigation was performed using the Ion platform with partial registration. The Ion robotic catheter was advanced to the Anterior Segment of RUL (RB3), targeting a lesion approximately 1.4 cm in diameter. Under navigational guidance, the catheter was advanced to within 2.5 cm of the planned target.
+
+Cone Beam CT Imaging:
+A cone beam CT was obtained using the Cios Spin system with a low-dose spin protocol. Three-dimensional reconstructions were performed on an independent workstation, and the images were transmitted to the Ion platform. Based on the updated nodule location, the Ion robotic system was adjusted accordingly. I personally reviewed and interpreted the cone beam CT and 3D reconstructions.
+
+Transbronchial Needle Aspiration (TBNA):
+A TBNA was performed using a 23G needle via the extended working channel catheter. A subsequent low-dose CT spin confirmed appropriate tool placement within the lesion. Additional TBNA samples (total of six) were then obtained using both 21G Needle and 23G Needle. All samples were sent for Microbiology (Cultures/Viral/Fungal) and Cytology.
+
+Transbronchial Cryobiopsy:
+Transbronchial cryobiopsies were performed using a 1.1 mm cryoprobe via the extended working channel catheter with a freeze time of 6 seconds per sample. A total of five samples were collected and sent for Microbiology (Cultures/Viral/Fungal) and Cytology.
+
+Bronchoalveolar Lavage (BAL):
+A BAL was performed through the extended working channel catheter by instilling 20 cc of normal saline, with 10 cc returned. Samples were sent for Microbiology (Cultures/Viral/Fungal) and Cytology.
+
+Rapid On-Site Evaluation (ROSE):
+ROSE from the Ion procedure revealed atypical cells present but no evidence of malignant neoplasm, suggesting an inflammatory or infectious process.
+
+Additional BAL:
+After completion of the robotic bronchoscopy, the therapeutic bronchoscope was reinserted, and a BAL was performed in the Apical Segment of RUL (RB1). Forty cc of normal saline was instilled with a 20 cc return, and samples were sent for Cell Count.
+
+Chartis Evaluation:
+A Chartis evaluation of the left upper lobe was performed to assess for collateral ventilation in anticipation of future endobronchial valve (EBV) treatment. Balloon occlusion using the Chartis system in the target left upper lobe confirmed the absence of collateral ventilation as evidenced by the cessation of the air leak.
+
+The patient tolerated the procedure well. There were no immediate complications. At the conclusion of the operation, the patient was extubated in the operating room and transported to the recovery room in stable condition.
+
+Specimen(s):
+• TBNA (RUL): Peripheral nodule sample sent for pathology and culture
+• Transbronchial Cryobiopsies (RUL): Peripheral nodule samples sent for pathology and culture
+• BAL (RUL): Specimen sent for respiratory and fungal cultures, AFB, and cytology
+
+Impression/Plan: Douglas Diaz is a 74-year-old male who underwent bronchoscopy for evaluation of an RUL peripheral nodule as well as a Chartis examination of the left upper lobe in preparation for potential EBV treatment. Collateral ventilation status was confirmed.
+
+Recommendations:
+• Transfer to PACU
+• Obtain chest X-ray
+• Discharge home once cleared by PACU
+• Await pathology and culture results and based on findings follow up for EBV insertion for COPD
+
+Russell J. Miller, MD
+February 11, 2025
+
+________________________________________

@@ -1,0 +1,74 @@
+Patient Name: David Kim
+MRN: 5938271
+Date of Procedure: February 20, 2025
+
+Proceduralist(s): Amanda Rodriguez, MD
+
+Anesthesia/Medications:
+• General anesthesia with 8.5 ETT placement
+• Topical anesthesia (6 cc 1% lidocaine)
+• Additional intravenous medications per institutional protocol
+
+Indications: Bilateral lung masses
+Pre-Procedure Diagnosis: Suspected lung malignancy
+Post-Procedure Diagnosis: Suspected lung malignancy
+
+Consent: The nature, purpose, risks, benefits, and alternatives of the procedure were discussed with the patient (or surrogate). Informed consent was obtained and documented per institutional protocol.
+
+Time-Out: A formal time-out was performed confirming the patient's identity, procedure, and site.
+
+I. Initial Airway Inspection
+
+Findings:
+• The flexible bronchoscope was introduced through the 8.5 ETT and advanced into the trachea
+• The trachea was thoroughly examined, revealing a sharp carina
+• The bronchial tree was inspected bilaterally to the subsegmental level
+• Inspection notable for an endobronchial fungating mass in the RUL obstructing the superior and anterior segments
+• The remaining airways appeared normal with no additional endobronchial abnormalities, mucosal irregularities, or abnormal secretions
+
+II. Tissue Sampling Procedures
+
+A. Right Upper Lobe (RUL) Endobronchial Biopsy
+• An endobronchial mass was identified obstructing the superior and anterior segments of the RUL
+• Sampling Techniques:
+  - Transbronchial Needle Aspiration (TBNA): Performed using Periview Flex transbronchial needle with five (5) passes
+  - Endobronchial Forceps Biopsy: Performed with six (6) samples obtained
+  - Hemostasis: Moderate bleeding noted, successfully controlled with instillation of 2 cc of topical epinephrine
+
+B. Left Lower Lobe (LLL) Lesion Biopsy
+• A second lesion was identified in the superior segment of the LLL using radial endobronchial ultrasound (EBUS) with a concentric view
+• Sampling Techniques:
+  - Transbronchial Needle Aspiration (TBNA): Performed using Periview Flex with four (4) passes
+  - Transbronchial Forceps Biopsy: Performed with five (5) samples obtained
+  - Hemostasis: Moderate bleeding noted, successfully controlled with instillation of 2 cc of topical epinephrine
+
+C. Bronchoalveolar Lavage (BAL) - Left Lower Lobe (LLL) Superior Segment
+• A BAL was performed in the superior segment of the left lower lobe
+• Instillation: 110 cc normal saline
+• Return: 20 cc
+• Samples sent for cytology, microbiology (bacterial, fungal, and mycobacterial cultures), and differential cell count
+
+D. Rapid On-Site Evaluation (ROSE)
+• Right Upper Lobe (RUL) lesion: ROSE interpretation was malignant
+• Left Lower Lobe (LLL) lesion: ROSE revealed abundant necrosis but pathology was unable to definitively confirm malignancy
+
+III. Final Airway Re-Inspection and Conclusion
+
+Findings:
+• No active bleeding was noted on final airway inspection
+• No evidence of airway compromise
+
+Estimated Blood Loss: Moderate, successfully controlled with topical epinephrine
+Complications: No immediate complications
+
+Disposition/Plan:
+• The patient remained hemodynamically stable throughout the procedure and was transferred to the PACU in stable condition
+• Post-procedure CXR was performed to rule out pneumothorax or other complications
+• Pathology, cytology, and microbiology results are pending
+• Follow-up bronchoscopy and multidisciplinary evaluation will be planned based on final pathology results
+
+Attending: Amanda Rodriguez, MD
+Interventional Pulmonary and Critical Care
+Naval Medical Center San Diego
+
+________________________________________

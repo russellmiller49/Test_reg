@@ -1,0 +1,24 @@
+===============================================================================
+MRN A47829C | DOB 08/14/1959 | Pt: David Kim
+
+INDICATION: LUL peripheral ground-glass nodule 9mm, no bronchus sign, slow growth over 18mo
+
+MEDS: Local anesthesia only - topical lidocaine 4% nebulized + transtracheal 2% lidocaine
+Patient awake, cooperative throughout (Ramsay 2)
+
+TECHNIQUE:
+- Virtual bronchoscopy planning completed pre-procedure
+- Electromagnetic navigation system utilized
+- Target registration successful, error <5mm
+- Extended working channel advanced to LUL apical-posterior segment
+- Radial EBUS probe confirmed tool-in-lesion - eccentric pattern initially, adjusted to concentric
+- Fluoroscopy used for confirmation: 2.8 minutes total time, DAP 98 cGy*cm²
+
+SAMPLING:
+Transbronchial needle aspiration ×2
+Transbronchial forceps biopsy ×4 (small samples given GGO nature)
+Cytology brush ×1
+
+SAFETY: No pneumothorax on immediate post-procedure CXR. No bleeding. SpO2 stable 96-98% throughout.
+
+SUCCESS METRICS: Tool-in-lesion confirmed, localization successful, diagnostic sampling completed per protocol.

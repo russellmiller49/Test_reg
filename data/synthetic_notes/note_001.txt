@@ -1,0 +1,20 @@
+===============================================================================
+Patient: Robert Martinez  MRN: KL-847-92  DOB: 07/22/1958
+Procedure Date: 09/15/2024
+
+INDICATION: Mediastinal staging for newly diagnosed right upper lobe lung adenocarcinoma. PET-CT shows FDG-avid mediastinal lymphadenopathy.
+
+SEDATION: Moderate sedation achieved with midazolam 3mg IV + fentanyl 75mcg IV. Patient remained Ramsay 3 throughout procedure. Continuous SpO2 monitoring maintained >95%. Blood pressure checked every 5 minutes per protocol.
+
+PROCEDURE:
+Systematic EBUS-TBNA evaluation performed following N3→N2→N1 sequence. Photodocumentation of all accessible lymph node stations completed prior to sampling.
+
+Stations sampled:
+- Station 4R: Short axis 12mm, 4 needle passes, ROSE positive for malignant cells, PET+
+- Station 7: Short axis 18mm, 4 needle passes, ROSE positive for malignant cells, PET+
+- Station 10R: Short axis 8mm, 3 needle passes, ROSE adequate, PET-
+- Station 11R: Short axis 6mm, 3 needle passes, ROSE adequate, PET-
+
+COMPLICATIONS: None. No bleeding, no desaturation events.
+
+IMPRESSION: EBUS-TBNA with adequate sampling of mediastinal and hilar lymph nodes for complete staging evaluation.

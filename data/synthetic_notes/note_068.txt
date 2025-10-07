@@ -1,0 +1,44 @@
+===============================================================================
+PATIENT DATA
+│ Field                  │ Value                                    │
+├────────────────────────┼─────────────────────────────────────────┤
+│ Name                   │ William Taylor                          │
+│ MRN                    │ XX-8473-MM                              │
+│ DOB                    │ 08/17/1959                              │
+│ Procedure Date         │ 10/20/2024                              │
+│ Indication             │ Peripheral LLL nodule 16mm              │
+
+SEDATION DATA
+│ Parameter              │ Value                                    │
+├────────────────────────┼─────────────────────────────────────────┤
+│ Type                   │ Deep sedation                           │
+│ Agent 1                │ Propofol infusion 50-100 mcg/kg/min    │
+│ Airway                 │ LMA                                      │
+│ Max Ramsay             │ 4                                        │
+│ BP Monitoring          │ Every 5 minutes                         │
+│ SpO2                   │ Continuous (maintained 95-98%)          │
+
+NAVIGATION DATA
+│ Parameter              │ Value                                    │
+├────────────────────────┼─────────────────────────────────────────┤
+│ System                 │ Electromagnetic                         │
+│ Target                 │ LLL superior segment                    │
+│ Registration           │ Successful                              │
+│ Tool-in-Lesion         │ Confirmed (radial EBUS concentric)     │
+│ Fluoroscopy Time       │ 4.7 minutes                             │
+│ DAP                    │ 182 cGy*cm²                             │
+
+SAMPLING DATA
+│ Sample Type            │ Quantity                                 │
+├────────────────────────┼─────────────────────────────────────────┤
+│ Needle aspirate        │ 3                                        │
+│ Forceps biopsy         │ 4                                        │
+│ Brush cytology         │ 2                                        │
+
+OUTCOME DATA
+│ Metric                 │ Status                                   │
+├────────────────────────┼─────────────────────────────────────────┤
+│ Localization Success   │ YES                                      │
+│ Protocol Adherent      │ YES                                      │
+│ Complications          │ None                                     │
+│ Post-XR Pneumothorax   │ No                                       │

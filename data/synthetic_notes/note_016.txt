@@ -1,0 +1,33 @@
+===============================================================================
+PROCEDURAL FLEXIBLE BRONCHOSCOPY WITH EBUS-TBNA
+
+PATIENT: [Nancy Rodriguez]
+MRN: [WW-8372-Q]
+DOB: [04/15/1955]
+DATE: [10/25/2024]
+
+CLINICAL INDICATION: [Mediastinal staging for right lower lobe adenocarcinoma]
+
+SEDATION:
+Type: [Moderate]
+Medications: [Midazolam 3mg IV, Fentanyl 75mcg IV]
+Maximum Ramsay: [3]
+Monitoring: [BP q5min, continuous SpO2]
+Vitals: [Stable - BP 118-132/68-78, SpO2 96-99%]
+
+EBUS-TBNA FINDINGS:
+
+Systematic Evaluation: [Yes] N3→N2→N1 sequence
+
+Station [4R]: Size [13mm], Passes [4], ROSE [Positive-malignant], PET [Positive]
+Station [7]: Size [19mm], Passes [4], ROSE [Positive-malignant], PET [Positive]
+Station [10R]: Size [8mm], Passes [3], ROSE [Adequate-benign], PET [Negative]
+
+Photodocumentation: [Complete]
+Molecular Testing: [Sent from station 4R]
+
+COMPLICATIONS: [None]
+
+DIAGNOSTIC IMPRESSION: [N2 disease confirmed, multi-station involvement]
+
+FOLLOW-UP PLAN: [MDT discussion, neoadjuvant therapy consideration]

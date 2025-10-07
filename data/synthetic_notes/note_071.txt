@@ -1,0 +1,96 @@
+PATIENT: Michael Chang, 55-year-old Male
+MRN: 1145039
+INDICATION FOR OPERATION: Mr. Chang is a 55-year-old male with a 1.8cm spiculated left lower lobe nodule discovered on low-dose CT screening. PET shows SUV 3.2. Nodule location is peripheral in the lateral basal segment. The nature, purpose, risks, benefits and alternatives to robotic navigational bronchoscopy were discussed with the patient in detail. Patient indicated a wish to proceed and informed consent was signed.
+PREOPERATIVE DIAGNOSIS: Left lower lobe pulmonary nodule
+POSTOPERATIVE DIAGNOSIS: Same
+PROCEDURE: Robotic Navigational Bronchoscopy using Intuitive Ion System (CPT 31627), Radial EBUS (CPT 31654), Transbronchial Biopsy (CPT 31628), Transbronchial Brushing (CPT 31623)
+ATTENDING: Dr. Amanda Roberts
+ASSISTANT: Dr. Jason Kim, Fellow
+Support Staff:
+
+RN: Laura Martinez
+RT: Thomas Wilson
+Anesthesia: Dr. Susan Park
+
+ANESTHESIA: General anesthesia with endotracheal intubation
+MONITORING: Standard ASA monitoring
+INSTRUMENT: Intuitive Ion Robotic Platform, radial EBUS probe, biopsy forceps, cytology brush
+ESTIMATED BLOOD LOSS: <10 mL
+COMPLICATIONS: None
+PROCEDURE IN DETAIL:
+After induction of general anesthesia and intubation with 8.0 ETT, a timeout was performed. All procedure related images were saved and archived.
+PATIENT POSITION: Supine
+Ventilation Parameters:
+
+Mode: Volume Control
+RR: 12
+TV: 500mL
+PEEP: 5 cmH₂O
+FiO₂: 40%
+Flow Rate: 50 L/min
+Pmean: 14 cmH₂O
+
+Navigation Planning:
+CT Chest scan from 9/28/2024 was placed on the separate planning station (Synapse Lung) to generate 3D rendering of the pathway to target nodule in the lateral basal segment of the left lower lobe (LB9). The navigational plan was reviewed, verified, and loaded into the Ion robotic bronchoscopy platform.
+Target lesion characteristics:
+
+Location: LLL, lateral basal segment (LB9)
+Size: 1.8cm
+Distance from pleura: 1.2cm
+Bronchus sign: Present
+
+Ion Registration - Complete:
+Registration to the pre-procedure CT was completed using automatic methods. Adequate airway landmark matching achieved at:
+
+Main carina
+Left main carina
+LLL segmental carinas
+Tertiary bifurcations in LB9
+
+Mean fiducial error: 3.8mm
+Global alignment quality: Excellent
+No registration drift observed during the case
+A confidence sweep confirmed stable targeting throughout the planned trajectory with virtual-to-live alignment within acceptable parameters.
+Navigation:
+The Ion catheter was advanced under navigational guidance through the left mainstem bronchus, into the LLL, and subsequently into the LB9 segment. The robotic system provided real-time feedback with shape sensing technology.
+Target reached notification appeared when catheter tip was 0.6cm from the planned target center.
+Radial EBUS Confirmation:
+Radial EBUS probe (1.4mm) was passed through the Ion extended working channel to confirm lesion location. The following features were noted:
+
+Pattern: Concentric
+Echogenicity: Heterogeneous
+Lesion size by REBUS: 19mm
+Distance to pleura: 11mm
+Vessel proximity: No large vessels within 5mm
+
+Cone-Beam CT Verification:
+Mobile C-arm CBCT spin was performed with the Ion catheter in position. Three-dimensional reconstruction confirmed:
+
+Catheter tip within lesion margins
+Distance from lesion center: 4mm
+Trajectory angle: Optimal for sampling
+No pleural transgression
+
+Sampling:
+With confirmed tool-in-lesion position:
+
+Transbronchial Biopsy: Forceps biopsies obtained through Ion extended working channel. Total 6 samples collected with visible tissue in each specimen.
+Bronchial Brushings: Cytology brush advanced to lesion site. Total 2 brush samples obtained.
+Aspiration: Catheter aspiration performed for cytology.
+
+All samples appeared adequate with visible tissue/cellular material. No ROSE available.
+Post-Sampling Inspection:
+The Ion catheter was withdrawn. Final bronchoscopic inspection showed:
+
+No active bleeding from biopsy site
+Patent LLL airways
+No complications identified
+
+The patient tolerated the procedure well. There were no immediate complications. The attending, Dr. Roberts, was present throughout the entire procedure.
+SPECIMEN(S):
+
+LLL nodule forceps biopsies x6 (histology, molecular if malignant)
+Bronchial brushings x2 (cytology)
+Catheter aspiration (cytology)
+
+IMPRESSION/PLAN: Mr. Chang underwent successful robotic navigational bronchoscopy with sampling of LLL nodule. Procedure completed without complications. Post-procedure CXR shows no pneumothorax. Patient discharged home same day with instructions to follow up in 1 week for pathology results. If benign, will need CT follow-up in 3-6 months per Fleischner criteria. If malignant, will be discussed at multidisciplinary tumor board for treatment planning.

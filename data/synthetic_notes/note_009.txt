@@ -1,0 +1,10 @@
+===============================================================================
+S: 71M with NSCLC, needs mediastinal staging before resection
+O: EBUS performed under moderate sedation (midaz 3mg, fent 75mcg). Ramsay 3.
+   Vitals stable, BP q5min, SpO2 96-99% on 2L NC.
+   Stations: 4R 11mm (PET+) x4 passes ROSE+, 7 subcarinal 14mm (PET+) x4 ROSE+,
+   10R 7mm x3 ROSE adequate. Systematic N3-N2-N1 done. Photos all stations.
+A: N2 disease confirmed bilevel (4R, 7). Adequate molecular tissue.
+P: Present at tumor board. Likely neoadjuvant chemo.
+Name: Harold Kim | MRN GH-4829-P | DOB 04/12/1953
+Complications: none

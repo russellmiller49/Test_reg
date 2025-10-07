@@ -1,0 +1,32 @@
+PATIENT: James Wilson, 45-year-old Male
+MRN: 5894732
+INDICATION FOR OPERATION: Mr. Wilson is a 45-year-old male admitted 18 days ago with ARDS secondary to COVID-19 pneumonia. Patient remains ventilator-dependent with anticipated prolonged intubation. The nature, purpose, risks, benefits and alternatives to percutaneous tracheostomy were discussed with the patient's wife (patient sedated). Surrogate indicated a wish to proceed and informed consent was obtained.
+PREOPERATIVE DIAGNOSIS: Prolonged mechanical ventilation; ARDS
+POSTOPERATIVE DIAGNOSIS: Same
+PROCEDURE: Tracheostomy, Planned (Percutaneous, Bronchoscopic Assistance) (CPT 31600)
+ATTENDING: Dr. Jennifer Taylor
+ASSISTANT: Dr. Mark Stevens, Fellow
+Support Staff:
+
+RN: Amanda White
+RT: Christopher Lee
+
+ANESTHESIA: Propofol and Fentanyl infusions (patient already intubated and sedated)
+MONITORING: ICU monitoring with continuous pulse oximetry, arterial line, telemetry
+INSTRUMENT: Olympus bronchoscope, Ciaglia Blue Rhino percutaneous tracheostomy kit, 8.0 Shiley cuffed tracheostomy tube
+ESTIMATED BLOOD LOSS: 20 mL
+COMPLICATIONS: None
+PROCEDURE IN DETAIL:
+After timeout, all procedure related images were saved and archived.
+PATIENT POSITION: Supine with neck extension (shoulder roll)
+The bronchoscope was introduced through the existing 8.0 ETT into the trachea. The bronchoscope was retracted into the ETT tube and the ET tube retracted into the subglottic space under direct visualization. The inferior border of the cricoid along with the proximal tracheal rings were visualized and counted.
+With bronchoscopic visualization, the anterior neck was prepped and draped in sterile fashion. Lidocaine 1% 3ml was injected into the anterior neck for local anesthesia. A 1cm vertical skin incision was made with a #10 blade down through the subcutaneous tissue, just inferior to the cricoid cartilage.
+A syringe with 1% Lidocaine was attached to the introducer needle and passed between the 1st and 2nd tracheal rings into the trachea under direct visualization. Aspiration of air confirmed tracheal entry. The needle was removed and the 18-gauge introducer catheter over needle was advanced into this position under direct visualization.
+The inner needle was removed and the introducer catheter left in place. A J-wire was passed through the catheter, visualized with the bronchoscope entering the tracheal lumen. The site was dilated using the 14Fr introducing dilator passed over the wire.
+The 14Fr dilator was removed and an 8Fr guiding catheter placed over the guide wire until the safety ridge on the guiding catheter was at skin level. The Blue Rhino dilator was placed over the guiding catheter and advanced until the positioning mark (corresponding to 8.0 trach size) was visualized via the bronchoscope between the 1st and 2nd tracheal rings.
+The Blue Rhino dilator was removed leaving the guiding catheter and guide wire assembly in place, all under direct visualization bronchoscopically.
+Finally, a Shiley 8.0 cuffed tracheostomy tube with appropriate dilator was introduced over the guiding catheter into the trachea under direct visualization. The dilator, guiding catheter, and J-wire were removed and the tracheostomy tube left in place. Position was confirmed bronchoscopically with the tip approximately 3cm above the carina.
+The endotracheal tube was removed and the ventilator connected to the tracheostomy tube. End-tidal CO2 waveform confirmed appropriate ventilation. Surgicel was placed preemptively around the tracheostomy site to reduce bleeding. A Lyofoam drain sponge was placed under the tracheostomy tube prior to suturing into place with 2-0 nylon sutures.
+The patient tolerated the procedure well. There were no complications. The staff physician, Dr. Taylor, was present throughout the entire procedure.
+SPECIMEN(S): None
+IMPRESSION/PLAN: Mr. Wilson underwent successful percutaneous tracheostomy with bronchoscopic guidance. Procedure performed without complications. CXR post-procedure shows appropriate positioning without pneumothorax. Continue mechanical ventilation via tracheostomy. Tracheostomy care per protocol. Follow up with ICU team for ongoing management.

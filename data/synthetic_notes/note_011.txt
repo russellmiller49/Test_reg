@@ -1,0 +1,51 @@
+===============================================================================
+PROTOCOL: Bronchoscopy Registry Study #2024-BR-0847
+SUBJECT ID: S-047
+DEMOGRAPHICS: 68 y.o. male, former smoker (40 pack-years, quit 2018)
+DATE: 2024-10-15
+OPERATOR: De-identified per protocol
+
+PRIMARY INDICATION: Mediastinal lymph node staging
+TARGET PATHOLOGY: Right lower lobe adenocarcinoma (biopsy-proven)
+
+ANESTHESIA PROTOCOL:
+└─ Agent: Midazolam IV
+   ├─ Dose: 2mg initial, 1mg supplemental at T+15min
+   └─ Total: 3mg
+└─ Agent: Fentanyl IV
+   ├─ Dose: 50mcg initial, 25mcg supplemental at T+20min
+   └─ Total: 75mcg
+└─ Sedation Level: Ramsay Scale maximum 3
+└─ Monitoring Frequency: BP q5min, continuous SpO2
+
+EBUS-TBNA STATIONS SAMPLED:
+├─ Station 4R
+│  ├─ Size: 10mm short-axis
+│  ├─ Passes: 4
+│  ├─ ROSE: Positive for malignant cells
+│  └─ PET: Positive (SUV 6.2)
+├─ Station 7
+│  ├─ Size: 15mm short-axis
+│  ├─ Passes: 4
+│  ├─ ROSE: Positive for malignant cells
+│  └─ PET: Positive (SUV 8.1)
+└─ Station 10R
+   ├─ Size: 7mm short-axis
+   ├─ Passes: 3
+   ├─ ROSE: Adequate, benign lymphocytes
+   └─ PET: Negative
+
+QUALITY METRICS:
+├─ Systematic evaluation (N3→N2→N1): YES
+├─ Photodocumentation all accessible stations: YES
+├─ ROSE adequacy all sampled nodes: YES
+├─ Molecular testing samples obtained: YES (from station 7)
+└─ Protocol adherence: 100%
+
+ADVERSE EVENTS:
+└─ None (Grade 0)
+
+DIAGNOSTIC YIELD: Pending final pathology (preliminary: N2 disease confirmed)
+
+PATIENT IDENTIFIERS (SYNTHETIC):
+Name: Robert Anderson | MRN: KK-9473-L | DOB: 05/19/1956

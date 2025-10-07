@@ -1,0 +1,54 @@
+===============================================================================
+>>DATA ENTRY FORM: BRONCHOSCOPY REGISTRY<<
+
+CASE ID: BR-2024-10-0847
+TIMESTAMP: 2024-10-28 14:22:35
+
+[PATIENT IDENTIFIERS]
+Name: James Wilson
+MRN: LL-9384-P
+DOB: 08/25/1957
+
+[PROCEDURE TYPE]
+( ) Diagnostic flexible bronchoscopy
+(X) EBUS-TBNA
+( ) Navigation bronchoscopy
+( ) Therapeutic bronchoscopy
+( ) Combined (specify): ____________
+
+[SEDATION]
+Type: (X) Moderate ( ) Deep ( ) General ( ) Local
+Ramsay Max: [3]
+Monitoring Interval: ( ) 5min (X) 10min ( ) 15min
+Reversal Agents: ( ) Flumazenil ( ) Naloxone (X) None
+
+[EBUS DATA - if applicable]
+Staging Indication: (X) Yes ( ) No
+Systematic N3-N2-N1: (X) Yes ( ) No
+Photodoc All Stations: (X) Yes ( ) No
+
+Station Data Entry:
+[Add Station] → Station: [4R] Size: [10]mm Passes: [4] ROSE: (X)Positive PET: (X)Positive
+[Add Station] → Station: [7] Size: [14]mm Passes: [4] ROSE: (X)Positive PET: (X)Positive
+[Add Station] → Station: [11R] Size: [7]mm Passes: [3] ROSE: (X)Adequate PET: ( )Positive
+
+All Nodes Adequate: (X) Yes ( ) No
+Molecular Sample: (X) Yes ( ) No
+
+[COMPLICATIONS]
+(X) None
+( ) Pneumothorax - Severity: ___
+( ) Bleeding - Severity: ___
+( ) Hypoxia
+( ) Other: ___________
+
+[QUALITY METRICS]
+( ) Visible endobronchial tumor
+(X) Systematic evaluation performed
+(X) Photo documentation complete
+(X) ROSE available
+( ) Cryobiopsy performed
+
+[SUBMIT] [CLEAR FORM] [SAVE DRAFT]
+
+>>Entry saved at 2024-10-28 14:25:18<<

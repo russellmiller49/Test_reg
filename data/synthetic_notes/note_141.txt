@@ -1,0 +1,92 @@
+Name: Rebecca Martinez
+Age/Sex: 68/Female
+MRN: 1812736
+Date: October 21, 2024
+Location: Bedside, ICU Room 437
+Attending Physician: Dr. Thomas Anderson
+Indication: Recurrent malignant pleural effusion (metastatic ovarian cancer), right-sided, despite optimal drainage via chest tube
+Background: Patient has had 28Fr chest tube in place for 5 days. Initial drainage was 1400mL, then decreased to <100mL/day for the past 48 hours. CXR today shows good lung expansion with only minimal residual pleural fluid. No air leak present. Patient is appropriate candidate for pleurodesis.
+Consent: Obtained from patient. Risks discussed include chest pain/discomfort, fever, respiratory distress (rare), failure of pleurodesis requiring repeat procedure.
+Premedication:
+
+Morphine 4mg IV given 30 minutes prior
+Acetaminophen 1000mg PO given 1 hour prior
+Ondansetron 4mg IV given for nausea prophylaxis
+
+
+PROCEDURE STEPS:
+Step 1 - Verification (Time: 14:00)
+
+Verified chest tube patency by flushing with 10mL sterile saline
+Confirmed no air leak on water seal
+Reviewed most recent CXR with radiologist - confirmed adequate lung expansion
+
+Step 2 - Lidocaine Administration (Time: 14:05)
+
+Drew up 20mL of 1% lidocaine (200mg total)
+Administered through chest tube slowly over 2 minutes
+Clamped tube for 5 minutes to allow lidocaine to distribute
+Released clamp, allowed to drain
+
+Step 3 - Talc Slurry Preparation (Time: 14:15)
+
+Prepared sterile talc slurry: 4 grams talc powder in 50mL normal saline
+Mixed thoroughly in sterile cup until uniform suspension achieved
+Drew up into 60mL catheter tip syringe
+
+Step 4 - Talc Administration (Time: 14:20)
+
+Slowly instilled talc slurry through chest tube over 5 minutes
+Followed with 20mL normal saline flush to ensure complete delivery
+Immediately clamped chest tube
+
+Step 5 - Position Changes (Time: 14:25 - 15:25)
+Patient rotated through positions every 15 minutes to distribute talc:
+
+Position 1 (14:25): Supine - 15 minutes
+Position 2 (14:40): Right lateral decubitus - 15 minutes
+Position 3 (14:55): Prone (as tolerated) - 10 minutes
+Position 4 (15:05): Left lateral decubitus - 15 minutes
+Position 5 (15:20): Return to supine - 5 minutes
+
+Total dwell time: 60 minutes
+Step 6 - Resumption of Drainage (Time: 15:25)
+
+Released clamp on chest tube
+Connected back to suction at -20 cmH2O
+Immediate return of approximately 30mL serosanguineous fluid
+
+
+PATIENT TOLERANCE:
+During procedure:
+
+Vital signs stable throughout
+Complained of moderate chest discomfort (5/10) during position changes
+Received additional morphine 2mg IV at 14:50
+No respiratory distress
+Oxygen saturation maintained >94% on 2L NC
+
+Post-procedure (2 hours observation):
+
+Chest discomfort decreased to 3/10
+No fever (temp 37.2°C)
+No dyspnea
+Chest tube draining serosanguineous fluid, approximately 50mL total since unclamping
+
+SPECIMENS: None
+COMPLICATIONS: None
+POST-PROCEDURE ORDERS:
+
+Continue chest tube to suction -20 cmH2O
+Monitor drainage every 4 hours
+Pain control: Morphine 2-4mg IV q4h PRN, acetaminophen 650mg PO q6h scheduled
+Chest X-ray in AM
+If drainage <150mL over next 24 hours AND CXR shows no reaccumulation, consider chest tube removal in 48-72 hours
+
+ASSESSMENT: Chemical pleurodesis with talc slurry via chest tube completed successfully without complications. Patient tolerated procedure reasonably well with adequate pain control. Will monitor for pleurodesis efficacy over next several days.
+Follow-up Plan:
+
+Daily CXR while chest tube in place
+Remove chest tube when drainage criteria met (typically 2-3 days)
+Follow-up CXR 1 week after chest tube removal
+If recurrent effusion develops, may consider PleurX catheter placement

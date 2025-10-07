@@ -1,0 +1,37 @@
+===============================================================================
+TELEPHONE CONSULTATION PROCEDURE NOTE
+
+FROM: Bronchoscopy Suite
+TO: Referring Physician (Dr. Adams)
+RE: Patient Kevin Brown, MRN VV-8374-M, DOB 09/14/1958
+DATE: 10/27/2024 15:30
+
+Called to discuss procedure results for your patient who underwent EBUS-TBNA today.
+
+BRIEF SUMMARY:
+66M with RUL mass underwent combined EBUS staging and endobronchial biopsy under moderate sedation (midazolam 3mg + fentanyl 100mcg, Ramsay 3, vitals stable throughout).
+
+EBUS RESULTS:
+- Station 4R (12mm): 4 passes, preliminary ROSE positive for adenocarcinoma, PET+
+- Station 7 (15mm): 4 passes, preliminary ROSE positive for adenocarcinoma, PET+
+- Station 10R (8mm): 3 passes, ROSE benign
+
+Systematic N3→N2→N1 evaluation completed with full photodocumentation.
+
+TUMOR BIOPSY:
+Primary RUL endobronchial component biopsied (×6 specimens). Adequate tissue obtained.
+
+STAGING:
+Appears to be N2 disease (multi-station involvement at levels 4R and 7).
+Molecular testing sent from station 4R sample - should have results in 7-10 days.
+
+COMPLICATIONS:
+None. Patient tolerated well and discharged home stable.
+
+NEXT STEPS:
+1. Final pathology in 3-5 days
+2. Molecular results in 7-10 days
+3. Recommend tumor board discussion
+4. Patient follow-up in your clinic next week per discussion
+
+Will send formal typed report tomorrow. Feel free to call with questions.

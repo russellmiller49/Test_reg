@@ -1,0 +1,19 @@
+===============================================================================
+TEACHING CASE - BRONCHOSCOPY WITH FELLOW PARTICIPATION
+
+Patient: Donald Martinez | MRN: TT-9482-L | DOB: 12/11/1956
+
+TEAM:
+Attending: [De-identified per protocol]
+Fellow: [De-identified per protocol]
+ROSE Technician: [De-identified per protocol]
+
+INDICATION: Mediastinal staging, LUL adenocarcinoma
+
+EDUCATIONAL OBJECTIVES FOR FELLOW:
+1. Systematic N3→N2→N1 EBUS evaluation
+2. ROSE interpretation and real-time decision-making
+3. Optimal needle pass technique
+4. Management of technical challenges
+
+SEDATION: Moderate (midazolam 3mg, fentanyl 75mcg), Ramsay 3

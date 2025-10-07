@@ -1,0 +1,22 @@
+===============================================================================
+Patient Name: Maria Rodriguez
+Medical Record: ZX-1847-QP
+Date of Birth: 05/30/1971
+Procedure: 10/08/2024
+
+Clinical context: 53F with bilateral hilar lymphadenopathy on CXR, concern for sarcoidosis vs lymphoma
+
+Conscious sedation: Versed 2mg, Fentanyl 50mcg - patient remained conversant, Ramsay 2-3
+Vital signs: SpO2 98-100% RA, BP q10min stable 120s-130s/70s-80s
+
+EBUS-TBNA performed:
+→ Station 4R (14mm) - 3 passes - ROSE shows non-necrotizing granulomas
+→ Station 4L (16mm) - 3 passes - ROSE consistent with granulomatous inflammation
+→ Station 7 (20mm) - 4 passes - ROSE adequate, similar findings
+→ Station 11R (9mm) - 3 passes - ROSE adequate
+
+All samples adequate for flow cytometry and microbiological culture sent.
+
+No complications. Patient tolerated well. Discharge home same day.
+
+Assessment: Adequate tissue obtained for sarcoidosis vs lymphoma differentiation.

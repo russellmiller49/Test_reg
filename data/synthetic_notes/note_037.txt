@@ -1,0 +1,95 @@
+PATIENT NAME: Henderson, Patricia Louise MEDICAL RECORD: 8473921 DATE OF BIRTH: 08/19/1963 (61 years old) PROCEDURE DATE: 03/23/2025 PROCEDURE TIME: 0900-0948
+PROCEDURALIST: Turner, Lawrence MD (Board Certified Pulmonary/Critical Care/Interventional Pulmonology) FELLOW PHYSICIAN: None SEDATION PROVIDER: Chen, Lisa CRNA NURSING STAFF: Williams, Janet RN CYTOTECHNOLOGIST: Morrison, Kevin CT(ASCP)
+╔═══════════════════════════════════════╗ ║ PROCEDURE PERFORMED ║ ╚═══════════════════════════════════════╝ Endobronchial Ultrasound-Guided Transbronchial Needle Aspiration (EBUS-TBNA) with Rapid On-Site Cytologic Evaluation
+CPT CODES: 31652, 31653
+╔═══════════════════════════════════════╗ ║ CLINICAL INDICATION ║ ╚═══════════════════════════════════════╝ 61-year-old female with 35 pack-year smoking history presenting with:
+•	Right upper lobe nodule 2.9cm (PET SUV 8.4)
+•	Mediastinal lymphadenopathy
+•	Constitutional symptoms (15lb weight loss, fatigue)
+•	Underwent CT-guided biopsy of lung nodule 2 weeks ago → adenocarcinoma confirmed
+•	Present for mediastinal staging prior to treatment planning
+RELEVANT IMAGING: PET-CT (03/10/2025):
+•	RUL nodule FDG-avid (SUV 8.4)
+•	Station 2R: 11mm (SUV 2.1)
+•	Station 4R: 27mm (SUV 6.2) - ABNORMAL
+•	Station 7: 35mm (SUV 7.8) - ABNORMAL
+•	Station 10R: 16mm (SUV 4.5) - ABNORMAL
+╔═══════════════════════════════════════╗ ║ PROCEDURE DETAILS ║ ╚═══════════════════════════════════════╝
+CONSENT: Informed consent obtained after detailed discussion of procedure, risks (bleeding, infection, pneumothorax, need for further procedures, anesthetic complications), benefits, and alternatives. All questions answered satisfactorily.
+PRE-PROCEDURE ASSESSMENT: ✓ ASA Class: III ✓ NPO: >10 hours (last intake 2100 previous evening) ✓ IV access: 18-gauge right forearm ✓ Allergies: None known ✓ Anticoagulation: None
+✓ Recent labs: WBC 7.2, Hgb 12.1, Plt 234, INR 1.0
+SEDATION (provided by anesthesia):
+•	Propofol infusion 100-150 mcg/kg/min
+•	Total propofol: 425mg
+•	Total procedure time sedated: 48 minutes
+•	No adverse events
+TOPICAL ANESTHESIA:
+•	Benzocaine 20% spray to oropharynx
+•	Lidocaine 2% via bronchoscope: 22mL total (under toxic dose limit)
+EQUIPMENT:
+•	EBUS Bronchoscope: Fujifilm EB-530US
+•	TBNA Needles: 22-gauge Acquire (Boston Scientific)
+•	Ultrasound: Fujifilm SU-1 processor
+╔═══════════════════════════════════════╗ ║ PROCEDURE NARRATIVE ║ ╚═══════════════════════════════════════╝
+The patient was brought to the procedure suite, positioned supine with slight head elevation. After time-out procedure confirming patient identity and planned procedure, sedation was induced by anesthesia team.
+EBUS bronchoscope was advanced through oral cavity under direct visualization. Hypopharynx and larynx appeared normal. Vocal cords demonstrated normal mobility bilaterally. Scope advanced through glottis into trachea.
+INITIAL AIRWAY INSPECTION: □ Trachea: Normal caliber, no lesions □ Carina: Sharp, mobile □ RMB: Patent, no endobronchial disease □ LMB: Patent, no endobronchial disease
+SYSTEMATIC ULTRASOUND LYMPH NODE SURVEY:
+╔════════════════════════════════════════════════════════╗ ║ STATION │ SIZE (mm) │ MORPHOLOGY │ SAMPLED │ FINDINGS ║ ╠════════════════════════════════════════════════════════╣ ║ 2R │ 11 x 7 │ Normal │ No │ --- ║ ║ 4R │ 27 x 16 │ ABNORMAL │ YES │ Malig ║ ║ 4L │ 14 x 9 │ Normal │ No │ --- ║ ║ 7 │ 35 x 23 │ ABNORMAL │ YES │ Malig ║ ║ 10R │ 16 x 11 │ ABNORMAL │ YES │ Malig ║ ║ 10L │ 9 x 6 │ Normal │ No │ --- ║ ║ 11R │ 13 x 9 │ Normal │ YES │ Benign ║ ╚════════════════════════════════════════════════════════╝
+DETAILED SAMPLING:
+┌─ STATION 7 (SUBCARINAL) ────────────────┐ │ Ultrasound Characteristics: │ │ • Size: 35mm x 23mm │ │ • Shape: Round │ │ • Borders: Well-defined │ │ • Echotexture: Hypoechoic │ │ • Hilum: Absent │ │ • Vascularity: Peripheral pattern │ │ • Elastography: Score 4/5 (firm) │ │ │ │ Needle Aspiration: │ │ Pass 1 (0915): Excellent sample │ │ └─ ROSE: Adequate, MALIGNANT CELLS │ │ Pass 2 (0918): Confirmatory │ │ └─ ROSE: Adenocarcinoma confirmed │ │ Pass 3 (0921): Molecular testing │ │ Pass 4 (0924): Cell block │ │ │ │ Technique: 20-25 agitations per pass │ │ Complications: None │ └─────────────────────────────────────────┘
+┌─ STATION 4R (RIGHT LOWER PARATRACHEAL) ─┐ │ Ultrasound Characteristics: │ │ • Size: 27mm x 16mm │ │ • Shape: Oval │ │ • Echotexture: Heterogeneous │ │ • Hilum: Absent │ │ │ │ Needle Aspiration: │ │ Pass 1-3 (0928-0934): │ │ └─ ROSE: MALIGNANT, consistent with │ │ known adenocarcinoma │ └─────────────────────────────────────────┘
+┌─ STATION 10R (RIGHT HILAR) ─────────────┐ │ Ultrasound Characteristics: │ │ • Size: 16mm x 11mm │ │ • Echotexture: Hypoechoic │ │ │ │ Needle Aspiration: │ │ Pass 1-2 (0937-0940): │ │ └─ ROSE: MALIGNANT CELLS PRESENT │ └─────────────────────────────────────────┘
+┌─ STATION 11R (RIGHT INTERLOBAR) ────────┐ │ Ultrasound Characteristics: │ │ • Size: 13mm x 9mm │ │ • Appearance: Normal hilum preserved │ │ │ │ Needle Aspiration: │ │ Pass 1-2 (0943-0945): │ │ └─ ROSE: BENIGN lymphoid tissue │ └─────────────────────────────────────────┘
+Final inspection of airways showed no bleeding. Bronchoscope withdrawn. Patient awakened from sedation without difficulty.
+╔═══════════════════════════════════════╗ ║ RAPID ON-SITE EVALUATION (ROSE) ║ ╚═══════════════════════════════════════╝
+Cytotechnologist: Kevin Morrison, CT(ASCP)
+STATION 7: POSITIVE FOR MALIGNANCY
+•	Adenocarcinoma
+•	Cellular atypia consistent with primary lung origin
+•	Tumor cells present in high numbers
+STATION 4R: POSITIVE FOR MALIGNANCY
+•	Adenocarcinoma
+•	Morphology consistent with Station 7
+STATION 10R: POSITIVE FOR MALIGNANCY
+•	Malignant cells identified
+•	Consistent with metastatic adenocarcinoma
+STATION 11R: NEGATIVE FOR MALIGNANCY
+•	Benign reactive lymphocytes
+•	No atypical cells identified
+╔═══════════════════════════════════════╗ ║ SPECIMENS SUBMITTED ║ ╚═══════════════════════════════════════╝
+CYTOLOGY: □ Station 7 (4 passes) - Cytology, Cell block □ Station 4R (3 passes) - Cytology □ Station 10R (2 passes) - Cytology
+□ Station 11R (2 passes) - Cytology
+ANCILLARY TESTING (Station 7): □ EGFR mutation analysis □ ALK rearrangement (FISH) □ ROS1 rearrangement □ PD-L1 immunohistochemistry □ Next-generation sequencing panel
+MICROBIOLOGY (Station 7): □ Bacterial culture □ Mycobacterial culture (AFB) □ Fungal culture
+╔═══════════════════════════════════════╗ ║ PROCEDURE METRICS ║ ╚═══════════════════════════════════════╝
+Procedure start: 0900 Procedure end: 0948 Total procedure time: 48 minutes Lymph nodes surveyed: 7 stations Lymph nodes sampled: 4 stations
+Total needle passes: 11 Fluoroscopy: Not used Estimated blood loss: <5mL
+╔═══════════════════════════════════════╗ ║ COMPLICATIONS ║ ╚═══════════════════════════════════════╝
+None. No hypoxemia, no bleeding, no pneumothorax, no hemodynamic instability.
+╔═══════════════════════════════════════╗ ║ PATIENT TOLERANCE ║ ╚═══════════════════════════════════════╝
+Excellent. Patient remained hemodynamically stable throughout. SpO2 maintained >95% on supplemental O2 via nasal cannula at 2L/min. No arrhythmias noted. Recovered from sedation appropriately within 30 minutes.
+╔═══════════════════════════════════════╗ ║ DIAGNOSTIC IMPRESSION ║ ╚═══════════════════════════════════════╝
+1.	SUCCESSFUL EBUS-TBNA WITH ADEQUATE TISSUE ACQUISITION
+2.	N3 DISEASE CONFIRMED - Metastatic adenocarcinoma involving: • Station 7 (subcarinal) - N2 • Station 4R (paratracheal) - N2
+• Station 10R (hilar) - N1 • Contralateral/bilateral nodal involvement = N3
+3.	STAGE IIIC DISEASE (cT2aN3M0) based on ROSE findings
+4.	Station 11R negative (benign)
+5.	Final pathology and molecular testing pending (expected 5-7 business days)
+╔═══════════════════════════════════════╗ ║ TREATMENT PLAN & RECOMMENDATIONS ║ ╚═══════════════════════════════════════╝
+1.	IMMEDIATE: □ Medical oncology consultation (already scheduled for 03/25/2025) □ Patient counseled regarding N3 disease and treatment implications □ Discussed that this finding changes management from surgical candidate to systemic therapy +/- radiation
+2.	PENDING: □ Final pathology with molecular markers (EGFR, ALK, ROS1, PD-L1, NGS) □ Treatment decisions pending molecular results
+3.	STAGING COMPLETION: □ Brain MRI (ordered - to evaluate for metastases) □ Consider PET-CT if not recent
+4.	MULTIDISCIPLINARY APPROACH: □ Tumor board presentation scheduled for 03/27/2025 □ Thoracic oncology □ Radiation oncology
+□ Pulmonology
+5.	FOLLOW-UP: □ Interventional Pulmonology clinic in 1 week for pathology review □ Coordinate care with oncology team □ Provide support resources and patient education materials
+6.	PROGNOSIS DISCUSSION: □ Stage IIIC disease discussed with patient and family □ Treatment options including chemotherapy, immunotherapy, targeted therapy (if applicable), and radiation reviewed □ Palliative care consultation offered
+╔═══════════════════════════════════════╗ ║ ATTESTATION ║ ╚═══════════════════════════════════════╝
+I personally performed this procedure and was present throughout all critical portions. The patient was appropriately monitored and the procedure was conducted in accordance with standard of care guidelines. All findings and recommendations documented above reflect my professional assessment.
+╔═══════════════════════════════════════╗ ║ ELECTRONIC SIGNATURE ║ ╚═══════════════════════════════════════╝
+Lawrence Turner, MD, FCCP Board Certified: Pulmonary, Critical Care, Interventional Pulmonology NPI: 1234567890
+Date: 03/23/2025 Time: 10:15 AM
+╔═══════════════════════════════════════╗ ║ DISTRIBUTION ║ ╚═══════════════════════════════════════╝ □ Electronic Medical Record □ Referring Physician: Dr. Sarah Martinez (Primary Care) □ Medical Oncology: Dr. Robert Kim □ Patient Portal (results letter to follow)
+═══════════════════════════════════════════
+________________________________________
+EBUS

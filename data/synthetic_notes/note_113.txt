@@ -1,0 +1,30 @@
+Pt: Barbara Kim | MR: PP-8473 | DOB: 06/30/1955 | AGE: 69
+
+PROCEDURE: Therapeutic bronchoscopy - central airway obstruction
+
+AIRWAY: General anesthesia, ETT 7.5, maintained throughout
+
+INTERVENTION PERFORMED:
+- RML tumor debulking (electrocautery + APC)
+- Massive hemoptysis during procedure (est. 300mL)
+- Controlled with: epi, iced saline, blocker in RML
+- Silicone stent 14×40mm placed
+
+COMPLICATION: MAJOR AIRWAY BLEEDING (severe)
+
+TRANSFER REASON: Post-procedure monitoring, airway management
+
+CURRENT STATUS:
+- Still intubated, sedated (propofol)
+- Vitals: BP 142/85, HR 98, SpO2 98% on FiO2 0.5
+- Minimal continued bleeding via ETT
+
+ICU ORDERS:
+- Keep intubated overnight
+- Serial HCT q4h (pre-proc 36.2%)
+- CXR in AM
+- Plan extubation AM if stable
+- F/u bronch in 4-6wk for stent check
+
+TRANSFERRED TO: MICU BED 7
+TIME: 16:45

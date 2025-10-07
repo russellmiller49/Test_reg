@@ -1,0 +1,39 @@
+PT: Taylor, Jennifer L || MRN: 6638291 || Date: 02/08/2025
+Attending: Harrison, Robert MD || Fellow: None this case
+PROCEDURE: EBUS with TBNA for mediastinal staging
+HISTORY: 55yo F with RLL adenocarcinoma, clinically T2aN0M0, undergoing invasive staging
+SEDATION PROTOCOL:
+•	Midazolam 3mg IV push
+•	Fentanyl 75mcg IV push
+•	Lidocaine 2% topical 15mL via bronchoscope
+•	Propofol infusion PRN (total 180mg used)
+EBUS SURVEY: Bronchoscope advanced without difficulty. Mediastinal ultrasound performed.
+2R: 10mm (normal, not sampled) 4R: 19mm (oval, sampled) 4L: 15mm (normal hilum, sampled for completeness) 7: 28mm (enlarged, hypoechoic, sampled)
+10R: 12mm (sampled) 11R: 16mm (sampled)
+ASPIRATION RESULTS:
+Station 7: 28x16mm
+•	4 passes with 22-gauge needle
+•	ROSE by Dr. Chen (pathology): POSITIVE for adenocarcinoma
+•	Elastography: firm consistency
+Station 4R: 19x12mm
+•	3 passes
+•	ROSE: Atypical cells present
+Station 4L: 15x9mm
+•	2 passes
+•	ROSE: Benign
+Station 10R: 12x8mm
+•	2 passes
+•	ROSE: Reactive lymphocytes
+Station 11R: 16x10mm
+•	2 passes
+•	ROSE: Benign
+COMPLICATIONS: None BLOOD LOSS: Minimal (<5cc) TOLERANCE: Good
+INTERPRETATION: N2 disease confirmed via ROSE cytology at Station 7. Patient upstaged to at least Stage IIIA. Final pathology pending.
+PLAN:
+•	Medical oncology consult
+•	Multidisciplinary tumor board
+•	Patient counseled on findings
+/s/ Robert Harrison MD Interventional Pulmonology 02/08/2025 1522hrs
+________________________________________
+EBUS
+RIVERSIDE HOSPITAL SYSTEM Procedure Documentation

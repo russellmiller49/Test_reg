@@ -1,0 +1,26 @@
+===============================================================================
+Pt: Michael Torres
+MRN XY-4829
+DOB: 06/25/1960
+
+CLINICAL: Staging for centrally located NSCLC, extensive mediastinal involvement on imaging
+
+Sedation approach: Moderate sedation, midazolam 4mg + fentanyl 100mcg
+Ramsay score peaked at 3
+BP monitoring every 5 minutes, continuous pulse oximetry maintained >94%
+
+EBUS-TBNA findings:
+Systematic mediastinal evaluation performed.
+
+Station 2R: 11mm, 3 passes, PET+, ROSE+ for malignancy
+Station 4R: 15mm, 4 passes, PET+, ROSE+ for malignancy
+Station 4L: 12mm, 4 passes, PET+, ROSE+ for malignancy
+Station 7: 24mm, 5 passes, PET+, ROSE+ for malignancy
+Station 10R: 9mm, 3 passes, PET+, ROSE+ for malignancy
+
+All nodes with adequate cellularity. Molecular testing panels sent from stations 4R and 7.
+Complete photodocumentation of accessible stations archived.
+
+No procedural complications. Patient hemodynamically stable throughout.
+
+IMPRESSION: Extensive N2/N3 disease confirmed. Adequate tissue for complete molecular characterization obtained.

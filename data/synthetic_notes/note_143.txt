@@ -1,0 +1,92 @@
+Name: Elizabeth Okafor
+Medical Record Number: 2034958
+Date of Birth: 03/15/1959 (65 years old)
+Sex: Female
+Date of Service: October 25, 2024
+Time In: 07:30 | Time Out: 11:45 | Total Procedure Time: 4 hours 15 minutes
+
+CARE TEAM
+
+Primary Operator: David Kim, MD - Interventional Pulmonology (Attending)
+Assistant Operator: Rachel Foster, MD - Interventional Pulmonology Fellow (PGY-6)
+Anesthesiologist: Margaret Sullivan, MD
+CRNA: James Torres, CRNA
+Circulating RN: Patricia Martinez, RN
+Scrub Tech: Anthony Garcia, CST
+Respiratory Therapist: Michelle Chen, RRT
+
+
+CLINICAL HISTORY & INDICATION
+Mrs. Okafor is a 65-year-old Nigerian-American female with a complex medical history including stage IIIB adenocarcinoma of the right lung (diagnosed 04/2023), status post chemoradiation therapy (completed 10/2023). She has been experiencing progressive dyspnea over the past 3 months and was found to have:
+
+Right mainstem bronchus obstruction - Interval CT imaging from 10/10/2024 shows tumor recurrence causing 85% obstruction of the right mainstem bronchus with post-obstructive pneumonitis of the entire right lung
+Malignant pericardial effusion - Echo from 10/15/2024 showed moderate-large pericardial effusion with early tamponade physiology (RA collapse)
+Right malignant pleural effusion - Thoracentesis 10/18/2024 confirmed malignant cells
+
+The patient presented to our interventional pulmonology clinic 10/20/2024 with severe dyspnea (MMRC grade 4), inability to lie flat, oxygen requirement of 4L NC at rest. Given the multiple sites requiring intervention and the patient's overall debilitated status, the decision was made to address all issues in a single procedure session to minimize anesthetic exposures.
+MULTIDISCIPLINARY PLANNING
+Pre-procedure conference held 10/23/2024 with IP, cardiothoracic surgery, oncology, and anesthesia. Plan formulated:
+
+Address airway obstruction first (most critical)
+Follow with pericardial window creation
+Complete with PleurX catheter placement if patient tolerates
+
+INFORMED CONSENT
+Extensive discussion held with patient and daughter (healthcare proxy) on 10/24/2024 at 16:00. Risks discussed in detail:
+
+Bleeding (estimated 5-10% risk given tumor vascularity)
+Perforation or pneumothorax (5% risk)
+Arrhythmia during pericardial procedure (10-15%)
+Hypoxemia or respiratory failure (moderate risk given baseline status)
+Need for ICU care postoperatively (expected)
+Mortality risk (~2-5% given complexity and comorbidities)
+
+Benefits reviewed: Improved breathing, reduced cardiac compromise, palliation of symptoms.
+Alternatives discussed: No intervention (continued clinical decline), staged procedures (multiple anesthetic exposures).
+Patient and daughter understood risks and expressed wish to proceed. Written consent obtained and witnessed.
+
+PREOPERATIVE DIAGNOSES
+
+Recurrent adenocarcinoma of right lung with endobronchial obstruction (C34.11)
+Malignant pericardial effusion with tamponade physiology (I31.3, C38.0)
+Malignant pleural effusion, right (J91.0)
+Respiratory failure, acute on chronic (J96.20)
+
+POSTOPERATIVE DIAGNOSES
+Same as preoperative
+PROCEDURES PERFORMED
+
+Rigid bronchoscopy with endobronchial tumor debridement
+Electrocautery and argon plasma coagulation of endobronchial tumor
+Balloon dilation of right mainstem bronchus stenosis
+Metallic airway stent placement, right mainstem bronchus
+Flexible bronchoscopy with inspection and therapeutic aspiration
+Subxiphoid pericardial window creation (performed by CT surgery)
+Pericardial biopsy
+Tunneled pleural catheter placement, right hemithorax
+
+CPT CODES
+
+31640 (Bronchoscopy with tumor excision)
+31641 (Bronchoscopy with destruction of tumor)
+31630 (Bronchoscopy with dilation)
+31631 (Bronchoscopy with stent placement)
+31645 (Bronchoscopy with therapeutic aspiration)
+33015 (Pericardial window, subxiphoid)
+32550 (Insertion of indwelling pleural catheter)
+
+
+ANESTHESIA DETAILS
+Type: General anesthesia with endotracheal intubation
+Induction: Fentanyl 150mcg IV, Propofol 180mg IV, Rocuronium 50mg IV
+Maintenance: Sevoflurane 1.5-2.5% with intermittent propofol boluses, Fentanyl infusion
+Airway: Initial 8.0mm oral endotracheal tube, exchanged to rigid bronchoscope
+Monitoring:
+
+Standard ASA monitors (ECG, NIBP, pulse oximetry, capnography, temperature)
+Arterial line - left radial artery
+Central venous catheter - right internal jugular (placed by anesthesia for access/monitoring)
+Transesophageal echocardiography probe (for pericardial window portion)
+Neuromuscular blockade monitoring
+
+Hemodynamics: Patient remained hemodynamically stable throughout with MAP 65-85mmHg, HR 75-95 bpm. Vasopressor support with phenylephrine intermittent boluses (total 400mcg). Post-pericardial drainage, improvement in cardiac output noted on TEE.

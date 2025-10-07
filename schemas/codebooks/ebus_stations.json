@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "stations": [
+    {"code": "1", "name": "Highest mediastinal", "side": "midline"},
+    {"code": "2R", "name": "Upper paratracheal", "side": "right"},
+    {"code": "2L", "name": "Upper paratracheal", "side": "left"},
+    {"code": "3", "name": "Prevascular/retrotracheal", "side": "midline"},
+    {"code": "4R", "name": "Lower paratracheal", "side": "right"},
+    {"code": "4L", "name": "Lower paratracheal", "side": "left"},
+    {"code": "5", "name": "Subaortic", "side": "left"},
+    {"code": "6", "name": "Para-aortic", "side": "left"},
+    {"code": "7", "name": "Subcarinal", "side": "midline"},
+    {"code": "8", "name": "Paraesophageal", "side": "midline"},
+    {"code": "9", "name": "Pulmonary ligament", "side": "midline"},
+    {"code": "10R", "name": "Tracheobronchial angle", "side": "right"},
+    {"code": "10L", "name": "Tracheobronchial angle", "side": "left"},
+    {"code": "11R", "name": "Interlobar", "side": "right"},
+    {"code": "11L", "name": "Interlobar", "side": "left"},
+    {"code": "12R", "name": "Lobar", "side": "right"},
+    {"code": "12L", "name": "Lobar", "side": "left"}
+  ]
+}

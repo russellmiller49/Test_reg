@@ -1,0 +1,68 @@
+Patient Name: Thompson, Gerald K MRN: 4729381 DOB: 09/25/1962 Date: 03/17/2025
+Attending: Dr. Patel, Nina MD Fellow: Dr. Jackson, Marcus MD
+PROCEDURE: Robotic-assisted bronchoscopy with Intuitive Ion system
+INDICATION: RUL nodule 2.8cm, ground-glass component on CT, PET SUV 3.2, intermediate suspicion for malignancy
+CONSENT: Obtained, documented
+ANESTHESIA: General anesthesia (Dr. Wilson), ETT 8.0
+PRE-PROCEDURE PLANNING: CT chest from 03/10/2025 loaded into Ion planning station. 3D reconstruction completed. Pathway to RUL posterior segment target generated. Target coordinates confirmed.
+VENTILATION PARAMETERS: Mode: Volume Control RR: 12 TV: 500mL PEEP: 5cmH2O FiO2: 40% Flow: 50L/min Pmean: 14cmH2O
+ION REGISTRATION: Automatic registration performed. Adequate airway landmark matching achieved at carina, right and left main carina, RUL apical subsegmental bifurcations. Mean fiducial error: 3.2mm. Global alignment: Excellent. No registration drift observed.
+NAVIGATION: Ion catheter advanced through planned pathway under robotic control to RUL posterior segment. Distance to target: 0.8cm from pleura.
+RADIAL EBUS CONFIRMATION: Radial probe advanced through Ion working channel. Ultrasound pattern: Concentric (lesion surrounds probe). Lesion size by REBUS: 28mm. Position confirmed within target.
+CONE BEAM CT: CBCT spin performed. NaviLink 3D fusion confirmed catheter position within lesion with 2mm margin from lesion center. Excellent alignment.
+SAMPLING:
+•	Brush cytology x2 samples (via guide sheath)
+•	Forceps biopsy x4 samples (via guide sheath)
+•	Needle aspiration x2 samples (21G)
+ROSE: Not available
+COMPLICATIONS: None No pneumothorax on post-CBCT imaging
+ESTIMATED BLOOD LOSS: <5mL
+SPECIMENS: Cytology, histology sent to pathology
+IMPRESSION: Successful robotic navigation and sampling of RUL nodule. Awaiting final pathology.
+PLAN: Pathology results in 3-5 days, follow-up in IP clinic
+Nina Patel, MD 03/17/2025 1440hrs
+**PATIENT:** Martinez, Sofia J.
+**MRN:** 8847293
+**DOB:** 03/15/1967
+**DATE OF SERVICE:** 11/22/2024
+**ATTENDING:** Dr. Kenneth Patel, MD
+**FELLOW:** Dr. Lisa Chen, MD
+
+**PROCEDURE:** Robotic Navigational Bronchoscopy with Transbronchial Biopsy
+
+**INDICATION:** 2.3 cm right upper lobe nodule, PET avid (SUV 4.2)
+
+**CONSENT:** Obtained. Risks including bleeding, pneumothorax, infection, and need for further intervention discussed. Patient verbalized understanding.
+
+**ANESTHESIA:** General anesthesia with endotracheal intubation performed by Dr. Amanda Rodriguez
+
+**VENT SETTINGS:**
+- Mode: Volume Control
+- RR: 12
+- TV: 450 mL
+- PEEP: 5 cm H2O
+- FiO2: 60%
+- Flow: 50 L/min
+- Pmean: 12 cm H2O
+
+**PROCEDURE DETAILS:**
+Pre-procedure CT from 11/08/2024 was loaded onto the Ion planning station. 3D pathway created targeting RUL anterior segment nodule. Plan reviewed and approved.
+
+Registration performed using automatic method. Excellent landmark correlation at carina, right upper lobe carina, and tertiary bifurcations. Mean fiducial error 1.2 mm. No drift noted during procedure.
+
+Ion catheter advanced along planned pathway under navigational guidance. Radial EBUS performed showing concentric pattern, lesion measuring 22 mm. CBCT spin obtained - overlay confirmed tool-in-lesion position with catheter tip 3 mm from lesion center.
+
+**SAMPLING:**
+- Transbronchial forceps biopsy x 6 samples (to pathology)
+- Cytology brushings x 2 (to cytology)
+- Bronchial washing (to microbiology and cytology)
+
+ROSE preliminary: adequate cellularity, atypical cells present, favor adenocarcinoma (final pending)
+
+Hemostasis confirmed. No complications. Patient extubated in OR, transferred to PACU in stable condition.
+
+**EBL:** <5 mL
+**SPECIMENS:** As above
+**COMPLICATIONS:** None
+
+**IMPRESSION:** Successful robotic bronchoscopy with biopsy of RUL nodule. ROSE suggestive of malignancy. Final pathology pending. Follow up in IP clinic in 2 weeks with results.

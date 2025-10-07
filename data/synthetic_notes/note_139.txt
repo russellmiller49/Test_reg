@@ -1,0 +1,13 @@
+Patient: Harold Stevens | Age: 66 | Sex: M | MRN: 1256170
+Date: October 8, 2024
+Attending: Dr. Nicole Turner
+Clinical Summary: Patient is a 66 year old gentleman presenting with a large right sided pleural effusion, unclear etiology. Previous thoracentesis showed exudative fluid with negative cytology. CT shows pleural thickening concerning for malignancy versus infectious process.
+We discussed the need for tissue diagnosis via medical thoracoscopy. Risks including bleeding, infection, pneumothorax, need for chest tube, and rare complications such as empyema or need for surgical intervention were explained. The patient understood and signed consent.
+Procedure Performed: Medical thoracoscopy with pleural biopsies, talc pleurodesis, chest tube placement
+How it went: Patient was positioned in left lateral decubitus. Right hemithorax prepped and draped. Ultrasound used to mark the 5th intercostal space at mid-axillary line - this showed large effusion with no loculations. After infiltrating with 20cc of 1% lidocaine, we made a 2cm incision and used blunt dissection to enter the pleural space. Initial gush of fluid noted. A 28Fr chest tube was inserted and connected to suction, draining approximately 800mL of bloody fluid initially.
+Through the same incision site, we introduced the rigid thoracoscope. The pleural space was systematically examined. Findings were significant: The parietal pleura showed multiple white nodular lesions, largest about 1.5cm, scattered throughout. The visceral pleura had similar appearing nodules with some areas of thickened pleura. Lung appeared trapped with inability to fully expand. There were some loose adhesions which were lysed using blunt technique.
+Multiple biopsies were taken from both parietal and visceral pleura using biopsy forceps - total of 8 samples obtained from various sites. Each biopsy site had minimal bleeding controlled with pressure.
+After biopsies were complete, we decided to proceed with talc pleurodesis given the likely malignant etiology and trapped lung. Approximately 4 grams of sterile talc slurry mixed in 50mL normal saline was insufflated throughout the pleural cavity ensuring good distribution. The chest tube was left in place and secured with 0-silk suture. Dressing applied.
+Pathology sent: Pleural biopsies x8 in formalin, pleural fluid for cytology and chemistry
+Patient did well throughout. No complications. Transferred to floor with chest tube to suction at -20cmH2O. Post procedure CXR pending.
+Follow up plan: Monitor drainage. Chest tube likely to stay for several days given trapped lung. Await pathology. If malignancy confirmed, will need oncology consultation. Patient understands may need indwelling pleural catheter if lung doesn't re-expand.

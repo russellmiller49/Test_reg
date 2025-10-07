@@ -1,0 +1,24 @@
+===============================================================================
+PT: James Wilson  ID: MRN-A92-555  D.O.B. 12/18/1952
+
+Indication → Central airway obstruction from endobronchial tumor, RML bronchus
+
+Sedation protocol: General anesthesia via LMA, propofol + remifentanil infusion
+Monitoring: Continuous arterial line, SpO2, ETCO2, BP q3min
+
+Procedure narrative:
+Inspection revealed near-complete obstruction of RML bronchus by exophytic tumor with friable surface. Tumor debulking performed using:
+- Electrocautery snare for bulk removal
+- Argon plasma coagulation for hemostasis
+- Cryotherapy x2 freeze-thaw cycles
+
+Massive hemorrhage encountered during debulking (estimated 200mL). Bleeding controlled with:
+- Topical epinephrine 1:10,000
+- Iced saline lavage
+- Bronchial blocker placement temporarily
+
+Silicone stent (14mm x 40mm) placed in RML bronchus for airway patency.
+
+Complications: Major airway bleeding (moderate severity) - controlled during procedure. Patient stable.
+
+Plan: Follow-up bronchoscopy in 4-6 weeks for stent assessment and tumor surveillance.

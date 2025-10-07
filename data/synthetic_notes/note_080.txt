@@ -1,0 +1,466 @@
+PROCEDURE REPORT - ELECTROMAGNETIC NAVIGATION BRONCHOSCOPY
+
+MRN: 5847392 | Name: Johnson, Patricia Ann | DOB: 05/14/1958
+Procedure Date: 11/27/2024 | Time: 09:30-11:15
+Location: Memorial Hospital Bronchoscopy Suite
+Attending: Dr. Richard Chen | Fellow: Dr. Monica Lopez
+
+**Pre-operative Diagnosis:** Right upper lobe spiculated nodule, 3.1cm
+
+**Post-operative Diagnosis:** Pending final pathology
+
+**Procedures Performed:**
+- Electromagnetic navigation bronchoscopy (superDimension)
+- Radial endobronchial ultrasound
+- Transbronchial biopsy
+- Fiducial marker placement
+
+**CPT Codes:** 31627, 31654, 31628, 31626
+
+**Clinical Summary:**
+66-year-old female with 40 pack-year smoking history. Screening LDCT revealed RUL nodule with spiculated margins. PET scan SUV 6.8. No mediastinal adenopathy. Presents for diagnostic evaluation and fiducial placement for potential SBRT.
+
+**Anesthesia:**
+Moderate procedural sedation administered by anesthesia team (Dr. James Wilson). Versed 2mg, Fentanyl 75mcg, Propofol infusion titrated to effect. Total propofol 180mg. Patient maintained spontaneous respirations. O2 via nasal cannula 4L.
+
+**Monitoring:**
+Continuous pulse oximetry, telemetry, NIBP q3min. Independent observer (RN Kelly Martinez) dedicated to monitoring. No adverse events.
+
+**Procedure Narrative:**
+
+Following adequate sedation, Olympus therapeutic bronchoscope inserted transorally. Complete airway inspection:
+
+Oropharynx/Larynx: WNL, good topicalization with 2% lidocaine spray
+VC: Mobile bilaterally
+Trachea: Midline, no stenosis or masses
+Carina: Acute angle, mobile
+RMS: Patent
+RUL/RML/RLL: All segments visualized, patent, no endobronchial abnormalities
+LMS: Patent
+LUL/Lingula/LLL: Patent, no lesions
+
+SuperDimension iLogic navigation system used. CT from 11/10/2024 loaded. 3D reconstruction showed target in RUL anterior segment, approximately 3cm from pleural surface.
+
+**Navigation Process:**
+Automatic registration completed. 8 reference points confirmed. System accuracy indicator: 95%.
+
+Locatable guide (LG) with extended working channel navigated to target. Multiple airway bifurcations traversed under electromagnetic guidance. Final position: tool-to-target distance 7mm (acceptable range per software).
+
+Radial EBUS probe (20MHz) inserted through working channel:
+- Pattern: Concentric
+- Lesion characteristics: Hypoechoic, irregular borders
+- Size: 28mm x 31mm
+- Echo features suggest solid lesion
+
+Probe removed, guide sheath maintained in position.
+
+**Sampling via guide sheath:**
+1. Transbronchial forceps biopsies - 8 passes (specimens appeared adequate grossly, tan-white tissue fragments)
+2. Cytology brush - 4 passes
+3. Needle aspiration - 2 passes with 19G needle
+4. BAL - 60cc instilled, 28cc return
+
+**ROSE Results:**
+Cytopathologist Dr. Susan Park present. Smears reviewed real-time.
+Pass 1-3: Inadequate (mostly blood)
+Pass 4-8: ADEQUATE. Clusters of atypical epithelial cells with enlarged nuclei, prominent nucleoli. Morphology consistent with non-small cell carcinoma, likely adenocarcinoma. Cell block for immunohistochemistry pending.
+
+**Fiducial Placement:**
+Given high suspicion for malignancy and potential for SBRT, fiducial marker placed for radiation planning.
+
+Gold marker (0.8mm x 3mm, CIVCO) loaded into delivery catheter. Under fluoroscopic guidance, marker deployed in RUL anterior segmental bronchus, approximately 2cm from target lesion. Position confirmed with AP and lateral fluoroscopy. Marker stable, no migration observed.
+
+**Hemostasis:**
+Minimal bleeding from biopsy sites. Resolved with gentle suctioning and observation. No intervention required.
+
+**Completion:**
+Airways suctioned clear. Patient emerged from sedation appropriately. Extubated to room air. Post-procedure vitals stable. SpO2 97% RA.
+
+**Estimated Blood Loss:** <15mL
+
+**Specimens:**
+- TBBx x8 to histopathology (formalin)
+- Cytology specimens x4 (alcohol fixed)
+- Needle aspirate x2 (cell block)
+- BAL to microbiology (AFB, fungal, bacterial cx) and cytology
+
+**Complications:** None
+
+**Post-Procedure Orders:**
+1. CXR PA/Lateral in 2 hours - r/o PTX
+2. Monitoring in recovery x 2 hours minimum
+3. Discharge home if CXR clear and vitals stable
+4. Return precautions reviewed with patient
+
+**Assessment:** Successful EMN bronchoscopy with probable diagnosis of NSCLC based on ROSE. Fiducial placed for radiation planning.
+
+**Plan:**
+- Await final pathology with molecular markers (EGFR, ALK, ROS1, PD-L1)
+- Complete staging with brain MRI
+- Tumor board discussion for treatment planning (surgical candidate vs SBRT vs systemic therapy)
+- Follow-up appointment scheduled 1 week
+
+Dr. Richard Chen, Attending - Electronic Signature Applied
+**IP Procedure Documentation**
+
+**Patient:** Garcia, Manuel S.
+**Age/Sex:** 77/M
+**MRN:** 3920485
+**Date:** 01/09/2025
+**Provider:** Samantha Brooks, MD
+**Support:** Jason Kim, MD (Fellow), Nurse: Linda Patterson, RT: Robert Zhang
+
+**Chief Complaint/Indication:**
+Enlarging left lower lobe nodule, now 2.4cm (previously 1.8cm on CT from 6 months ago). Patient has history of Stage I colon adenocarcinoma treated with resection 5 years ago. Concerned for metastatic disease vs new primary lung cancer.
+
+**Procedure:** EMN Bronchoscopy, Radial EBUS, Transbronchial Biopsy, BAL
+
+**Pre-procedure Assessment:**
+- ASA Class: III (CAD s/p stent 2019, controlled HTN, diabetes)
+- Anticoagulation: Aspirin 81mg held x 5 days
+- NPO status confirmed
+- Informed consent reviewed and signed
+- Time-out performed: correct patient, procedure, site verified
+
+**Sedation Details:**
+Monitored anesthesia care by Dr. William Foster
+- Midazolam 4mg IV push
+- Fentanyl 150mcg IV push
+- Propofol drip 50-120 mcg/kg/min
+- Total sedation time: 48 minutes
+- Patient maintained adequate spontaneous ventilation
+- O2 via NC 4L, SpO2 remained >94% throughout
+
+**Bronchoscopy Findings:**
+
+Flexible video bronchoscope (Olympus BF-P190) inserted via mouth with bite block in place.
+
+**Upper Airway:**
+- Tongue/Palate: normal
+- Larynx: edematous arytenoids, likely GERD-related, no masses
+- Vocal cords: mobile, symmetric
+
+**Tracheobronchial Tree:**
+- Trachea: patent, no stenosis, mild dynamic collapse on exhalation
+- Carina: sharp, angle ~60 degrees
+- RMS/LMS: patent, no extrinsic compression
+- Right lung: all segments visualized and patent, minimal clear secretions
+- Left lung: all segments patent, no endobronchial lesions
+
+**EMN Navigation (superDimension system):**
+
+CT scan from 12/22/2024 imported. Target identified in LLL posterior basal segment.
+
+Planning software created pathway through:
+LMS → LLL → posterior basal segmental bronchus → subsegmental branches
+
+**Registration:**
+- Method: Automatic with manual verification
+- Registration points: 9 confirmed
+- Estimated accuracy: <6mm (system-generated metric)
+- Total registration time: ~8 minutes
+
+**Navigation to Target:**
+- Locatable guide with extended working channel advanced
+- Real-time position tracking on monitor
+- Course corrections made at LLL bifurcation (slight anterior deviation corrected)
+- Final tool-to-target distance: 0.9cm per navigation software
+
+**Radial EBUS Assessment:**
+20MHz miniature ultrasound probe inserted:
+- Initial position: eccentric pattern
+- Adjusted catheter 5mm deeper
+- Final position: concentric pattern achieved
+- Lesion size: 23mm diameter
+- Characteristics: Heterogeneous echogenicity, irregular margins
+- Vessel mapping: no large vessels in biopsy trajectory
+
+**Tissue Sampling:**
+Guide sheath left in position after probe withdrawal.
+
+Obtained:
+1. Transbronchial biopsies x 7 using standard forceps - adequate tissue seen on all passes
+2. Cytology brushings x 3
+3. BAL from LLL posterior basal: 80cc NS instilled, 32cc returned (cloudy appearance)
+
+All samples handled per pathology protocol.
+
+**ROSE (Rapid On-Site Evaluation):**
+Cytology tech present: Tara Johnson, CT(ASCP)
+
+Preliminary assessment of brushings:
+- Adequate cellularity
+- Abnormal cells present
+- Features concerning for malignancy
+- Recommend awaiting permanent sections for definitive diagnosis
+
+**Hemostasis:**
+Minimal bleeding from biopsy sites. Self-limited with observation. No interventions needed.
+
+**Procedure Completion:**
+- Total procedure time: 51 minutes
+- Bronchoscope withdrawn
+- Patient awakened from sedation without issues
+- Post-procedure vital signs stable
+- SpO2 98% on RA
+
+**Estimated Blood Loss:** <10mL
+
+**Specimens Submitted:**
+1. Transbronchial lung biopsy x 7 (formalin) → Pathology
+2. Cytology brushings x 3 (CytoLyt) → Cytopathology
+3. BAL fluid (sterile container) → split for:
+   - Bacterial culture
+   - Fungal culture
+   - AFB culture and smear
+   - Cytology
+
+**Immediate Complications:** None
+
+**Post-Procedure Plan:**
+- Recovery room monitoring x 2 hours
+- Chest X-ray at 2 hours post-procedure to evaluate for pneumothorax
+- Discharge to home same day if CXR clear and clinically stable
+- Resume aspirin tomorrow
+- Diet as tolerated once fully alert
+
+**Follow-Up:**
+- IP clinic appointment 2 weeks (01/23/2025) for pathology results
+- Call with preliminary results if critical findings
+- If malignancy confirmed: PET/CT for staging, tumor board review
+
+**Clinical Impression:**
+Successful electromagnetic navigation bronchoscopy with biopsy of LLL nodule. ROSE findings concerning for malignancy. Final pathology pending. Given history of colon cancer, differential includes metastatic colon adenocarcinoma vs primary lung cancer.
+
+Dictated and electronically signed: Dr. Samantha Brooks - 01/09/2025 14:33
+**BRONCHOSCOPY OPERATIVE NOTE**
+
+St. Mary's Medical Center
+Department of Pulmonary Medicine
+
+**Patient Name:** Taylor, Jennifer L.
+**Medical Record Number:** 6183947
+**Date of Birth:** 08/23/1962
+**Date of Procedure:** 02/19/2025
+**Time:** 1430-1625
+
+**Attending Physician:** Dr. Michael Orozco
+**Assisting Fellow:** Dr. Rachel Kim
+**Anesthesia Provider:** CRNA Beth Thompson, supervised by Dr. Alan Martinez
+**Nursing Staff:** RN Michelle Sanders
+**Respiratory Therapy:** RT Carlos Diaz
+
+**PREOPERATIVE DIAGNOSIS:**
+Right middle lobe nodule, 1.9 cm, ground-glass opacity with solid component
+
+**POSTOPERATIVE DIAGNOSIS:**
+Pending pathology (preliminary ROSE suggests adenocarcinoma)
+
+**PROCEDURE PERFORMED:**
+1. Electromagnetic navigation bronchoscopy (SuperDimension)
+2. Radial endobronchial ultrasound
+3. Transbronchial lung biopsy
+4. Bronchoalveolar lavage
+5. Transbronchial cryobiopsy
+
+**INDICATION:**
+62-year-old never-smoker female with incidentally discovered RML nodule on CT performed for evaluation of pneumonia. Nodule has grown from 1.5cm to 1.9cm over 4 months. Part-solid lesion with 60% solid component. PET demonstrates SUV 2.1. Patient desires tissue diagnosis prior to discussing surgical options.
+
+**CONSENT:**
+Informed consent obtained after detailed discussion of:
+- Nature and purpose of procedure
+- Alternatives (CT-guided biopsy, surgical biopsy, observation)
+- Risks: bleeding (1-5%), pneumothorax (1-3%, higher with cryobiopsy 5-10%), infection (<1%), need for chest tube, respiratory failure, anesthesia complications
+- Patient verbalized understanding, all questions answered, consent form signed
+
+**ANESTHESIA:**
+Moderate sedation protocol:
+- Pre-medication: Glycopyrrolate 0.2mg IV
+- Induction: Midazolam 3mg IV, Fentanyl 100mcg IV
+- Maintenance: Propofol infusion starting 50mcg/kg/min, titrated to effect (max 110mcg/kg/min)
+- Topical anesthesia: 2% lidocaine spray to oropharynx, nebulized 4% lidocaine via bronchoscope
+
+Patient maintained spontaneous respirations throughout. No apnea episodes. O2 supplementation 4L NC, SpO2 93-98%.
+
+**MONITORING:**
+Continuous EKG, pulse oximetry, capnography, blood pressure q3min. Dedicated monitoring nurse (RN Sanders) present throughout procedure.
+
+**EQUIPMENT:**
+- Olympus BF-1TH190 therapeutic video bronchoscope
+- SuperDimension electromagnetic navigation system (iLogic platform)
+- Radial EBUS probe (UM-S20-20R, 20MHz)
+- Standard biopsy forceps
+- 1.9mm cryoprobe (ERBECRYO 2)
+- Arndt endobronchial blocker 7Fr
+
+**PROCEDURE IN DETAIL:**
+
+**Pre-Procedure:**
+Patient positioned supine. IV access confirmed. Monitoring established. Time-out performed verifying correct patient (verbal confirmation + wristband), correct procedure (EMN bronch + biopsy of RML nodule), laterality confirmed (right side).
+
+**Airway Inspection:**
+Flexible bronchoscope inserted transorally with bite block protection.
+
+*Visual Findings:*
+- Oropharynx: no masses or lesions
+- Hypopharynx: pooled secretions suctioned
+- Larynx: mild posterior erythema, no vocal cord pathology
+- Vocal cords: symmetric movement
+- Subglottic region: patent
+- Trachea: midline, no stenosis, mild dynamic collapse on expiration (estimated 30% reduction in cross-sectional area)
+- Carina: sharp, mobile with respiration
+- RMS: patent, mild inflammatory changes
+- RUL: all segments visualized - anterior, apical, posterior - patent
+- RML: medial and lateral segments patent, no endobronchial lesions visible
+- RLL: superior, medial, anterior, lateral, posterior segments all patent
+- LMS: patent
+- Left lung: briefly surveyed, no obvious abnormalities
+
+**EMN Navigation Setup:**
+CT chest with IV contrast from 02/05/2025 loaded onto SuperDimension workstation. Three-dimensional reconstruction performed. Target lesion identified in RML lateral segment, approximately 2.5cm from pleural surface.
+
+Virtual bronchoscopy pathway planned:
+Trachea → RMS → bronchus intermedius → RML takeoff → lateral segment → subsegmental branch #3
+
+**Registration Process:**
+Automatic registration initiated. Electromagnetic sensors activated.
+
+Registration points confirmed:
+1. Main carina
+2. Right upper lobe carina
+3. Bronchus intermedius
+4. RML orifice
+5. RML bifurcation (medial/lateral)
+6. Lateral segmental bifurcations (x2)
+7. Subsegmental anatomy
+
+Registration accuracy: Estimated <5mm deviation (acceptable per protocol)
+Time to complete registration: 11 minutes
+
+**Navigation Phase:**
+Locatable guide (LG) with extended working channel (EWC) advanced along planned pathway.
+
+Progress checkpoints:
+- At RMS: on target
+- At RML takeoff: adjusted 2mm superior per navigation feedback
+- At lateral segmental bronchus: on target
+- At subsegmental branch: adjusted depth 3mm
+
+Final position: Tool-to-target distance 8mm (displayed on navigation screen)
+
+**Radial EBUS:**
+20MHz radial ultrasound probe inserted through EWC.
+
+Findings:
+- Initial scan: eccentric pattern (lesion adjacent to probe, not centered)
+- Repositioned LG 4mm anterior
+- Repeat scan: concentric pattern achieved
+- Lesion diameter: 18mm
+- Ultrasound characteristics: Mixed echogenicity (central hyperechoic area with hypoechoic periphery consistent with part-solid nature on CT)
+- Margin: Irregular
+- Vascular assessment: No significant vessels immediately adjacent
+
+**Tissue Acquisition:**
+
+*Phase 1 - Conventional Biopsy:*
+Radial probe removed, EWC/LG maintained in position.
+
+- Transbronchial forceps biopsies: 6 passes performed
+  - Adequate tissue fragments visualized on each pass
+  - Specimens placed in formalin
+- Cytology brushings: 3 passes
+  - Placed in CytoLyt solution
+
+*ROSE Checkpoint:*
+Dr. Patricia Wong (cytopathologist) reviewed initial smears.
+Findings: "Adequate cellular material. Atypical glandular cells present. Architecture and cytologic features favor adenocarcinoma. Recommend core tissue for definitive diagnosis and molecular studies."
+
+*Phase 2 - Cryobiopsy:*
+Given ROSE findings and need for molecular testing, decision made to obtain cryobiopsy for larger tissue sample.
+
+Arndt endobronchial blocker (7Fr) positioned in RML orifice under direct visualization. Balloon test inflated with 5cc air - adequate seal confirmed.
+
+Cryoprobe (1.9mm) advanced through working channel to target area (guided by most recent EBUS position).
+
+Cryobiopsy protocol:
+- Freeze time: 4 seconds
+- Probe withdrawn en bloc with bronchoscope
+- Blocker immediately inflated (5cc) for tamponade
+- Sample thawed in normal saline, placed in formalin
+- Total of 2 cryobiopsy specimens obtained
+- Blocker maintained inflated x 30 seconds between samples
+- Visual inspection after each: minimal bleeding, self-limited
+
+**Bronchoalveolar Lavage:**
+After cryobiopsy completion and hemostasis confirmed, BAL performed in RML lateral segment:
+- 100cc sterile normal saline instilled in 50cc aliquots
+- 48cc returned
+- Fluid slightly cloudy
+- Sent for: cell count/differential, bacterial/fungal/AFB cultures, cytology
+
+**Hemostasis:**
+After BAL, airways re-inspected. Mild oozing from cryobiopsy site in RML. Managed with:
+- Wedging bronchoscope in segment
+- Iced saline (20cc) instilled
+- Gentle suctioning
+- Blocker re-inflated x 60 seconds
+- Complete hemostasis achieved
+
+**Procedure Completion:**
+- Total procedure time: 55 minutes
+- Total EMN navigation time: 38 minutes
+- Airways suctioned clear of blood and secretions
+- Final inspection: no active bleeding, airways patent
+- Bronchoscope removed
+- Patient emerged from sedation appropriately
+- Vital signs stable
+- Post-procedure O2 sat 96% on 2L NC
+
+**ESTIMATED BLOOD LOSS:** 15-20mL
+
+**SPECIMENS SUBMITTED:**
+1. Transbronchial biopsies x 6 (formalin) - Surgical Pathology
+2. Cryobiopsies x 2 (formalin) - Surgical Pathology **(request molecular testing if malignant: EGFR, ALK, ROS1, BRAF, PD-L1)**
+3. Cytology brushings x 3 (CytoLyt) - Cytopathology
+4. BAL fluid - Microbiology (bacterial/fungal/AFB cultures) + Cytopathology
+
+**COMPLICATIONS:** None
+
+**DISPOSITION:**
+Patient transferred to recovery room in stable condition.
+
+**POST-PROCEDURE ORDERS:**
+1. NPO x 1 hour, then clear liquids as tolerated
+2. Vital signs q15min x 1hr, then q30min x 1hr, then q1hr
+3. Continuous pulse oximetry x 2 hours
+4. Chest X-ray (PA and lateral) at 2 hours post-procedure
+5. If CXR shows pneumothorax >10%, consult IP attending
+6. Discharge criteria: stable vitals, O2 sat >90% on RA or baseline O2, no respiratory distress, CXR without significant PTX
+7. If pneumothorax <10% and asymptomatic: repeat CXR in 4 hours, observe x 6 hours minimum
+8. Discharge prescriptions: none required
+9. Return precautions: worsening shortness of breath, chest pain, hemoptysis, fever >100.4F
+
+**FOLLOW-UP PLAN:**
+1. Call patient with preliminary pathology results in 2-3 days
+2. Formal IP clinic follow-up appointment in 2 weeks (scheduled for 03/05/2025)
+3. If adenocarcinoma confirmed:
+   - Complete staging (PET/CT if not adequate, brain MRI)
+   - Thoracic surgery consultation
+   - Molecular testing to guide systemic therapy if not surgical candidate
+4. Multidisciplinary tumor board presentation
+
+**ASSESSMENT:**
+Successful electromagnetic navigation bronchoscopy with conventional and cryobiopsy sampling of RML part-solid nodule. ROSE preliminary findings suggest adenocarcinoma. Awaiting final pathology and molecular testing.
+
+**BILLING/CPT CODES:**
+- 31627 (Bronchoscopy with computer-assisted navigation)
+- 31654 (Bronchoscopy with radial EBUS)
+- 31628 (Bronchoscopy with transbronchial lung biopsy)
+- 31632 (Bronchoscopy with transbronchial cryobiopsy)
+- 31624 (Bronchoscopy with BAL)
+
+Procedure performed and supervised by:
+**Michael Orozco, MD, FCCP**
+Board Certified in Pulmonary Medicine and Interventional Pulmonology
+
+Electronically Signed: 02/19/2025 17:48

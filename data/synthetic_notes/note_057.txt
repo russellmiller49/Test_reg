@@ -1,0 +1,30 @@
+PATIENT: Lewis, Andrew T RECORD: 3729485 SERVICE DATE: 02/15/2025
+PROCEDURE: EBUS-TBNA
+DOCTOR: Singh, Raj MD
+REASON: Lymphoma staging - known follicular lymphoma, new mediastinal nodes on CT
+SEDATION: MAC anesthesia (Dr. Johnson)
+WHAT WE DID: Put ultrasound bronchoscope in through mouth. Looked at lymph nodes in chest with ultrasound. Used needle to get samples from lymph nodes.
+NODES WE FOUND:
+•	Node under windpipe branches (station 7): 31mm, looks abnormal
+•	Node on right (station 4R): 22mm, looks abnormal
+•	Node at right lung root (station 10R): 17mm
+•	Node inside right lung (station 11R): 19mm
+SAMPLES TAKEN: Station 7: Did 4 needle sticks
+•	Doctor looking at slides right away says: SEE LYMPHOMA CELLS
+Station 4R: Did 3 sticks
+•	Lymphoma cells seen
+Station 10R: Did 2 sticks
+•	Lymphoma present
+Station 11R: Did 2 sticks
+•	Also shows lymphoma
+All samples sent for special testing (flow cytometry)
+NO PROBLEMS during procedure
+WHAT IT MEANS: Lymphoma has spread to multiple lymph nodes in chest
+NEXT STEPS:
+•	Cancer doctor will see patient
+•	More treatment planning needed
+•	Full testing results in few days
+Dr. Raj Singh 2/15/2025
+________________________________________
+
+╔═══════════════════════════════════════╗ ║ INTERVENTIONAL PULMONOLOGY REPORT ║ ╚═══════════════════════════════════════╝

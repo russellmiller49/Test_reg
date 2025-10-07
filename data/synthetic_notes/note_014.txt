@@ -1,0 +1,64 @@
+Patient: Jennifer Wang | ID: RR-3847-P | Birth Date: 06/28/1963
+Date of Service: 10/22/2024 | Time: 10:30 AM
+
+Chief Indication: RUL mass with mediastinal LAD, diagnostic + staging
+
+HPI: 61F, 35 pack-year smoker (active), presents with 3-month history of cough and right-sided chest discomfort. CT chest shows 3.2cm RUL mass with bulky mediastinal lymphadenopathy. PET-CT reveals primary lesion SUV 9.4, multiple N2 stations PET-avid (4R, 7, 2R).
+
+Procedure Performed:
+1. EBUS-TBNA for staging
+2. Flexible bronchoscopy with endobronchial biopsy
+
+Anesthesia: Moderate sedation
+- Midazolam 3mg IV + Fentanyl 75mcg IV
+- Ramsay sedation scale: 3 (responds to commands)
+- Monitoring: BP q5min (stable 125-135/72-85), continuous SpO2 (96-99%)
+
+Procedure Details:
+
+EBUS Component:
+Systematic mediastinal evaluation following N3→N2→N1 protocol.
+
+Station 2R (12mm):
+- 4 passes with 22G needle
+- ROSE: Positive for malignant cells
+- PET+
+
+Station 4R (18mm):
+- 5 passes (extra for molecular)
+- ROSE: Positive for malignant cells
+- PET+
+- Sent for NGS panel
+
+Station 7 (21mm):
+- 4 passes
+- ROSE: Positive for malignant cells
+- PET+
+
+Station 10R (9mm):
+- 3 passes
+- ROSE: Adequate, benign
+
+Complete photodocumentation of accessible stations performed ✓
+
+Bronchoscopy Component:
+Examination of airways revealed mass effect from RUL tumor with partial narrowing of RUL bronchus (~40%). Multiple forceps biopsies obtained from tumor (n=6). Brush cytology x2 also performed.
+
+Moderate bleeding from biopsy sites controlled with topical epinephrine 1:20,000 + iced saline lavage.
+
+Assessment:
+- N2/N3 disease confirmed (multi-level, multi-station)
+- Primary tumor biopsied
+- Adequate tissue for histologic diagnosis and molecular profiling
+- Stage IIIB (clinical)
+
+Complications:
+- Moderate airway bleeding (controlled, no intervention required beyond topical measures)
+- Severity: Moderate
+
+Plan:
+- Multidisciplinary tumor board presentation
+- Await molecular results (EGFR, ALK, ROS1, PD-L1)
+- Likely concurrent chemoradiation vs neoadjuvant approach
+
+Patient Recovery: Stable, discharged after 2 hours

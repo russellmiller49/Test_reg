@@ -1,0 +1,46 @@
+PATIENT: Maria Rodriguez, 38-year-old Female
+MRN: 6905843
+INDICATION FOR OPERATION: Ms. Rodriguez is a 38-year-old female with biopsy-proven pulmonary alveolar proteinosis presenting with progressive dyspnea and hypoxemia refractory to medical management. PFTs show restrictive pattern with DLCO 45% predicted. The nature, purpose, risks, benefits and alternatives to whole lung lavage were discussed with the patient in detail. Patient indicated a wish to proceed and informed consent was signed.
+PREOPERATIVE DIAGNOSIS: Pulmonary alveolar proteinosis
+POSTOPERATIVE DIAGNOSIS: Same
+PROCEDURE: Whole Lung Lavage (CPT 32997)
+ATTENDING: Dr. Richard Brown
+ASSISTANT: Dr. Amy Zhang, Fellow
+Support Staff:
+
+RN: Daniel Martinez
+RT: Sarah Johnson
+Anesthesia: Dr. Kevin Park
+
+ANESTHESIA: General anesthesia with TIVA
+MONITORING: Standard ASA monitoring with arterial line
+INSTRUMENT: 37Fr left-sided double lumen endotracheal tube (Broncho-Cath), Olympus bronchoscope
+ESTIMATED BLOOD LOSS: None
+COMPLICATIONS: None
+PROCEDURE IN DETAIL:
+After induction of general anesthesia, a timeout was performed. All procedure related images were saved and archived.
+PATIENT POSITION: Initially supine for intubation, then right lateral decubitus
+The patient was induced and intubated with a 37Fr left-sided double lumen endotracheal tube without difficulty by anesthesia staff. The flexible bronchoscope was advanced into the tracheal portion of the tube to confirm adequate positioning. Tube was adjusted to ensure that the tracheal orifice aligned with the right mainstem bronchus. The bronchial lumen could be seen passing into the left mainstem bronchus; positioning was also confirmed with direct bronchoscopic visualization through the bronchial lumen.
+The bronchial balloon was inflated with 8mL of air and tested for leak. Once an adequate seal was made, the patient was positioned in the right lateral decubitus position and the position of the DLT was reconfirmed with bronchoscopy. A repeat leak test was performed and adequate seal was noted.
+Lavage Procedure:
+The patient was transitioned to single lung ventilation via the right lung. The left lumen of the DLT was connected to the lavage circuit with 3L bags of warmed (37°C) 0.9% normal saline.
+Serial aliquots of saline were instilled in approximately 1 liter increments:
+
+Aliquot 1: 1000mL instilled, dwelled 3 minutes, drained by gravity. Return: 900mL, very turbid with thick white sediment
+Aliquot 2: 1000mL instilled, dwelled 3 minutes, drained. Return: 950mL, turbid with white sediment
+Aliquot 3: 1000mL instilled, dwelled 4 minutes, drained. Return: 980mL, moderately turbid
+Aliquot 4: 1000mL instilled, dwelled 4 minutes, drained. Return: 990mL, mildly turbid
+Aliquot 5: 1000mL instilled, dwelled 3 minutes, drained. Return: 1000mL, slightly turbid
+Aliquot 6: 1000mL instilled, dwelled 3 minutes, drained. Return: 1000mL, clear
+
+Total volume instilled: 6000mL
+Total volume returned: 5820mL
+Net balance: -180mL (absorbed)
+The effluent became progressively clearer. Lavage was discontinued when return fluid was nearly clear. Throughout the procedure, oxygen saturation remained >94% on the ventilated right lung. End-tidal CO2 remained stable at 38-42 mmHg.
+After completion of lavage, gentle suctioning was performed through the left bronchial lumen. Bilateral lung ventilation was resumed. DLT position was reconfirmed. The patient was transported to PACU intubated for extubation after full recovery from anesthesia.
+The patient tolerated the procedure well. There were no immediate complications. The attending, Dr. Brown, was present throughout the entire procedure.
+SPECIMEN(S):
+
+Lavage fluid (first aliquot) sent for cell count, cytology, and periodic acid-Schiff staining
+
+IMPRESSION/PLAN: Ms. Rodriguez underwent successful whole lung lavage of the left lung for pulmonary alveolar proteinosis. Procedure completed without complications. Patient will undergo right lung lavage in 4-6 weeks pending clinical response. Post-procedure CXR shows expected mild bilateral infiltrates, no pneumothorax. Plan for 6-minute walk test and PFTs in 4 weeks to assess response. GM-CSF therapy to be discussed with pulmonology.

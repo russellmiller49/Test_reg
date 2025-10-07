@@ -1,0 +1,79 @@
+PROCEDURE NOTE:
+68 y.o. male with 60 pack-year smoking history presents with LLL mass on staging CT. PET shows SUV 8.9. Mediastinal nodes negative. Patient consented for diagnostic bronch and fiducial placement for possible SBRT.
+
+Intubated by anesthesia without difficulty. ETT 8.0 at 23 cm.
+
+VENT: VC, TV 500, RR 14, PEEP 5, FiO2 45%, Flow 55, Pmean 11
+
+CT from 11/20/2024 loaded to Ion station. Navigation plan created to LLL superior segment mass. Automatic registration completed. Fiducial error 1.4mm - acceptable.
+
+Ion catheter deployed. Initial navigation showed 8mm deviation at target - reregistration performed with improved accuracy (error 0.9mm).
+
+Radial probe inserted through Ion working channel. Eccentric pattern visualized - lesion 36mm diameter. Probe withdrawn, biopsy tools inserted.
+
+Obtained:
+• 8 transbronchial biopsies (formalin)
+• 3 brush specimens (cytopathology)
+• Bronchial washings (cytology, AFB, fungal, bacterial cx)
+
+ROSE: highly cellular, malignant cells consistent with squamous cell carcinoma
+
+Fiducial marker (0.8x3mm gold CIVCO) placed in LLL anterior segmental bronchus under fluoroscopy - confirmed adequate position for radiation planning.
+
+Post-procedure: hemostasis confirmed, no bleeding. Patient extubated, stable vitals, transferred to recovery.
+
+PLAN: Multidisciplinary tumor board discussion. Likely SBRT candidate given node-negative disease. F/u 1 week.
+**Bronchoscopy Report**
+
+Thompson Memorial Hospital
+Department of Interventional Pulmonology
+
+Pt Name: Lee, Catherine Y. | Age: 72 | Sex: F
+Medical Record: 5029384 | Date: 01/15/2025
+Attending: Dr. Rebecca Hoffman | Fellow: Dr. James Park
+
+**Chief Complaint:** Incidental pulmonary nodule
+
+**HPI:** Patient with history of breast cancer (2018, in remission) found to have 1.8cm RML nodule on surveillance CT. PET shows mild uptake SUV 2.8. Presents for tissue diagnosis.
+
+**Procedure Performed:** Robotic bronchoscopy (Intuitive Ion platform), radial endobronchial ultrasound, transbronchial biopsy
+
+**Informed Consent:** Reviewed risks of bleeding (1-5%), pneumothorax (1-2%), infection, need for chest tube, respiratory compromise. Patient consented.
+
+**Anesthesia:** GETA by Dr. Steven Kim. MAC #7.5 ETT, depth 21cm at teeth.
+
+**Ventilator Parameters:** SIMV, Rate 12, Vt 400mL, PEEP 5, FiO2 50%, I:E 1:2
+
+**Technique:**
+Preoperative CT dated 12/28/2024 uploaded to Ion planning workstation. Virtual pathway generated to RML medial segment nodule.
+
+Registration protocol: Automatic method employed. Carina, RUL/RML/RLL carinas, and segmental bifurcations matched. Global alignment quality: excellent. Mean fiducial registration error: 1.1mm.
+
+Ion robotic catheter navigated along planned trajectory. Distance to target: 0.8cm at final position.
+
+Radial EBUS probe (1.4mm) inserted - demonstrated concentric hypoechoic pattern, lesion diameter 17mm, well-circumscribed borders.
+
+CBCT performed (NaviLink 3D fusion): Overlay confirmed catheter within lesion volume. Margin from lesion center: 2mm.
+
+**Samples obtained:**
+- TBBx x 5 (histopathology)
+- Cytology brush x 2
+- BAL from RML (cell count, micro)
+
+**ROSE:** Adequate sample. Bronchioloalveolar cells, no malignancy identified in initial review. (Final cytology pending)
+
+**Findings:**
+- Upper airway: normal
+- Trachea: patent, no masses
+- Carina: sharp, mobile
+- Right bronchial tree: patent, no endobronchial lesions
+- Left bronchial tree: not fully examined given unilateral target
+
+**Complications:** None
+**EBL:** Minimal
+**Condition:** Stable, extubated, to PACU
+
+**Assessment/Plan:**
+Successful robotic bronchoscopy with biopsy of RML nodule. ROSE shows no definitive malignancy but final pathology pending. If benign, plan for 3-month interval CT surveillance per Fleischner criteria. Patient to follow up in clinic 2 weeks for pathology review.
+
+Electronically signed: R. Hoffman MD - 01/15/2025 16:45

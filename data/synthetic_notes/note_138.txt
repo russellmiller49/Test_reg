@@ -1,0 +1,69 @@
+PATIENT: Patricia Johnson, 74-year-old Female
+MRN: 1034928
+INDICATION FOR OPERATION: Ms. Johnson is a 74-year-old female with metastatic breast cancer presenting with recurrent symptomatic right-sided malignant pleural effusion despite two recent therapeutic thoracenteses. The nature, purpose, risks, benefits and alternatives to tunneled pleural catheter placement were discussed with the patient in detail. Patient indicated a wish to proceed and informed consent was signed.
+PREOPERATIVE DIAGNOSIS: Recurrent malignant pleural effusion, right
+POSTOPERATIVE DIAGNOSIS: Same
+PROCEDURE: Indwelling Tunneled Pleural Catheter Placement (CPT 32550)
+ATTENDING: Dr. Rachel Green
+ASSISTANT: Dr. Paul Anderson, Fellow
+Support Staff:
+
+RN: Jennifer Martinez
+RT: David Lee
+
+ANESTHESIA: Local anesthesia with Lidocaine 1%
+MONITORING: Pulse oximetry, blood pressure
+INSTRUMENT: CareFusion PleurX catheter system, ultrasound machine
+ESTIMATED BLOOD LOSS: <10 mL
+COMPLICATIONS: None
+PROCEDURE IN DETAIL:
+After timeout, all procedure related images were saved and archived.
+PATIENT POSITION: Sitting upright at 60 degrees, right arm elevated
+CHEST ULTRASOUND FINDINGS: (Image saved and printed)
+
+Hemithorax: Right
+Pleural Effusion Volume: Large
+Echogenicity: Anechoic
+Loculations: None
+Diaphragmatic Motion: Diminished
+Lung sliding before procedure: Present
+Lung consolidation/atelectasis: Present (compressive atelectasis)
+Pleura: Mildly thickened, no nodularity visualized
+
+The right lateral chest was prepped and draped in sterile fashion. Ultrasound guidance was used to identify the optimal insertion site and confirm absence of vital structures.
+ANESTHESIA: Lidocaine 1%: 20ml injected at skin, subcutaneous tissue, pleura, and tunnel tract
+Entry Site: Right 5th Intercostal Space
+Location: Mid-axillary line
+Procedure Steps:
+
+A finder needle (18G) was used to enter the pleural space in the 5th intercostal space along the midaxillary line under ultrasound guidance. Pleural fluid was easily aspirated (straw-colored fluid). The needle was withdrawn and a 0.038" guidewire was placed into the pleural space through the finder catheter.
+Two 5mm skin incisions were made: one at the guidewire entry site and another 5-6cm away anteriorly for the catheter exit site.
+The tunneling device was used to tunnel the catheter in the subcutaneous tissue from the exit site to the pleural entry site. Tunnel length: 6cm.
+Serial dilation over the guidewire was achieved using 10Fr and 15Fr dilators. The peel-away introducer sheath (16Fr) was placed over the guidewire and advanced into the pleural space.
+The guidewire was removed. The PleurX catheter was then inserted through the introducer sheath into the pleural space until all fenestrations were within the pleural cavity (approximately 15cm inserted).
+The introducer sheath was peeled away and removed. The pleural entry site incision was closed with a 3-0 absorbable suture (Vicryl).
+The catheter cuff was positioned in the subcutaneous tunnel approximately 1cm from the exit site. The catheter was secured to the skin at the exit site using 2-0 nylon sutures.
+Sterile dressings were applied (foam and transparent dressing).
+
+Exit site: 5th Intercostal space, anterior axillary line
+Initial Drainage:
+The PleurX vacuum bottle was attached and drainage initiated.
+
+Fluid Removed: 1200 mL
+Appearance: Serous, straw-colored
+
+Pleural Pressures Measured:
+
+Opening: -8 cmH₂O
+500ml: -10 cmH₂O
+1000ml: -15 cmH₂O
+1200ml: -18 cmH₂O (stopped due to chest discomfort)
+
+Drainage device: Initially vacuum bottle, then capped after drainage complete
+SPECIMEN(S):
+
+Pleural fluid (cytology, chemistry, cell count)
+
+Post-procedure ultrasound showed reduced effusion volume with no pneumothorax. Post-procedure CXR ordered.
+The patient tolerated the procedure well with only mild discomfort during catheter insertion. The attending, Dr. Green, was present throughout the entire procedure.
+IMPRESSION/PLAN: Ms. Johnson underwent successful placement of right-sided tunneled pleural catheter for recurrent malignant effusion. Procedure completed without complications. Patient and family educated on catheter care and home drainage protocol. Drainage every other day initially, adjusting based on output. Follow-up appointment in 2 weeks. Home health nursing arranged for first drainage. Patient given written discharge instructions and emergency contact information.

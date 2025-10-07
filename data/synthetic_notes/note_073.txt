@@ -1,0 +1,24 @@
+PT: Davis, K | 64F | #1701625
+DT: 10/19/24
+MD: R. Johnson
+DX: ILD, UIP pattern on imaging, needs tissue dx
+PROC: Bronch w/ transbronchial cryobiopsy RLL (CPT 31632)
+MEDS: Propofol, fent, roc for intubation
+SCOPE FINDINGS:
+Airways clear, no endo lesions
+TECHNIQUE:
+
+REBUS to RLL lateral basal - no vessels in path
+2.4mm cryoprobe advanced to target area
+Freeze 6sec x 5 samples total
+Arndt blocker inflated 8cc RLL after each, held 3min each time
+Samples good size (5-8mm each)
+Minimal bleeding, all stopped with blocker
+
+SAMPLES:
+
+5 cryo specimens → histology (ILD protocol)
+
+COMP: None, no PTX on fluoro
+DISPO: Extubate, recovery, CXR, d/c if CXR clear
+IMP: Successful cryobx. Await path. F/u 1wk.

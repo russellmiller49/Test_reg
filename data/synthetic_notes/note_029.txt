@@ -1,0 +1,61 @@
+NAME: Garcia, Maria Elena MRN: 7729384 AGE/SEX: 64/F
+DATE: 04/12/2025
+PROCEDURE PERFORMED: Endobronchial ultrasound with transbronchial needle aspiration
+OPERATOR: Nguyen, Thai MD (Attending) ASSISTANT: Rodriguez, Carlos MD (IP Fellow) NURSING: Susan Miller RN, BSN RESPIRATORY THERAPY: John Davis RRT
+CLINICAL INDICATION: Patient is a 64-year-old Hispanic female with recently diagnosed left lower lobe adenocarcinoma (biopsy-proven). Presented today for mediastinal staging via EBUS-TBNA. CT chest shows multiple enlarged mediastinal lymph nodes. PET avid nodes at stations 4L, 7, and 10L.
+PRE-PROCEDURE:
+•	Informed consent: Yes, documented
+•	NPO status: >8 hours confirmed
+•	ASA class: III (controlled DM, HTN)
+•	Anticoagulation held appropriately
+•	IV access: 18G right AC
+•	Monitoring: SpO2, ETCO2, BP, ECG
+MEDICATIONS: Pre-procedure: Glycopyrrolate 0.2mg IV Sedation: Midazolam 3mg IV, Fentanyl 100mcg IV Topical: Lidocaine 4% spray x4, Lidocaine 2% 20mL via scope
+PROCEDURE DETAILS:
+Time in room: 1015 Procedure start: 1025
+Procedure end: 1108 Total time: 43 minutes
+EBUS bronchoscope (Olympus BF-UC180F) introduced via oral route after adequate sedation and topical anesthesia. Systematic survey of mediastinum performed.
+LYMPH NODE ULTRASOUND CHARACTERISTICS:
+Station 2R: 8mm, normal hilum, not sampled Station 2L: Not well visualized Station 4R: 16mm, oval, preserved architecture
+Station 4L: 34mm x 19mm, ROUND, HYPOECHOIC, loss of hilum - ABNORMAL Station 7: 39mm x 24mm, ENLARGED, heterogeneous, irregular margins - ABNORMAL Station 10L: 26mm x 16mm, hypoechoic, loss of hilum - ABNORMAL Station 10R: 11mm, normal Station 11L: 23mm x 14mm, abnormal echotexture - ABNORMAL
+TRANSBRONCHIAL NEEDLE ASPIRATION PERFORMED:
+Station 7 (Subcarinal) - 39 x 24mm
+•	Elastography: Blue (firm)
+•	Pass 1: 22G needle, 25 excursions with suction → Good sample
+•	Pass 2: Repeat for adequacy → ROSE: ADEQUATE, MALIGNANT CELLS +
+•	Pass 3: Cell block preparation → ROSE: Confirms malignancy
+•	Pass 4: Additional for molecular markers
+•	Complications: None
+Station 4L - 34 x 19mm
+•	Pass 1-3: 22G needle → ROSE: POSITIVE for malignant cells, consistent with adenocarcinoma
+Station 10L - 26 x 16mm
+•	Pass 1-2: 22G needle → ROSE: Malignant cells identified
+Station 11L - 23 x 14mm
+•	Pass 1-2: 22G needle → ROSE: Atypical cells, favor malignant
+Airways inspected: No endobronchial lesions. RUL, RML, RLL, LUL, Lingula, LLL all patent.
+Hemostasis: Adequate throughout. No significant bleeding.
+RAPID ON-SITE EVALUATION (Dr. Peterson, Cytopathology):
+•	Station 7: POSITIVE for malignancy
+•	Station 4L: POSITIVE for malignancy
+•	Station 10L: POSITIVE for malignancy
+•	Station 11L: Atypical cells, favor malignant
+SPECIMENS SENT: ✓ Cytology (all stations) ✓ Cell block (Station 7) ✓ Molecular testing - EGFR, ALK, ROS1, PD-L1 (Station 7) ✓ Microbiology - AFB, fungal cultures (Station 7)
+ESTIMATED BLOOD LOSS: <5mL
+COMPLICATIONS: None
+PATIENT TOLERANCE: Excellent, hemodynamically stable throughout, no desaturations
+POST-PROCEDURE ORDERS:
+•	Recovery observation x2 hours
+•	NPO x1 hour then advance diet
+•	Vital signs q15min x4, then q30min x2
+•	Call physician for: chest pain, dyspnea, hemoptysis, fever
+DIAGNOSTIC IMPRESSION: Successful EBUS-TBNA demonstrating N3 disease (stations 7, 4L, 10L, 11L all positive for malignancy). Stage IIIB disease confirmed.
+TREATMENT PLAN:
+1.	Oncology consultation - already scheduled
+2.	Tumor board presentation
+3.	Final pathology and molecular markers pending (3-5 days)
+4.	Patient counseled regarding findings and staging implications
+5.	Follow-up in IP clinic 2 weeks
+Thai Nguyen, MD, FCCP Interventional Pulmonology Digitally signed: 04/12/2025 11:34 AM
+________________________________________
+EBUS
+Procedure Date: 01/19/2025 MRN: 5847291 Name: Wilson, Patrick Sean DOB: 07/22/1959

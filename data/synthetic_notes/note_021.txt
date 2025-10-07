@@ -1,0 +1,18 @@
+PATIENT: Martinez, Roberto
+MRN: 8847392
+DOB: 03/15/1967
+DATE OF SERVICE: 02/14/2025
+ATTENDING: Dr. Sarah Chen, MD
+FELLOW: Dr. Michael Torres, MD
+PROCEDURE: Endobronchial Ultrasound with Transbronchial Needle Aspiration
+INDICATION: 62mm right paratracheal lymphadenopathy, evaluate for malignancy
+CONSENT: Obtained and documented
+ANESTHESIA: Moderate sedation with Fentanyl 100mcg IV, Midazolam 4mg IV. Topical lidocaine 2% 20mL.
+FINDINGS: Linear EBUS bronchoscope advanced through oral route. Systematic mediastinal survey performed.
+Station 2R: 24mm, heterogeneous, oval shape. 5 passes with 22G needle. ROSE: adequate, atypical cells present. Station 4R: 31mm, round, hypoechoic center. Elastography score 3. 4 passes performed. ROSE: malignant cells identified, consistent with adenocarcinoma. Station 7: 18mm, homogeneous echo pattern. 3 passes performed. ROSE: benign lymphoid tissue. Station 10R: 12mm, not sampled (below size threshold).
+No complications. Minimal bleeding controlled with suction.
+IMPRESSION: EBUS-TBNA successful. Malignancy confirmed in station 4R. Awaiting final pathology.
+PLAN: Oncology referral for staging and treatment planning.
+________________________________________
+EBUS
+Medical Record Number: 2938475 Patient: Johnson, Patricia Ann Date: 03/22/2025 Age: 71 years Procedure Date/Time: 03/22/2025 0830

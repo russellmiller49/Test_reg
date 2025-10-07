@@ -1,0 +1,28 @@
+===============================================================================
+Patient: Mark Thompson | MRN# TK-9472 | Born: 09/03/1964
+
+INDICATION: RLL 21mm solid nodule with clear bronchus sign on CT, PET SUV 4.8
+
+ANESTHESIA: Moderate sedation, midazolam 3mg + fentanyl 75mcg
+Ramsay 3 throughout, monitoring BP q5min, SpO2 continuous
+
+TECHNIQUE: Traditional bronchoscopy (no navigation system needed due to bronchus sign)
+
+Procedure:
+- Thin bronchoscope advanced to RLL
+- Bronchus sign followed to nodule location
+- Lesion visualized endobronchially as subtle mucosal irregularity
+- Radial EBUS probe: Solid eccentric pattern consistent with lesion
+- Fluoroscopy used for confirmation: 3.1 minutes, DAP 124 cGy*cm²
+
+Sampling performed:
+- Transbronchial needle aspiration ×3 (22G Wang needle)
+- Transbronchial forceps biopsy ×5
+- Brush cytology ×2
+- Additional forceps biopsies ×3 for molecular testing
+
+Tool approach successful, diagnostic yield anticipated given direct visualization
+
+Complications: Minor self-limited bleeding after forceps biopsies, resolved with gentle suction
+
+Post-procedure: CXR showed small basilar atelectasis, no PTX. Patient stable, discharged.

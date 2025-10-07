@@ -1,0 +1,21 @@
+EBUS-TBNA PROCEDURE REPORT
+CLINICAL HISTORY: 69yo M with 40 pack-year smoking history presents with enlarged mediastinal nodes on CT chest. No constitutional symptoms. PET-CT shows FDG-avid lymphadenopathy.
+PROCEDURE: Endobronchial ultrasound with transbronchial needle aspiration
+MEDICATIONS ADMINISTERED: Versed 3mg IV Fentanyl 75mcg IV
+Lidocaine 2% nebulized, then 5cc instilled via bronchoscope
+PROCEDURE DETAILS: EBUS scope inserted per os. Vocal cords normal, trachea patent.
+Lymph Node Assessment:
+•	Station 4R: 15mm short axis, oval, central hilum present - SAMPLED
+•	Station 4L: 22mm, round, loss of hilum, heterogeneous - SAMPLED
+•	Station 7: 29mm, hypoechoic, irregular borders - SAMPLED
+•	Station 11L: 18mm - SAMPLED
+Needle: 22 gauge Olympus
+Station 7 - 4 passes made, excellent tissue yield, ROSE: POSITIVE FOR MALIGNANT CELLS, favor non-small cell carcinoma Station 4L - 3 passes, ROSE: atypical cells, recommend additional studies Station 4R - 3 passes, ROSE: reactive lymphoid tissue
+Station 11L - 2 passes, ROSE: benign
+Hemostasis achieved. No immediate complications observed.
+Specimens to pathology: Cytology, cell block, tissue for molecular testing
+ASSESSMENT: Successful EBUS-TBNA. Malignancy identified in station 7. Correlate with final pathology for definitive diagnosis and treatment planning.
+Digital signature: Carmen Rodriguez MD - 01/30/2025 14:23
+________________________________________
+
+===================================== BRONCHOSCOPY PROCEDURE NOTE

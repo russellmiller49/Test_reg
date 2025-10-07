@@ -1,0 +1,15 @@
+===============================================================================
+Case#: 2024-0847 | Pt: Sarah Miller | ID: HH-9482-L | DOB: 07/08/1959
+
+EBUS Staging: Y | Systematic: Y | Photos: Y
+4R: 11mm, 4x, ROSE+, PET+
+7: 16mm, 4x, ROSE+, PET+
+10R: 7mm, 3x, ROSE+, PET-
+Molecular: Y (from 4R)
+Adequacy: Y (all nodes)
+
+Sedation: Moderate | Ramsay: 3 | Monitoring: q5min
+Cx: None
+Duration: 32min
+
+N2 disease ✓

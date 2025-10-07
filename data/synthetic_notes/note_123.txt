@@ -1,0 +1,67 @@
+PATIENT: William Harris, 68-year-old Male
+MRN: 8127065
+INDICATION FOR OPERATION: Mr. Harris is a 68-year-old male with severe heterogeneous emphysema (FEV1 28% predicted) despite maximal medical therapy including pulmonary rehabilitation. CT imaging shows target left upper lobe with fissure integrity >95%. Chartis assessment confirms absence of collateral ventilation. The nature, purpose, risks, benefits and alternatives to endobronchial valve therapy were discussed with the patient in detail. Patient indicated a wish to proceed and informed consent was signed.
+PREOPERATIVE DIAGNOSIS: Severe heterogeneous emphysema with target left upper lobe
+POSTOPERATIVE DIAGNOSIS: Same
+PROCEDURE: Endobronchial Valve Placement (CPT 31647, 31648)
+ATTENDING: Dr. Catherine Lee
+ASSISTANT: Dr. Brian Thompson, Fellow
+Support Staff:
+
+RN: Michelle Rodriguez
+RT: Steven Clark
+Anesthesia: Dr. Jennifer Adams
+
+ANESTHESIA: General anesthesia with endotracheal intubation
+MONITORING: Standard ASA monitoring
+INSTRUMENT: Olympus therapeutic bronchoscope, Chartis Pulmonary Assessment System, Zephyr Endobronchial Valves (Pulmonx)
+ESTIMATED BLOOD LOSS: None
+COMPLICATIONS: None
+PROCEDURE IN DETAIL:
+After induction of general anesthesia and intubation with 8.5 ETT, a timeout was performed. All procedure related images were saved and archived. Patient received Cefazolin 2g IV and Methylprednisolone 125mg IV prior to procedure.
+PATIENT POSITION: Supine
+The bronchoscope was introduced through the ETT. Complete airway survey showed:
+
+Trachea: Normal
+Right lung: Patent airways, emphysematous changes
+Left lung: Patent airways with severe emphysematous destruction especially in upper lobe segments
+
+Chartis Assessment:
+Balloon occlusion of the left upper lobe was performed at the LUL orifice using the Chartis balloon catheter. The balloon was inflated with saline to achieve complete occlusion confirmed visually and by loss of airflow.
+Chartis Results:
+
+Test duration: 6 minutes
+Flow: Declined to zero by minute 4
+Resistance: Progressive increase
+Conclusion: CV NEGATIVE (no collateral ventilation detected)
+
+Based on Chartis confirmation of absent collateral ventilation, proceeded with valve placement.
+Valve Placement:
+The following Zephyr Endobronchial Valves were deployed:
+
+LB1+2 (Apical-posterior segment): 4.0mm valve
+LB1+2c (Anterior segment): 4.0mm valve
+LB3 (Superior segment): 4.0mm valve
+
+All valves were deployed under direct visualization using the Zephyr Loading System. Each valve expanded appropriately and demonstrated one-way valve function with visible flutter during expiration and occlusion during inspiration. Final bronchoscopic inspection confirmed:
+
+All three valves in good position
+Complete LUL occlusion achieved
+No airflow detected through valves
+No immediate complications
+
+The patient tolerated the procedure well. There were no immediate complications. The attending, Dr. Lee, was present throughout the entire procedure.
+SPECIMEN(S): None
+IMPRESSION/PLAN: Mr. Harris underwent successful endobronchial valve placement in the left upper lobe for severe emphysema. Post-procedure management per protocol:
+Post-BLVR Protocol:
+
+Admit to monitored bed
+Pneumothorax kit at bedside
+Continuous pulse oximetry and telemetry
+CXR immediately post-procedure and at 4 hours
+Day 1: Bedrest, resume home COPD medications
+Day 2-4: Progressive mobilization with daily CXRs
+Discharge planning on Day 4 if stable
+Follow-up IP clinic in 2 weeks with repeat CXR and PFTs in 6 weeks
+
+Patient and family counseled on 30-35% pneumothorax risk and when to seek emergency care.

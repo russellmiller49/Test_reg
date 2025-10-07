@@ -1,0 +1,93 @@
+Patient: Cooper, Daniel | ID#: 6283947 | Date: 02/19/2025
+Attending: Dr. Harris, Stephanie
+Procedure: EBUS-TBNA for suspicious nodes
+Indication: 68M smoker, LUL mass with enlarged mediastinum lymph nodes
+Consent: Yes, documented
+Meds: Midazolam 3mg, Fentanyl 100mcg, Propofol drip (total 320mg)
+Survey results:
+•	2R: 8mm (normal)
+•	2L: not seen
+•	4R: 21mm (sampled) - ROSE: Malignant, squamous cell features
+•	4L: 27mm (sampled) - ROSE: Squamous cell carcinoma
+•	7: 33mm (sampled) - ROSE: Squamous cell CA confirmed
+•	10L: 15mm (sampled) - ROSE: Positive for malignancy
+•	11L: 18mm (sampled) - ROSE: Reactive
+Total passes: 14 Stations sampled: 5
+Complications: None Blood loss: Minimal
+Diagnosis: N3 disease (bilateral nodes positive) - Stage IIIB at minimum
+Next: Oncology, radiation oncology consult, tumor board
+S. Harris MD | 2/19/2025 1445
+________________________________________
+EBUS
+METROPOLITAN HOSPITAL DEPARTMENT OF PULMONARY MEDICINE PROCEDURE DOCUMENTATION
+│PATIENT│ Scott, Jennifer R │ MRN │ 4857392 │ DOB │ 02/28/1971
+│ DATE │ 03/30/2025
+│PROCEDURE│ EBUS-TBNA │PROVIDER │ Yang, Peter MD, PhD │FELLOW │ Morrison, Ashley MD
+═══ CLINICAL SCENARIO ═══
+54F never-smoker with cryptogenic organizing pneumonia (COP) on CT, hilar/mediastinal lymphadenopathy. R/O sarcoid vs ILD vs atypical infection vs occult malignancy.
+PET shows moderate FDG uptake nodes at 4R, 7, 10R (SUV 3-4 range)
+Labs: Normal CBC, CMP. ACE level elevated at 82 (normal <40)
+═══ INFORMED CONSENT ═══ Risks discussed: bleeding, infection, pneumothorax, failure to diagnose, need additional procedures. Patient agreed, signed consent form.
+═══ ANESTHESIA PROTOCOL ═══ Moderate conscious sedation
+•	Midazolam 2mg IV at T=0
+•	Fentanyl 50mcg IV at T=2min
+•	Propofol 20mg IV boluses PRN (total 80mg)
+Topical:
+•	Hurricane spray (benzocaine 20%) to posterior pharynx
+•	Lidocaine 2% via bronchoscope: 16mL instilled incrementally
+Vitals stable throughout, SpO2 92-96% on 4L NC
+═══ EQUIPMENT ═══ Pentax EB-1970UK Linear EBUS Bronchoscope Ultrasound: Hi Vision Preirus Needles: 22G Olympus
+═══ FINDINGS ═══
+AIRWAY EXAM: Normal vocal cord function Trachea patent, no stenosis Main carina sharp Bilateral airways patent Mild inflammatory changes bilateral lower lobes
+ULTRASOUND LYMPH NODE SURVEY:
+Station 2R: 10mm, normal architecture Station 4R: 22mm x 13mm └─ Heterogeneous echotexture
+└─ Oval shape, maintained borders
+Station 4L: 18mm x 11mm └─ Similar appearance to 4R
+Station 7: 29mm x 19mm └─ Enlarged └─ Hypoechoic └─ Loss of normal hilum
+Station 10R: 19mm x 12mm └─ Round morphology └─ Abnormal echo pattern
+Station 11R: 16mm x 10mm └─ Mildly enlarged
+TRANSBRONCHIAL NEEDLE ASPIRATION:
+► STATION 7 [29mm] Pass 1 (1022): Good aspirate obtained → ROSE: ADEQUATE. Non-necrotizing granulomas with giant cells. Pass 2 (1024): Confirmatory → ROSE: Consistent granulomatous inflammation. NO MALIGNANCY. Pass 3 (1026): Microbiology specimen → Sent for AFB, fungal, bacterial cultures Pass 4 (1028): Flow cytometry (r/o lymphoma) → Preliminary: Polyclonal lymphoid population
+► STATION 4R [22mm]
+Pass 1-2 (1031-1033): → ROSE: Granulomas present, similar to Station 7
+► STATION 10R [19mm] Pass 1-2 (1036-1038): → ROSE: Granulomatous inflammation
+► STATION 11R [16mm] Pass 1 (1040): → ROSE: Reactive lymphoid hyperplasia with granulomas
+Hemostasis confirmed after each sampling. No significant bleeding noted.
+═══ RAPID ON-SITE EVALUATION ═══ Cytopathologist: Dr. Rachel Cohen
+All sampled stations show NON-NECROTIZING GRANULOMAS with multinucleated giant cells. No caseation. No malignancy. No organisms on preliminary AFB stain.
+INTERPRETATION: Findings most consistent with SARCOIDOSIS
+═══ SPECIMENS ═══ □ Cytology: Stations 7, 4R, 10R, 11R (4 vials) □ Cell blocks: Station 7 (1 vial) □ Flow cytometry: Station 7 (1 tube) □ Microbiology: Station 7 • AFB culture (1 vial) • Fungal culture (1 vial) • Bacterial culture (1 vial)
+═══ PROCEDURAL DATA ═══ Start time: 1015 End time: 1048 Duration: 33 minutes Needle passes: 9 total Fluoroscopy: Not used EBL: <5mL
+═══ COMPLICATIONS ═══ None
+═══ POST-PROCEDURE ═══ Patient tolerated well Recovered from sedation appropriately
+Vital signs stable No respiratory distress Discharged to home after 90-minute observation
+═══ ASSESSMENT ═══
+1.	Successful EBUS-TBNA with adequate tissue sampling
+2.	ROSE cytology consistent with SARCOIDOSIS (Stage II - bilateral hilar and mediastinal lymphadenopathy)
+3.	No evidence of malignancy
+4.	Final pathology and cultures pending
+═══ PLAN ═══
+▶ FOLLOW-UP:
+•	Pulmonology clinic 2 weeks
+•	Review final pathology and culture results
+•	If cultures negative: Confirm diagnosis sarcoidosis
+▶ ADDITIONAL TESTING:
+•	PFTs with DLCO (if not recent)
+•	Ophthalmology evaluation (baseline exam)
+•	24-hour urine calcium
+•	Vitamin D level
+▶ TREATMENT CONSIDERATION:
+•	If symptomatic → Consider systemic corticosteroids
+•	If asymptomatic → Observe, serial imaging
+•	COP vs sarcoid discussion: Imaging and clinical context favor sarcoid, biopsy confirms
+▶ PATIENT EDUCATION:
+•	Sarcoidosis diagnosis explained
+•	Prognosis discussed (generally favorable)
+•	Written materials provided
+•	Support group information given
+═══ SIGNATURE ═══
+Peter Yang, MD, PhD, FCCP Interventional Pulmonology
+Electronically signed: 03/30/2025 11:30
+═══════════════════════════════════════
+________________________________________
+EBUS

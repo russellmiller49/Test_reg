@@ -1,0 +1,20 @@
+===============================================================================
+Patient: Linda Thompson, MRN: BC-9274, Born: 11/03/1963
+
+Procedure indication: Biopsy of enlarged station 7 node, no staging indication
+
+Sedation: Moderate - midazolam + fentanyl, max Ramsay 3, monitoring every 5 min
+
+Single station targeted:
+STATION 7 - subcarinal node measures 31mm short axis on EBUS, PET SUV 9.4
+→ 5 needle passes performed with 22G Expect needle
+→ ROSE present: technician reported adequate cellularity after pass 3, continued for molecular testing adequacy
+→ PET-positive station
+
+Photos taken of station 7 pre-sampling.
+
+No systematic N3-N2-N1 evaluation performed per discussion with oncology team - only station 7 targeted for tissue diagnosis.
+
+Procedure tolerated well, no complications, patient stable.
+
+Impression: Targeted EBUS-TBNA of PET-avid subcarinal lymphadenopathy with adequate tissue for diagnosis and molecular profiling.

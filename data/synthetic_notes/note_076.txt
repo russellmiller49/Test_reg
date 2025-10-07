@@ -1,0 +1,10 @@
+Patient: Thompson, Marcus A. | DOB: 07/29/1955 | MRN: 2938475
+Procedure Date: 12/03/2024
+Operator: David Wong, MD | Assistant: Sarah Mitchell, MD (Fellow)
+RN: Jennifer Adams | RT: Michael Torres
+
+PREOP DX: Left lower lobe mass, 3.8 cm
+POSTOP DX: Same
+PROCEDURE: Ion robotic bronchoscopy, radial EBUS, transbronchial biopsy, fiducial placement
+
+CPT: 31627, 31654, 31628, 31626

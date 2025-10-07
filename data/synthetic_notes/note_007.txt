@@ -1,0 +1,30 @@
+===============================================================================
+PT NAME: BARBARA WILSON | MEDICAL RECORD: FG-8274 | D.O.B: 06/15/1967
+
+INDICATION: Newly diagnosed Hodgkin lymphoma, mediastinal staging required
+
+CONSCIOUS SEDATION:
+Versed 2mg IV, Fentanyl 50mcg IV
+Patient remained conversant, Ramsay 2
+SpO2 continuous, BP every 10 minutes
+
+EBUS-TBNA TECHNIQUE:
+Systematic evaluation not strictly required for lymphoma but performed
+
+Stations biopsied:
+- Station 4R (18mm): 3 passes, ROSE shows atypical large cells
+- Station 4L (21mm): 3 passes, ROSE similar
+- Station 7 (16mm): 4 passes, ROSE adequate for flow cytometry
+- Station 10R (14mm): 3 passes, ROSE adequate
+
+Special handling: Samples for flow cytometry, FISH, molecular markers as per heme-onc
+
+All samples sent fresh (not in formalin) for flow cytometry analysis
+Additional passes for tissue blocks
+
+Adequacy all nodes: YES
+Photodoc completed
+
+No complications. Procedure well tolerated.
+
+ASSESSMENT: Adequate tissue and fresh samples obtained for lymphoma subtyping and staging.

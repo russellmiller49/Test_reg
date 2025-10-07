@@ -1,0 +1,26 @@
+===============================================================================
+Patient: Susan Taylor | MRN BB-4827 | Birth: 08/30/1959
+
+Clinical scenario: Mediastinal adenopathy on CT, patient cannot undergo PET (renal failure, diabetes)
+
+Moderate sedation with midazolam/fentanyl, Ramsay 3, BP q5min monitoring
+
+EBUS-TBNA systematic approach:
+No PET data available for correlation
+
+Station 2R: 9mm, 3 passes, ROSE shows reactive lymphocytes
+Station 4R: 14mm, 4 passes, ROSE positive for metastatic carcinoma
+Station 4L: 10mm, 3 passes, ROSE benign
+Station 7: 17mm, 4 passes, ROSE positive for metastatic carcinoma
+Station 11R: 8mm, 3 passes, ROSE adequate, benign
+
+Staging indication: Yes
+Systematic sequence: Yes (N3→N2→N1)
+All samples adequate: Yes
+Molecular testing: Sent from station 4R
+
+Photodocumentation of all accessible stations completed.
+
+PET CORRELATION NOT AVAILABLE - relied on size and ultrasound characteristics for targeting
+
+No complications.

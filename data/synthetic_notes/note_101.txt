@@ -1,0 +1,33 @@
+Patient Name: Christopher Hayes
+MRN: 9274183
+Date of Procedure: June 15, 2020
+
+Preoperative Diagnosis: Bronchial stenosis secondary to Granulomatosis with polyangiitis
+Postoperative Diagnosis: Bronchial stenosis secondary to Granulomatosis with polyangiitis
+Procedure Performed: Rigid bronchoscopy
+
+Surgeon: Kevin Martinez, MD
+Indications: Left mainstem obstruction
+Consent: Consent was obtained from the patient prior to procedure after explanation in lay terms the indications, details of procedure, and potential risks and alternatives. The patient acknowledged and gave consent.
+Sedation: General Anesthesia
+
+Description of Procedure:
+The procedure was performed in the main operating room. I-gel LMA was placed for initial airway inspection and the diagnostic flexible bronchoscope was inserted through the airway device. The vocal cords were visualized and normal. The upper trachea was normal. The distal third of the trachea was erythematous and inflamed in a circumferential pattern but without any endoluminal obstruction. On the right, there was minimal structuring of the bronchus intermedius. On the left, the proximal mainstem was about 90% obstructed circumferentially, and approximately 1 cm into the left mainstem the airway was completely occluded.
+
+Radial knife cuts were performed within the proximal left mainstem followed by attempted CRE balloon dilatation. However, due to the proximal obstruction, dilatation was difficult as only the balloon tip could be inserted into the left mainstem due to the complete distal obstruction. We attempted to place a guide wire through the obstruction as well but unsuccessfully.
+
+The flexible bronchoscope was removed and the 12 mm ventilating rigid bronchoscope was subsequently inserted into the mid trachea and attached to the jet ventilator. The rigid optic was then removed and the flexible bronchoscope was inserted through the rigid bronchoscope. At this point, we performed APC to the left mainstem followed by gentle shaving of coagulated tissue which we repeated multiple times attempting to slowly recanalize the airway. We periodically would reinsert the CRE balloon and dilate as the airway lumen slowly reopened, but we were unable to visualize any distal airway. This was performed in a slow methodical fashion given the concern for airway perforation without obvious distal airway targets. However, once we had dilated approximately 3 cm into the left mainstem, a pulsatile vessel was seen which was likely the pulmonary artery through a small (2 mm) false lumen. The PA was intact and there was no evidence of rupture.
+
+At this point, to protect from major vascular bleeding, we instilled fibrin glue into the left mainstem, after which we removed the rigid bronchoscope and intubated the patient. Chest radiograph was performed which showed his previously elevated left hemi-diaphragm was significantly lower and there was a questionable deep sulcus concerning for pneumothorax. In the setting of a known airway tear and need for positive pressure ventilation, we felt that chest tube placement was warranted. After prepping the left mid-axillary area, a 14F pigtail catheter was placed without complications and the patient was transferred to the PICU in stable condition.
+
+Recommendations:
+• Patient to remain intubated tonight
+• CT surgery aware and will evaluate patient for possible pneumonectomy given airway injury and lack of viable lung
+• Appreciate Rheumatology recommendations in regards to tapering immunosuppressives in anticipation of possible surgery
+• Please obtain CT chest with contrast once stable to assist in planning for possible surgical intervention
+• If patient develops significant hemoptysis tonight, place left side down, intubate right mainstem, call me (602-791-3135) and pediatric surgeon immediately
+• We will continue to follow
+
+Kevin Martinez, MD
+
+________________________________________

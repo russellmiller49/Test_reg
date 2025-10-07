@@ -1,0 +1,32 @@
+Patient Name: Rachel Anderson
+MRN: 3849571
+Date of Procedure: January 3, 2019
+
+Proceduralist(s): Thomas Wright, MD, Pulmonologist; Nicole Stevens, MD (Fellow)
+
+Procedure(s) Performed:
+• CPT 31629 Flexible bronchoscopy with fluoroscopic transbronchial needle aspiration
+• CPT 31627 Bronchoscopy with computer assisted image guided navigation
+• CPT 31654 Bronchoscopy with Endobronchial Ultrasound guidance for peripheral lesion
+• CPT 31624 Bronchoscopy with bronchial alveolar lavage
+
+Indications: Migratory lung nodules
+Medications: General Anesthesia
+
+Procedure, risks, benefits, and alternatives were explained to the patient. All questions were answered and informed consent was documented as per institutional protocol. A history and physical were performed and updated in the pre-procedure assessment record. Laboratory studies and radiographs were reviewed. A time-out was performed prior to the intervention.
+
+Following intravenous medications as per the record and topical anesthesia to the upper airway and tracheobronchial tree, the Q190 video bronchoscope was introduced through the endotracheal tube. The trachea was of normal caliber. The tracheobronchial tree was examined to at least the first sub-segmental level. Bronchial mucosa and anatomy were normal; there were no endobronchial lesions. There were thick non-purulent secretions in multiple airways which were suctioned.
+
+Following inspection, a bronchoalveolar lavage was performed in the posterior segment of the right upper lobe with 180 cc instillation and 70 cc return. The SuperDimension navigational catheter was then inserted through the therapeutic bronchoscope and advanced into the airway. Using the navigational software, we were able to direct the catheter to within 1 cm of the left lingular lesion of interest. Radial ultrasound was then used to confirm location and a concentric view was seen indicating appropriate isolation of the lesion. TBNAs were performed under fluoroscopic observation and on ROSE numerous histiocytes and occasional giant cells were seen. Subsequently, further biopsies were performed with a triple needle brush and forceps biopsies under fluoroscopic observation. After samples were obtained and we were confident that there was no active bleeding, the bronchoscope was removed and the procedure concluded.
+
+Complications: No immediate complications
+Estimated Blood Loss: Less than 5 cc
+
+Recommendation:
+• CXR to rule out pneumothorax
+• Await pathology results
+
+Thomas Wright, MD
+Interventional Pulmonary
+
+________________________________________

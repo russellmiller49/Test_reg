@@ -1,0 +1,139 @@
+BRONCHOSCOPY NOTE - COMBINED EBUS + EMN
+
+University Hospital Bronchoscopy Suite
+
+**PT:** Nakamura, Kenji | 67M | MRN 9384756
+**DATE:** 01/23/2025
+**PHYSICIANS:** Dr. Sarah Williams (Attending), Dr. Marcus Johnson (Fellow)
+**ANESTHESIA:** MAC team - Dr. Lisa Park
+
+**INDICATION:**
+LUL mass 4.2cm + mediastinal adenopathy. Staging and tissue diagnosis needed.
+
+**PROCEDURES:**
+- EBUS-TBNA of mediastinal/hilar lymph nodes
+- Electromagnetic navigation bronchoscopy
+- Radial EBUS
+- Transbronchial biopsy of LUL mass
+
+**CLINICAL CONTEXT:**
+Patient with 50 py smoking history, now with large LUL mass crossing fissure. PET shows: primary lesion SUV 11.3, station 5 (AP window) 2.4cm SUV 6.7, station 7 1.9cm SUV 5.2, station 10L 1.6cm SUV 4.8. Need staging before treatment planning.
+
+**MEDICATIONS/ANESTHESIA:**
+Moderate-deep sedation. Propofol infusion (bolus 200mg, then 75-150 mcg/kg/min). Fentanyl 125mcg IV. Patient maintained spontaneous respirations with supplemental O2 via NC.
+
+**PART 1 - EBUS EXAMINATION:**
+
+EBUS scope (Olympus) inserted through mouth.
+
+LYMPH NODE SURVEY:
+
+*Station 2R:* 8mm - not sampled (too small)
+
+*Station 4R:* 11mm - appears reactive, not sampled
+
+*Station 4L:* 14mm - appears reactive, not sampled
+
+*Station 5 (AP window):*
+- Measured: 24mm x 18mm
+- Echo: Hypoechoic, heterogeneous
+- Shape: Oval with irregular borders
+- Blood flow: Present on Doppler
+- **Sampled: 22G needle x 5 passes**
+- ROSE: "Positive for malignancy, NSCLC"
+
+*Station 7 (subcarinal):*
+- Measured: 18mm x 15mm
+- Echo: Hypoechoic, fairly homogeneous
+- **Sampled: 22G needle x 4 passes**
+- ROSE: "Positive for malignancy, similar to station 5"
+
+*Station 10L (left hilar):*
+- Measured: 15mm x 12mm
+- Echo: Hypoechoic
+- **Sampled: 22G needle x 3 passes**
+- ROSE: "Positive for malignancy"
+
+*Station 11L:* Not well-visualized on EBUS
+
+**PART 2 - EMN BRONCHOSCOPY OF PRIMARY TUMOR:**
+
+EBUS scope removed. Standard therapeutic bronchoscope (Olympus BF-1TH190) inserted.
+
+Initial airway survey:
+- Trachea: patent, no extrinsic compression
+- Carina: sharp
+- LUL orifice: partially narrowed by external compression from mass
+- LUL segments: able to pass scope, but narrowed
+- Remainder of left and right bronchial tree: patent
+
+**EMN Navigation:**
+SuperDimension system used. CT from 01/10/2025 uploaded.
+
+Target: LUL mass (posterior segment component - anterior component has endobronchial extension)
+
+Registration: Automatic + manual verification. 8 points confirmed. System accuracy indicator >90%.
+
+Locatable guide advanced to LUL posterior segment. Navigation suggested tool within 9mm of target center.
+
+**Radial EBUS:**
+- Pattern: Concentric initially, then lost signal (likely probe too close to chest wall/fissure)
+- Repositioned catheter 8mm proximally
+- New pattern: Eccentric but visualizing lesion
+- Lesion: Very heterogeneous, areas of necrosis likely present
+- Size by ultrasound: >35mm
+
+**Sampling via guide sheath:**
+- Forceps biopsies: 9 specimens (some friable, concerning for necrosis)
+- Brush cytology: 4 passes
+- Needle aspiration: 21G needle, 3 passes
+- BAL: 80cc in, 35cc returned
+
+**ROSE (Primary Tumor):**
+"Adequate sample. Malignant cells present. Poorly differentiated carcinoma, likely squamous cell carcinoma based on cytologic features. Differs from adenocarcinoma pattern sometimes seen - recommend awaiting permanent sections for final classification."
+
+**ADDITIONAL SAMPLING - ENDOBRONCHIAL COMPONENT:**
+
+Returned to LUL orifice. Visible endobronchial tumor on anterior segment ostium.
+
+Direct endobronchial biopsies: 4 specimens using standard forceps.
+
+ROSE: "Squamous cell carcinoma confirmed"
+
+Minimal bleeding from endobronchial biopsy site. Resolved with gentle suction.
+
+**COMPLETION:**
+
+Total procedure time: 67 minutes
+
+Patient tolerated well. No complications. Extubated to room air. Stable.
+
+**EBL:** ~15mL
+
+**SPECIMENS:**
+1. Station 5 TBNA x5
+2. Station 7 TBNA x4
+3. Station 10L TBNA x3
+4. LUL mass TBBx x9 (via EMN)
+5. LUL mass brushings x4
+6. LUL mass needle aspirate x3
+7. LUL mass BAL
+8. LUL endobronchial tumor biopsies x4
+
+**ROSE SUMMARY:**
+- N2 disease present (stations 5, 7)
+- N1 disease present (station 10L)
+- Primary tumor: Squamous cell carcinoma
+
+**IMPRESSION:**
+Stage IIIB squamous cell carcinoma of LUL (T3-4 given size/fissure involvement, N2-3, M0). Not surgical candidate. Needs definitive chemoradiation vs clinical trial.
+
+**PLAN:**
+- Brain MRI for staging
+- Tumor board discussion
+- Medical onc + radiation onc consults
+- F/u IP clinic 1 week
+
+CXR ordered post-procedure - prelim read shows no PTX.
+
+Dr. Sarah Williams - attending, present throughout

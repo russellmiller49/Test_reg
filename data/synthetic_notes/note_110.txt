@@ -1,0 +1,34 @@
+===============================================================================
+Patient: Sandra Lopez | MRN: TT-6849 | DOB: 12/05/1954
+
+PROBLEM LIST:
+#1 Mediastinal lymphadenopathy - needs tissue diagnosis
+#2 History of breast cancer (2019) - in remission
+#3 Chronic kidney disease stage 3
+
+SUBJECTIVE: 70F referred for EBUS evaluation of mediastinal nodes found on surveillance CT. Denies chest pain, hemoptysis, dyspnea. No PET scan performed due to renal dysfunction.
+
+OBJECTIVE:
+Procedure: EBUS-TBNA
+Sedation: Moderate (midazolam 2mg, fentanyl 50mcg) - limited doses due to CKD
+Ramsay: 3
+Vitals: Stable throughout, BP 128-142/75-82, SpO2 96-99% on RA
+
+Findings:
+- Station 2R: 8mm, sampled x3, ROSE shows metastatic adenocarcinoma consistent with breast primary
+- Station 4R: 12mm, sampled x4, ROSE positive for metastatic carcinoma
+- Station 7: 9mm, sampled x3, ROSE positive for metastatic carcinoma
+
+Systematic evaluation performed. All accessible stations photographed.
+
+ASSESSMENT:
+#1 Mediastinal lymphadenopathy - metastatic breast cancer confirmed
+#2 Breast cancer - recurrent disease, N2/N3 nodal involvement
+#3 CKD - tolerated sedation without issues
+
+PLAN:
+#1 Oncology referral for systemic therapy planning
+#2 Molecular profiling from station 4R sample
+#3 F/u renal function post-procedure
+
+Complications: None

@@ -1,0 +1,138 @@
+**PULMONARY PROCEDURE NOTE**
+
+NAME: Patel, Anjali K.
+DOB: 11/02/1979
+MRN: 4821956
+DOS: 03/12/2025
+PROVIDER: Christopher Hayes, MD (Attending)
+TRAINEE: Emily Watson, MD (IP Fellow)
+
+**PROCEDURE:** Ion Robotic Bronchoscopy, Bilateral Nodule Sampling
+
+**CLINICAL HISTORY:**
+45F never-smoker with incidental bilateral lung nodules discovered on CT for evaluation of chronic cough. RUL nodule 2.1cm, LUL nodule 1.6cm. Both PET avid (SUV 3.4 and 2.9 respectively). No lymphadenopathy. Patient referred for tissue diagnosis.
+
+**MEDICATIONS:**
+Home meds held per protocol. No anticoagulation.
+
+**PROCEDURE SUMMARY:**
+
+Pre-procedure CT (02/28/2025) loaded to Ion system. Dual-target navigation plan created for sequential sampling of RUL and LUL nodules.
+
+Patient received general anesthesia. ETT size 7.5 at 21cm at lips.
+
+Vent Settings: VC mode, TV 420mL, RR 12, PEEP 5, FiO2 60%, Flow rate 50L/min, Pmean 12cmH2O
+
+**ION REGISTRATION - COMPLETE:**
+Registration using automatic method. Landmarks matched: carina, bilateral lobar carinas, segmental bifurcations RUL/LUL. Mean fiducial error 0.9mm. Excellent global alignment. No registration drift observed.
+
+**TARGET 1 - RUL ANTERIOR SEGMENT NODULE:**
+
+Ion catheter navigated to RUL anterior segment. Tool-at-target confirmed by:
+- Navigation software showing 0.5cm distance
+- Radial EBUS concentric pattern, 19mm lesion
+- Fluoroscopy AP/lateral projections
+
+Samples:
+- Forceps biopsy x6
+- Brushings x2
+- Washing sent for cytology
+
+ROSE: Atypical pneumocytes, favor adenocarcinoma. Final pending.
+
+**TARGET 2 - LUL APICAL-POSTERIOR SEGMENT NODULE:**
+
+Catheter repositioned to LUL. Navigation time from RUL target to LUL target: 8 minutes.
+
+Radial EBUS: eccentric pattern initially, adjusted catheter position, achieved concentric pattern. Lesion 14mm.
+
+Samples:
+- Forceps biopsy x5
+- Brushings x2
+
+ROSE: Similar to RUL - atypical cells concerning for malignancy.
+
+**PROCEDURE COMPLETION:**
+
+Total procedure time: 62 minutes
+Total navigation time: 47 minutes
+Combined registration + navigation time to first nodule: 18 minutes
+
+Hemostasis verified. Airways cleared. Patient extubated successfully, to recovery in stable condition.
+
+Post-op CXR: No pneumothorax
+
+**ASSESSMENT:**
+Successful bilateral lung nodule sampling via robotic bronchoscopy. ROSE suggests possible synchronous primary lung cancers vs metastatic disease. Await final pathology. If malignant, will need PET/CT, brain MRI staging. Discussion at thoracic tumor board.
+
+**FOLLOW-UP:** IP clinic 2 weeks
+
+Dr. Christopher Hayes, Attending - electronically signed 03/12/2025 17:20
+**BRONCHOSCOPY PROCEDURE NOTE**
+
+Patient Identifier: Williams, Robert D. | 71M | MRN 9284756
+Date of Service: 10/18/2024
+Physician: Dr. Laura Martinez, Interventional Pulmonology
+Fellow Physician: Dr. Ahmed Hassan
+
+**Indication:** LLL nodule 2.8cm, hypermetabolic on PET scan
+
+**Procedure:** Electromagnetic Navigation Bronchoscopy with transbronchial biopsy and radial EBUS
+
+**Consent:** Obtained after discussion of risks including pneumothorax (~2%), bleeding (~1%), infection, need for additional procedures
+
+**Sedation:** Moderate conscious sedation - Midazolam 3mg IV, Fentanyl 100mcg IV. Monitoring by RN Sarah Cooper. Vitals stable throughout.
+
+**Procedure Details:**
+
+Flexible bronchoscope (Olympus BF-1TH190) introduced via oral route. Initial survey:
+- Oropharynx: unremarkable
+- Larynx: no masses, cords mobile
+- Trachea: midline, patent
+- Carina: sharp
+- Bilateral bronchial trees surveyed - no endobronchial lesions identified
+
+Pre-procedure CT from 10/05/2024 used for planning. SuperDimension electromagnetic navigation system employed.
+
+**EMN Planning and Navigation:**
+Virtual pathway created to LLL superior segment nodule. Registration performed automatically with good correlation (8 registration points matched, error <5mm acceptable).
+
+Extended working channel (EWC) placed. EMN locatable guide advanced along planned pathway. Position verified at multiple checkpoints. Distance to target upon final positioning: 0.8cm.
+
+**Radial EBUS:**
+1.4mm radial probe advanced through EWC. Ultrasound demonstrated:
+- Concentric hypoechoic lesion
+- Irregular borders
+- Size approximately 26mm
+- No visible vessels within sampling trajectory
+
+**Tissue Acquisition:**
+Through guide sheath (after probe removal):
+- Transbronchial forceps biopsies x 6 (sent to pathology in formalin)
+- Cytology brush specimens x 3 (sent to cytology)
+- Bronchial washing (sent for culture and cytology)
+
+No immediate bleeding. Gentle suctioning applied.
+
+**Rapid On-Site Evaluation (ROSE):**
+Cytotechnologist present. Preliminary read: "Adequate cellularity. Malignant cells present consistent with adenocarcinoma. Recommend full cell block for molecular testing."
+
+**Post-Procedure:**
+Patient tolerated procedure well. No desaturation. Maintained SpO2 >95% on 2L NC throughout. No complications.
+
+Portable CXR ordered - will check prior to discharge.
+
+**Specimens Sent:**
+1. TBBx x6 (histopathology)
+2. Cytology brushings x3
+3. Bronchial washing (microbiology and cytopathology)
+
+**Impression:** Successful EMN bronchoscopy with biopsy of LLL nodule. ROSE positive for malignancy. Await final pathology and molecular testing for treatment planning.
+
+**Plan:**
+- Discharge home today if CXR negative
+- Full staging workup (brain MRI, PET/CT if not recent)
+- Return to clinic in 1 week for pathology review
+- Referral to medical oncology and thoracic surgery for multidisciplinary evaluation
+
+Laura Martinez, MD - 10/18/2024

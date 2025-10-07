@@ -1,0 +1,145 @@
+**INTERVENTIONAL PULMONOLOGY PROCEDURE REPORT**
+
+**PATIENT INFORMATION:**
+Name: Morrison, Elizabeth Anne
+MRN: 2847593
+DOB: 06/11/1969
+Sex: Female
+Date of Service: 12/15/2024
+
+**CLINICAL TEAM:**
+Attending: Dr. Nicholas Foster, MD, FCCP
+Fellow: Dr. Amy Chen, MD
+Anesthesia: Dr. Robert Martinez, MD
+Nursing: RN Jessica Thompson
+Respiratory Therapy: RT Michael Davis
+
+**PROCEDURES PERFORMED:**
+1. Endobronchial ultrasound with transbronchial needle aspiration (EBUS-TBNA)
+2. Ion robotic navigational bronchoscopy
+3. Radial endobronchial ultrasound
+4. Transbronchial biopsy
+
+**CPT CODES:** 31652, 31653, 31627, 31654, 31628
+
+**INDICATIONS:**
+55-year-old female with 35 pack-year smoking history presents with:
+- Right lower lobe mass, 3.4cm, PET SUV 9.2
+- Mediastinal lymphadenopathy: Station 4R (2.1cm, SUV 5.8), Station 7 (1.8cm, SUV 4.3)
+- Requires both nodal staging and peripheral mass biopsy for diagnosis and treatment planning
+
+**CONSENT:**
+Comprehensive informed consent obtained. Risks discussed including but not limited to: bleeding (1-5%), pneumothorax (1-3%), infection (<1%), mediastinal complications (pericardial/vascular injury <0.1%), need for additional procedures, anesthesia-related complications. Patient expressed understanding and agreed to proceed.
+
+**ANESTHESIA:**
+General endotracheal anesthesia administered.
+- Induction: Propofol 200mg, Fentanyl 150mcg, Rocuronium 50mg
+- Maintenance: Sevoflurane, intermittent propofol boluses
+- ETT: 8.0mm at 22cm at teeth
+- Ventilation: Pressure control, Pinsp 18, RR 12, PEEP 5, FiO2 50%
+
+**PRE-PROCEDURE TIMEOUT:**
+Performed confirming patient identity (verbal + 2 identifiers), procedure planned, site/laterality confirmed, team introductions, equipment availability checked.
+
+**PROCEDURE NARRATIVE:**
+
+**PHASE 1: EBUS-TBNA FOR MEDIASTINAL STAGING**
+
+EBUS bronchoscope (Olympus BF-UC190F) introduced through ETT.
+
+Systematic mediastinal lymph node survey performed:
+
+**STATION 4R (Right paratracheal):**
+- Size: 22mm x 14mm
+- Ultrasound features: Hypoechoic, heterogeneous, discrete borders
+- Vascular pattern: Central hilar vessels present
+- Elastography: Predominantly hard (strain ratio 8.2, suggesting malignancy)
+- TBNA: 22-gauge needle, 4 passes
+- ROSE: "Abundant cellularity, malignant cells present, consistent with non-small cell carcinoma, favor adenocarcinoma"
+
+**STATION 7 (Subcarinal):**
+- Size: 19mm x 16mm
+- Ultrasound features: Hypoechoic, round, sharp borders
+- Elastography: Firm (strain ratio 6.8)
+- TBNA: 22-gauge needle, 4 passes
+- ROSE: "Similar malignant cells as 4R, adenocarcinoma"
+
+**Additional Stations Surveyed but Not Sampled:**
+- Station 10R: 8mm (below size threshold)
+- Station 11R: 6mm (not sampled - diagnostic yield from 4R/7 adequate)
+- Left-sided stations: No enlarged nodes identified
+
+**PHASE 2: ION ROBOTIC BRONCHOSCOPY FOR RLL MASS**
+
+After completing EBUS, EBUS scope removed. Ion robotic bronchoscope introduced.
+
+**Navigation Setup:**
+CT chest from 11/30/2024 loaded to Ion platform. 3D reconstruction showed target in RLL posterior basal segment.
+
+**Ion Registration:**
+Automatic registration performed. Landmarks matched at carina, RLL carina, and segmental bifurcations. Mean fiducial error: 1.3mm (acceptable). No registration drift observed.
+
+**Navigation to Target:**
+Ion catheter advanced under navigational guidance to RLL posterior basal segment. Real-time tracking showed tool-to-target distance of 0.7cm at final position.
+
+**Radial EBUS:**
+20MHz probe inserted through Ion extended working channel.
+- Pattern: Concentric (lesion centered around probe)
+- Size: 32mm diameter
+- Characteristics: Heterogeneous echogenicity, irregular margins, no visible vessels in immediate vicinity
+
+**CBCT Confirmation:**
+Cone-beam CT spin acquired. NaviLink 3D fusion overlay confirmed catheter tip within lesion borders, 4mm from lesion center.
+
+**Sampling of RLL Mass:**
+- Transbronchial biopsies: 8 specimens obtained via Ion catheter
+- Cytology brushings: 3 specimens
+- Bronchial washing: sent for cytology and microbiology
+
+**ROSE (Peripheral Lesion):**
+"Adequate samples. Malignant cells consistent with adenocarcinoma, morphologically similar to lymph node specimens. Recommend molecular testing."
+
+**HEMOSTASIS:**
+No significant bleeding from any biopsy sites. Airways clear.
+
+**PROCEDURE COMPLETION:**
+Total procedure time: 78 minutes
+EBUS portion: 32 minutes
+Ion bronchoscopy portion: 46 minutes
+
+Patient tolerated procedure well. Extubated in OR without difficulty. Transferred to PACU in stable condition, SpO2 98% on 2L NC.
+
+**ESTIMATED BLOOD LOSS:** <10mL
+
+**SPECIMENS:**
+1. Station 4R TBNA x 4 passes (cell block + cytology)
+2. Station 7 TBNA x 4 passes (cell block + cytology)
+3. RLL mass TBBx x 8 (formalin, histopathology - **ORDER MOLECULAR TESTING**)
+4. RLL mass brushings x 3 (cytology)
+5. RLL mass washing (cytology, bacterial/fungal/AFB cultures)
+
+**COMPLICATIONS:** None
+
+**PRELIMINARY FINDINGS:**
+- N2 disease confirmed (stations 4R, 7 both positive for adenocarcinoma)
+- Primary RLL adenocarcinoma confirmed
+- Stage: At least IIIA (T2bN2M0) pending full staging workup
+
+**POST-PROCEDURE PLAN:**
+1. Recovery room monitoring per protocol
+2. Chest X-ray in 2 hours to rule out pneumothorax
+3. Discharge home same day if stable and CXR clear
+4. Complete staging: Brain MRI, consider bone scan if not covered by PET
+5. Molecular testing: EGFR, ALK, ROS1, BRAF, PD-L1, broader NGS panel
+6. Multidisciplinary tumor board presentation next week
+7. Medical oncology referral for neoadjuvant therapy discussion
+8. Radiation oncology consultation
+9. Follow-up in IP clinic in 1 week with full pathology results
+
+**CLINICAL IMPRESSION:**
+Stage IIIA adenocarcinoma of the lung (RLL primary with N2 mediastinal involvement). Not a surgical candidate initially. Will likely require neoadjuvant chemoimmunotherapy with consideration for surgery after response assessment vs definitive chemoradiation. Molecular profiling pending.
+
+**ATTENDING STATEMENT:**
+I was present throughout the entire procedure, personally performed the critical portions including EBUS-TBNA and supervised the Ion navigation and sampling. I reviewed all ROSE results in real-time and made all clinical decisions.
+
+Electronically signed: Dr. Nicholas Foster, 12/15/2024 16:42
