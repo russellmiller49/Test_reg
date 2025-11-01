@@ -110,6 +110,195 @@
         "dap_cGy_cm2": {"type": "number", "minimum": 0}
       }
     },
+    "therapeutic_quality": {
+      "type": "object",
+      "properties": {
+        "fire_risk_mitigation_documented": {"type": ["boolean", "null"]},
+        "fluoroscopy_used": {"type": ["boolean", "null"]},
+        "dap_recorded": {"type": ["boolean", "null"]},
+        "cbct_used": {"type": ["boolean", "null"]}
+      }
+    },
+    "therapeutic": {
+      "type": "object",
+      "properties": {
+        "airway_obstruction_relief": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["site"],
+            "properties": {
+              "site": {"type": "string"},
+              "segment_length_cm": {"type": "number", "minimum": 0},
+              "pre_patency_percent": {"type": "number", "minimum": 0, "maximum": 100},
+              "post_patency_percent": {"type": "number", "minimum": 0, "maximum": 100},
+              "modalities": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["type"],
+                  "properties": {
+                    "type": {"enum": ["apc", "electrocautery", "laser", "cryo", "mechanical"]},
+                    "power_w": {"type": "number", "minimum": 0},
+                    "argon_flow_l_min": {"type": "number", "minimum": 0},
+                    "mode": {"type": "string"},
+                    "active_time_min": {"type": "number", "minimum": 0},
+                    "cycles": {"type": "integer", "minimum": 0},
+                    "freeze_time_s": {"type": "number", "minimum": 0},
+                    "thaw_time_s": {"type": "number", "minimum": 0},
+                    "fio2_at_therapy": {"type": "number", "minimum": 0.21, "maximum": 1.0}
+                  }
+                }
+              },
+              "hemostasis": {
+                "type": "object",
+                "properties": {
+                  "epi_ml_1_10000": {"type": "number", "minimum": 0},
+                  "txa_topical_mg": {"type": "number", "minimum": 0},
+                  "iced_saline_ml": {"type": "number", "minimum": 0},
+                  "agents": {
+                    "type": "array",
+                    "items": {"type": "string"}
+                  },
+                  "hemostasis_achieved": {"type": ["boolean", "null"]},
+                  "time_to_hemostasis_min": {"type": "number", "minimum": 0}
+                }
+              }
+            }
+          }
+        },
+        "balloon_dilation": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["location"],
+            "properties": {
+              "location": {"type": "string"},
+              "length_cm": {"type": "number", "minimum": 0},
+              "pre_narrowing_percent": {"type": "number", "minimum": 0, "maximum": 100},
+              "post_patency_percent": {"type": "number", "minimum": 0, "maximum": 100},
+              "mucosal_tearing_grade": {"type": "string"},
+              "inflations": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "diameter_mm": {"type": "number", "minimum": 0},
+                    "duration_s": {"type": "number", "minimum": 0}
+                  }
+                }
+              },
+              "hemostasis": {
+                "type": "object",
+                "properties": {
+                  "epi_ml_1_10000": {"type": "number", "minimum": 0},
+                  "txa_topical_mg": {"type": "number", "minimum": 0},
+                  "iced_saline_ml": {"type": "number", "minimum": 0},
+                  "agents": {"type": "array", "items": {"type": "string"}},
+                  "hemostasis_achieved": {"type": ["boolean", "null"]},
+                  "time_to_hemostasis_min": {"type": "number", "minimum": 0}
+                }
+              }
+            }
+          }
+        },
+        "hemoptysis_control": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "presentation_severity": {
+                "type": ["string", "null"],
+                "enum": ["minor", "moderate", "massive", null]
+              },
+              "estimated_blood_loss_ml": {"type": "number", "minimum": 0},
+              "techniques": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["type"],
+                  "properties": {
+                    "type": {
+                      "enum": [
+                        "iced_saline",
+                        "epinephrine",
+                        "tranexamic_acid",
+                        "tamponade",
+                        "blocker",
+                        "apc",
+                        "electrocautery",
+                        "cryo",
+                        "other"
+                      ]
+                    },
+                    "epi_ml_1_10000": {"type": "number", "minimum": 0},
+                    "txa_topical_mg": {"type": "number", "minimum": 0},
+                    "iced_saline_ml": {"type": "number", "minimum": 0}
+                  }
+                }
+              },
+              "hemostasis_achieved": {"type": ["boolean", "null"]},
+              "rebleed_within_24h": {"type": ["boolean", "null"]},
+              "ventilation_strategy": {"type": "string"}
+            }
+          }
+        },
+        "stent": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["location", "type"],
+            "properties": {
+              "location": {"type": "string"},
+              "type": {"enum": ["silicone", "metal"]},
+              "brand": {"type": "string"},
+              "diameter_mm": {"type": "number", "minimum": 0},
+              "length_mm": {"type": "number", "minimum": 0},
+              "deployment_success": {"type": ["boolean", "null"]},
+              "position_verification": {
+                "type": ["string", "null"],
+                "enum": ["bronchoscopic", "fluoro", "cbct", null]
+              },
+              "migration_preventive_measures": {
+                "type": "array",
+                "items": {"type": "string"}
+              },
+              "immediate_complications": {
+                "type": "array",
+                "items": {"type": "string"}
+              }
+            }
+          }
+        },
+        "foreign_body": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "description": {"type": "string"},
+              "tool": {"type": "string"},
+              "outcome": {"type": "string"}
+            }
+          }
+        },
+        "pdt": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["photosensitizer"],
+            "properties": {
+              "photosensitizer": {"type": "string"},
+              "dose_mg_per_kg": {"type": "number", "minimum": 0},
+              "drug_light_interval_hr": {"type": "number", "minimum": 0},
+              "wavelength_nm": {"type": "number", "minimum": 0},
+              "fiber_length_cm": {"type": "number", "minimum": 0},
+              "dosimetry_documented": {"type": ["boolean", "null"]},
+              "treated_segment": {"type": "string"}
+            }
+          }
+        }
+      }
+    },
     "safety": {
       "type": "object",
       "required": ["complications"],

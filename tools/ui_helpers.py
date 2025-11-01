@@ -7,6 +7,15 @@ import streamlit as st
 TriState = Tuple[Optional[bool], str, str]
 
 
+def tri_state_choice(choice: str) -> TriState:
+    """Convert a textual choice into tri-state tuple."""
+    if choice == "Yes":
+        return True, "present", ""
+    if choice == "No":
+        return False, "explicit_no", ""
+    return None, "not_documented", "unsure"
+
+
 def tri_state(label: str, key: str) -> TriState:
     """
     Tri-state radio returning (value, status, detail).
@@ -16,11 +25,7 @@ def tri_state(label: str, key: str) -> TriState:
     detail: optional reason ('unsure' if None by user choice)
     """
     choice = st.radio(label, ["Yes", "No", "Unsure"], horizontal=True, key=key)
-    if choice == "Yes":
-        return True, "present", ""
-    if choice == "No":
-        return False, "explicit_no", ""
-    return None, "not_documented", "unsure"
+    return tri_state_choice(choice)
 
 
 def gated_number(

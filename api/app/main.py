@@ -1,0 +1,23 @@
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+
+from .routers import router
+
+
+def create_app() -> FastAPI:
+    app = FastAPI(title="Bronchoscopy Registry API")
+
+    app.add_middleware(
+        CORSMiddleware,
+        allow_origins=["http://localhost:3000"],
+        allow_methods=["*"],
+        allow_headers=["*"],
+        allow_credentials=True,
+    )
+
+    app.include_router(router, prefix="/api")
+
+    return app
+
+
+app = create_app()

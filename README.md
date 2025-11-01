@@ -1,13 +1,13 @@
 # Bronchoscopy Registry
 
-Privacy-preserving bronchoscopy procedure registry with on-device AI extraction using Apple's Foundation Models framework.
+Privacy-preserving bronchoscopy procedure registry with web-based extraction and annotation tools.
 
 ## 🎯 Project Overview
 
 This project implements a comprehensive bronchoscopy registry system that:
-- Captures clinical notes via iOS camera
-- Performs on-device OCR and PHI redaction
-- Extracts structured data using Apple's Foundation Models
+- Captures clinical notes via web upload or text input
+- Performs OCR and PHI redaction (server-side or client-side)
+- Extracts structured data using LLM APIs
 - Submits de-identified data to a secure gateway
 - Provides quality metrics and analytics
 
@@ -16,7 +16,9 @@ This project implements a comprehensive bronchoscopy registry system that:
 - ✅ **144 synthetic bronchoscopy notes** generated and ready for annotation
 - ✅ **Annotation tool** built and ready to use
 - ✅ **Schema definitions** for procedure data
-- ✅ **iOS app foundation** (basic SwiftUI structure)
+- ✅ **Web frontend** (Next.js/React) in development
+- ✅ **Backend API** (FastAPI) structure in place
+- 📦 **iOS app files** preserved in `ios/` directory for future development
 - 🔄 **Annotation in progress** (target: 50-100 annotated notes)
 
 ## 🚀 Quick Start
@@ -41,6 +43,17 @@ Open browser to `http://localhost:8501`
 
 ```
 Bronch_registry/
+├── api/                           # Backend API (FastAPI)
+│   ├── app/                       # Application code
+│   └── requirements.txt           # Python dependencies
+├── frontend/                      # Web frontend (Next.js/React)
+│   ├── src/                       # Source code
+│   └── package.json               # Node dependencies
+├── ios/                           # iOS app (preserved for future)
+│   ├── Bronch_registryApp.swift   # iOS app entry point
+│   ├── ContentView.swift          # iOS app main view
+│   ├── Assets.xcassets/           # iOS assets
+│   └── README.md                  # iOS development notes
 ├── data/synthetic_notes/          # 144 clinical notes (note_001.txt - note_144.txt)
 ├── tools/                         # Annotation and processing tools
 │   ├── annotate_streamlit.py      # Interactive annotation interface
@@ -49,20 +62,24 @@ Bronch_registry/
 ├── schemas/                       # Data schemas and codebooks
 │   ├── bronchoscopy_procedure.schema.json
 │   └── codebooks/
+├── bronch_schema/                 # Python data models (Pydantic)
 ├── examples/                      # Example submissions
 ├── eval/data/                     # Annotated training data (generated)
-├── Bronch_registryApp.swift       # iOS app entry point
-├── ContentView.swift              # iOS app main view
-└── REGISTRY_MASTER_PLAN.md        # Complete implementation plan
+├── REGISTRY_MASTER_PLAN.md        # Complete implementation plan
+└── FILES_TO_PORT.md              # Guide for porting to web version
 ```
 
 ## 🎯 Next Steps
 
 1. **Complete annotation** of 50-100 notes using the Streamlit tool
-2. **Build iOS app** with document capture and redaction
-3. **Implement Foundation Models** extraction
+2. **Implement extraction service** (Python) using LLM APIs
+3. **Enhance web frontend** with extraction and editing capabilities
 4. **Deploy gateway** for data collection
 5. **Create metrics dashboard**
+
+## 📱 iOS Development
+
+iOS app files are preserved in the `ios/` directory for potential future development. See [ios/README.md](ios/README.md) for details.
 
 ## 📋 Data Schema
 
@@ -83,6 +100,8 @@ The registry captures structured data including:
 ## 📚 Documentation
 
 - [Master Implementation Plan](REGISTRY_MASTER_PLAN.md) - Complete 12-14 week roadmap
+- [Files to Port Guide](FILES_TO_PORT.md) - Guide for web version migration
+- [iOS Development Notes](ios/README.md) - iOS app preservation notes
 - [Tool Documentation](tools/README.md) - Annotation and processing tools
 - [Schema Reference](schemas/bronchoscopy_procedure.schema.json) - Data structure
 
